@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "lichereT1.png",
+      "position" : [8, 12],
+      "fullbright" : true
+    },
+    {
+      "image" : "lichereT1lit.png",
+      "position" : [8, 12]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "lichereT0blocks.png"
+}

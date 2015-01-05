@@ -1,0 +1,37 @@
+{
+  "objectName" : "lichereshiplocker",
+  "rarity" : "Common",
+  "objectType" : "container",
+
+  "category" : "storage",
+  "description" : "Store some stuff, why don't you?",
+  "shortdescription" : "Shiplocker",
+  "race" : "lichere",
+  "lightColor" : [113, 15, 15],
+
+  "apexDescription" : "A storage system, for clothes it would seem.",
+  "avianDescription" : "Storage. I don't feel comfortable on this ship.",
+  "floranDescription" : "Floran ssee clothess insside window. Not need them.",
+  "glitchDescription" : "Curious. Who designed this technology?",
+  "humanDescription" : "Most of the tech on this ship doesn't appear to be of an origin that I am familiar with.",
+  "hylotlDescription" : "Curious.",
+
+  "inventoryIcon" : "lichereshiplockericon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "lichereshiplocker.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereshiplockerlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 22,
+      "animationCycle" : 2,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/screen4.wav" ],
+  "closeSounds" : [ "/sfx/objects/screen5.wav" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest%slots%.config",
+  "frameCooldown" : 11,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,15 @@
+[
+  {
+  "op" : "add",
+  "path" : "/lichereStarterTreasure",
+  "value" : [
+      [0, {
+      "fill" : [
+        {"item" : [ "redflashlight", 1]},
+        {"item" : [ "corefragmentore", 20]},
+        {"item" : [ "licherestarter", 1]}
+      ]
+    } ]
+  ]
+  }
+]

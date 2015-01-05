@@ -1,0 +1,12 @@
+[
+  {
+  "op" : "add",
+  "path" : "/initialcodex/lichere",
+  "value" : [ "controls", "floranprologue", "floranorigins", "floranambition", "survivalguide" ]
+  },
+  {
+  "op" : "test",
+  "path" : "/initialcodex/lichere",
+  "value" : [ "controls", "floranprologue", "floranorigins", "floranambition", "survivalguide" ]
+  }
+]

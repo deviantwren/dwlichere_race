@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "lichereT8.png",
+      "position" : [12, 34],
+	  "fullbright" : true
+    },
+    {
+      "image" : "lichereT8lit.png",
+      "position" : [12, 34]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "lichereT8blocks.png"
+}

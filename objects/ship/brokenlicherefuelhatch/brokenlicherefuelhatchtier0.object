@@ -1,0 +1,41 @@
+{
+  "objectName" : "brokenlicherefuelhatchTier0",
+  "rarity" : "Common",
+  "description" : "It's the fuel hatch. It's malfunctioning.",
+  "shortdescription" : "Broken Fuel Hatch",
+  "race" : "lichere",
+  "lightColor" : [0, 255, 162],
+
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.0,
+  "flickerMaxIntensity" : 0.2,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "Hah. Sabotaged. Augh! Flees!",
+  "avianDescription" : "That should slow the ship down!",
+  "floranDescription" : "Flicker-flicker! Bzz-bzz. Like dying glitch. Glitch-glitch.",
+  "glitchDescription" : "Excited. It's busted!",
+  "humanDescription" : "A fuel panel. It's broken.",
+  "hylotlDescription" : "Fuel is the lifeblood of exploration, so now they cannot go anywhere.",
+  
+  "breakDropOptions" : [],
+
+  "inventoryIcon" : "licherebrokenfuelhatchicon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "brokenlicherefuelhatchTier0.png:<color>.<frame>", "fullbright" : true }, { "image" : "brokenlicherefuelhatchlitTier0.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, -16],
+      "frames" : 16,
+      "animationCycle" :2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "soundEffect" : "/sfx/interface/ship_error1.wav",
+  "soundEffectRadius" : 15
+  
+}

@@ -1,0 +1,36 @@
+{
+  "objectName" : "lichereteleporter",
+  "rarity" : "Common",
+  "interactAction" : "OpenShipTeleporterDialog",
+  "description" : "A teleportation device.",
+  "shortdescription" : "Teleporter",
+  "race" : "lichere",
+
+  "apexDescription" : "Glugh! I feel like I'm going to have another round of baboon butt.",
+  "avianDescription" : "This teleporter disturbs my gizzard.",
+  "floranDescription" : "Floran feel confusssed during teleport.",
+  "glitchDescription" : "Annoyed. This teleporter causes interference with my optical pathways with sleep sequence.",
+  "humanDescription" : "Teleporting is a huge rush.",
+  "hylotlDescription" : "Teleporting feels like diving into the ocean from a mountain top.",
+
+  "category" : "light",
+  "lightColor" : [113, 15, 15],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 4,
+
+  "inventoryIcon" : "lichereteleportericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "lichereteleporter.png:<color>", "fullbright" : true }, { "image" : "lichereteleporterlit.png:<color>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid"
+    }
+  ]
+}

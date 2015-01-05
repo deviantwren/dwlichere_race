@@ -1,0 +1,24 @@
+{
+  "name" : "dwlichere_race",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "dependencies" : ["dwccextender"],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Adds a full-fledged race, the Lichere species, a genetic cousin of the Floran.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}
+
+//modify recipe for flaglichere in /recipes/plain/ - move this under lichere crafting table
+//create a lichere crafting table of sorts; put lichere starting clothes in there
+//like a robotic table, but with a third arm, and pretty dark
+//all-dark (skin / hair & clothes) options suggest more fixes for hair color saturation (more contrast necessary)
+//create lichere core fabrication device...and erchius core device
+//this does not replace either, but is something they have to be made into?  Ugh, that would take modifying the quest...
+//deal with working fuel hatch too
+//figure out alarm.lua
+//Why doesn't dying use lichere respawn...
+//adde lichere armor cosmetic items still?  dif colors than armor?  maybe all black?
+//with all color options you're effectively adding 630 [ 10(tiers)*3(chest, legs, helmet)*21(# of colors) ] items to the game...
+//widen the .frame files by one, and widen the humanoid .pngs by one; this means my armors have to be widened too

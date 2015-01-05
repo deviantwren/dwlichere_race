@@ -1,0 +1,46 @@
+{
+  "objectName" : "lichereshipdoor",
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 5000,
+  "description" : "A door. Possibly suitable for a spaceship.",
+  "shortdescription" : "Lichere Ship Door",
+  "race" : "lichere",
+
+  "apexDescription" : "That's a puzzling bit of engineering.",
+  "avianDescription" : "An unimpressive door.",
+  "floranDescription" : "Block door!",
+  "glitchDescription" : "Inquisitive. I must ponder how this door works.",
+  "humanDescription" : "That's a brilliant door!",
+  "hylotlDescription" : "The design is appealing and eloquent in the utmost.",
+
+  "inventoryIcon" : "lichereshipdooricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lichereshipdoor.png:default",
+      "imagePosition" : [-20, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : [ "/sfx/objects/apexstatue3_switchon.wav" ],
+      "close" : [ "/sfx/objects/apexstatue3_switchoff.wav" ]
+    }
+  },
+  "animationParts" : {
+    "door" : "lichereshipdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inboundNodes" : [ [-1, 4] ],
+  "outboundNodes" : [ [0, 0] ]
+}

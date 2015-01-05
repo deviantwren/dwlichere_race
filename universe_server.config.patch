@@ -1,0 +1,12 @@
+[
+  {
+  "op" : "add",
+  "path" : "/speciesShips/lichere",
+  "value" : ["/ships/lichere/lichereT0.structure", "/ships/lichere/lichereT1.structure", "/ships/lichere/lichereT2.structure", "/ships/lichere/lichereT3.structure", "/ships/lichere/lichereT4.structure", "/ships/lichere/lichereT5.structure", "/ships/lichere/lichereT6.structure", "/ships/lichere/lichereT7.structure", "/ships/lichere/lichereT8.structure"]
+  },
+  {
+  "op" : "test",
+  "path" : "/speciesShips/lichere",
+  "value" : ["/ships/lichere/lichereT0.structure", "/ships/lichere/lichereT1.structure", "/ships/lichere/lichereT2.structure", "/ships/lichere/lichereT3.structure", "/ships/lichere/lichereT4.structure", "/ships/lichere/lichereT5.structure", "/ships/lichere/lichereT6.structure", "/ships/lichere/lichereT7.structure", "/ships/lichere/lichereT8.structure"]
+  }
+]

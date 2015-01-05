@@ -1,0 +1,30 @@
+[
+  {
+  "op" : "add",
+  "path" : "/speciesText/lichere",
+  "value" : {
+      "buttonText" : "Enable Teleporter",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The short range teleporter will take you to the planet's surface. Be careful down there hehehe.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "^green;The teleporter ^#aee1ee;is enabled! Go! Spread your wings my little birdy, find us the things we need to fix the ship's thrusters.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+]

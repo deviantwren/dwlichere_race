@@ -1,0 +1,32 @@
+{
+  "objectName" : "lichereteleporterTier0",
+  "rarity" : "Common",
+  "objectType" : "noisy",
+  "category" : "decorative",
+  "description" : "Trusty teleporter, what would I do without you? Of human design.",
+  "shortdescription" : "Teleporter",
+  "race" : "lichere",
+
+  "apexDescription" : "Glugh! I feel like I'm going to have another round of baboon butt.",
+  "avianDescription" : "This teleporter disturbs my gizzard.",
+  "floranDescription" : "Floran feel confusssed during teleport.",
+  "glitchDescription" : "Annoyed. This teleporter causes interference with my optical pathways with sleep sequence.",
+  "humanDescription" : "Teleporting is a huge rush.",
+  "hylotlDescription" : "Teleporting feels like diving into the ocean from a mountain top.",
+
+  "inventoryIcon" : "lichereteleportericonTier0.png",
+  "orientations" : [
+    {
+      "image" : "lichereteleporterTier0.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid"
+    }
+  ],
+  
+  "sounds" : [ "/sfx/interface/ship_error1.wav" ]
+}

@@ -1,0 +1,40 @@
+{
+  "objectName" : "licheretechstationTier0",
+  "rarity" : "Common",
+
+  "interactAction" : "OpenAiInterface",
+
+  "category" : "decorative",
+  "price" : 5000,
+  "lightColor" : [113, 15, 15],
+  "lightPosition" : [-1, 0],
+  
+  "flickerDistance" : 1.0,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 8,
+
+  "description" : "A tech station. For creating awesome tech!",
+  "shortdescription" : "Tech Station",
+  "race" : "lichere",
+
+  "apexDescription" : "A tech station? Let's see if I can understand the interface.",
+  "avianDescription" : "It appears to be a tech station.",
+  "floranDescription" : "Floran bang on flashy lights. Fun!",
+  "glitchDescription" : "Perplexed. Who designed this technology?",
+  "humanDescription" : "A tech station, I believe.",
+  "hylotlDescription" : "It appears to be a tech station.",
+
+  "inventoryIcon" : "licheretechstationiconTier0.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "licheretechstationTier0.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheretechstationlitTier0.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

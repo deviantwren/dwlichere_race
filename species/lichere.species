@@ -1,0 +1,275 @@
+{
+  "kind" : "lichere",
+  "nameGen" : [ "/species/licherenamegen.config:names", "/species/licherenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/licherehurt_male1.wav", "/sfx/humanoid/licherehurt_female1.wav" ],
+  "charGenTextLabels" : [ "SKIN COLOR", "FOLIAGE", "SHIRT", "PANTS", "LEAF COLOR", "FLOWER COLOR", "SHIRT COLOR", "PANTS COLOR", "FLORAN", "PERSONALITY" ],
+  "skull" : "/humanoid/lichere/dead.png",
+  "defaultBlueprints" : {
+    "tier1" : [
+      { "item" : "florantier1hammer" },
+      { "item" : "florantier1shortsword" },
+      { "item" : "florantier1broadsword" },
+      { "item" : "florantier1spear" },
+      { "item" : "florantier1axe" },
+      { "item" : "florantier1dagger" },
+      { "item" : "florantier1head" },
+      { "item" : "florantier1chest" },
+      { "item" : "florantier1pants" },
+      { "item" : "licherefurnivourchest" },
+      { "item" : "licherefurnivourlegs" },
+      { "item" : "licherehunterchest" },
+      { "item" : "licherehunterlegs" },
+      { "item" : "lichereleafchest" },
+      { "item" : "lichereleaflegs" },
+      { "item" : "licherepeltchest" },
+      { "item" : "licherepeltlegs" },
+      { "item" : "licheresurvivalistchest" },
+      { "item" : "licheresurvivalistlegs" },
+      
+      { "item" : "flaglichere" },
+      
+      { "item" : "florantier2hammer" },
+      { "item" : "florantier2shortsword" },
+      { "item" : "florantier2broadsword" },
+      { "item" : "florantier2spear" },
+      { "item" : "florantier2axe" },
+      { "item" : "florantier2dagger" },
+      { "item" : "florantier2head" },
+      { "item" : "florantier2chest" },
+      { "item" : "florantier2pants" },
+      
+      { "item" : "florantier3head" },
+      { "item" : "florantier3chest" },
+      { "item" : "florantier3pants" },
+      { "item" : "florantier3hammer" },
+      { "item" : "florantier3shortsword" },
+      { "item" : "florantier3broadsword" },
+      { "item" : "florantier3spear" },
+      { "item" : "florantier3axe" },
+      { "item" : "florantier3dagger" },
+      
+      { "item" : "florantier4head" },
+      { "item" : "florantier4chest" },
+      { "item" : "florantier4pants" },
+      { "item" : "florantier4hammer" },
+      { "item" : "florantier4shortsword" },
+      { "item" : "florantier4broadsword" },
+      { "item" : "florantier4spear" },
+      { "item" : "florantier4axe" },
+      { "item" : "florantier4dagger" },
+      
+      { "item" : "florantier5head" },
+      { "item" : "florantier5chest" },
+      { "item" : "florantier5pants" },
+      { "item" : "florantier5dagger" },
+      
+      { "item" : "florantier6head" },
+      { "item" : "florantier6chest" },
+      { "item" : "florantier6pants" },
+      { "item" : "florantier6dagger" },
+      
+      { "item" : "florantier7head" },
+      { "item" : "florantier7chest" },
+      { "item" : "florantier7pants" },
+      
+      { "item" : "florantier8head" },
+      { "item" : "florantier8chest" },
+      { "item" : "florantier8pants" },
+      { "item" : "florantier8hammer" },
+      { "item" : "florantier8shortsword" },
+      { "item" : "florantier8broadsword" },
+      { "item" : "florantier8spear" },
+      { "item" : "florantier8axe" },
+      { "item" : "florantier8dagger" },
+      
+      { "item" : "florantier9head" },
+      { "item" : "florantier9chest" },
+      { "item" : "florantier9pants" },
+      
+      { "item" : "florantier10head" },
+      { "item" : "florantier10chest" },
+      { "item" : "florantier10pants" },
+      { "item" : "florantier10hammer" },
+      { "item" : "florantier10shortsword" },
+      { "item" : "florantier10broadsword" },
+      { "item" : "florantier10spear" },
+      { "item" : "florantier10axe" },
+      { "item" : "florantier10dagger" }
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/badplantmaleicon.png",
+      "characterImage" : "/interface/title/badplantmale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80" ],
+      "shirt" : [ "licherefurnivourchest", "licherehunterchest", "lichereleafchest", "licherepeltchest", "licheresurvivalistchest" ],
+      "pants" : [ "licherefurnivourlegs", "licherehunterlegs", "lichereleaflegs", "licherepeltlegs", "licheresurvivalistlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/badplantfemaleicon.png",
+      "characterImage" : "/interface/title/badplantfemale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80" ],
+      "shirt" : [ "licherefurnivourchest", "licherehunterchest", "lichereleafchest", "licherepeltchest", "licheresurvivalistchest" ],
+      "pants" : [ "licherefurnivourlegs", "licherehunterlegs", "lichereleaflegs", "licherepeltlegs", "licheresurvivalistlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    /* DESATURATED SIERRA RED */
+    { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
+  /*/* DESATURATED DUSTY ROSE */
+    { "ffca8a" : "91493d", "e0975c" : "723930", "a85636" : "552b24", "6f2919" : "3d1f1a" },
+    /* DESATURATED CHALLENGE RED */
+    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
+    /* DESATURATED CAKED MUSTARD */
+    { "ffca8a" : "62573a", "e0975c" : "524930", "a85636" : "443d28", "6f2919" : "3a3322" },
+    /* DESATURATED YELLOW-GREEN */
+    { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DESATURATED VILE GUACAMOLE */
+    { "ffca8a" : "5c5435", "e0975c" : "50492e", "a85636" : "3d3923", "6f2919" : "2e2c1c" },
+    /* DESATURATED ARMY GREEN */
+    { "ffca8a" : "616043", "e0975c" : "54533a", "a85636" : "3f402c", "6f2919" : "313123" },
+    /* DESATURATED DRY LICHEN */
+    { "ffca8a" : "68705c", "e0975c" : "5d6452", "a85636" : "43483a", "6f2919" : "32342c" },
+    /* DESATURATED TOY GREEN */
+    { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
+    /* DESATURATED AQUA MARINE */
+    { "ffca8a" : "48665f", "e0975c" : "3f5953", "a85636" : "2c403b", "6f2919" : "1f2d29" },
+    /* DESATURATED SUGAR BLUE */
+    { "ffca8a" : "495369", "e0975c" : "40495c", "a85636" : "303644", "6f2919" : "242934" },
+    /* DESATURATED VELVET BLUE-DUSK */
+    { "ffca8a" : "384d5e", "e0975c" : "304352", "a85636" : "1e2932", "6f2919" : "141c22" },
+    /* DESATURATED MIDNIGHT BLUE */
+    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
+  /*/* DESATURATED PURPLE DUSK */
+    { "ffca8a" : "5a5161", "e0975c" : "4f4755", "a85636" : "3c3442", "6f2919" : "2f2636" },
+    /* DESATURATED DARK ROSE PURPLE */
+    { "ffca8a" : "5e4556", "e0975c" : "513b4a", "a85636" : "3b2b36", "6f2919" : "261c23" },
+    /* DESATURATED SUGAR PURPLE */
+    { "ffca8a" : "603653", "e0975c" : "532f48", "a85636" : "331d2d", "6f2919" : "23131e" },
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" }
+  ],
+  "undyColor" : [
+    /* DESATURATED CHERRY */
+    { "f7e7b2" : "9c4848", "d9c189" : "7c3434", "a38d59" : "642e2e", "735e3a" : "522222" },
+    /* DESATURATED DUSTY CHERRY */
+    { "f7e7b2" : "875d5d", "d9c189" : "6b4545", "a38d59" : "573b3b", "735e3a" : "472d2d" },
+    /* DESATURATED BLOOD */
+    { "f7e7b2" : "682a2a", "d9c189" : "4b1d1d", "a38d59" : "381818", "735e3a" : "2e1212" },
+    /* DESATURATED ROSE */
+    { "f7e7b2" : "5a3838", "d9c189" : "402828", "a38d59" : "302020", "735e3a" : "281818" },
+    /* DESATURATED ORANGE */
+    { "f7e7b2" : "6a3c28", "d9c189" : "4c2b1c", "a38d59" : "392217", "735e3a" : "2f1b11" },
+    /* DESATURATED MUTED CHARCOAL */
+    { "f7e7b2" : "5e584a", "d9c189" : "454137", "a38d59" : "2e2b24", "735e3a" : "1c1a16" },
+    /* DESATURATED BONE */
+    { "f7e7b2" : "e0dbca", "d9c189" : "beb6a4", "a38d59" : "8a8372", "735e3a" : "615a4d" },
+    /* DESATURATED CREAM BASE */
+    { "f7e7b2" : "ebe1bf", "d9c189" : "cabb98", "a38d59" : "958867", "735e3a" : "695c45" },
+    /* CREAM BASE */
+    { "f7e7b2" : "f7e7b2", "d9c189" : "d9c189", "a38d59" : "a38d59", "735e3a" : "735e3a" },
+    /* DESATURATED BARK */
+    { "f7e7b2" : "65584d", "d9c189" : "4f3f33", "a38d59" : "302720", "735e3a" : "211a15" },
+    /* DESATURATED BARK BROWN */
+    { "f7e7b2" : "705742", "d9c189" : "5b3d27", "a38d59" : "382618", "735e3a" : "261910" },
+    /* DESATURATED ROTTED AVACADO */
+    { "f7e7b2" : "695f45", "d9c189" : "4f4733", "a38d59" : "393425", "735e3a" : "2c271c" },
+    /* DESATURATED EXPOSED AVACADO */
+    { "f7e7b2" : "7a6734", "d9c189" : "5b4d27", "a38d59" : "42391c", "735e3a" : "332a15" },
+    /* DESATURATED FERN */
+    { "f7e7b2" : "636151", "d9c189" : "4b4c42", "a38d59" : "36372f", "735e3a" : "24251f" },
+    /* DESATURATED FERN GREEN */
+    { "f7e7b2" : "6b6849", "d9c189" : "50503e", "a38d59" : "393a2c", "735e3a" : "26261e" },
+    /* DESATURATED FOREST SHADOW */
+    { "f7e7b2" : "2c392b", "d9c189" : "1e261e", "a38d59" : "171d17", "735e3a" : "111711" },
+    /* DESATURATED FOREST GREEN */
+    { "f7e7b2" : "263f25", "d9c189" : "1a2b19", "a38d59" : "152014", "735e3a" : "10190f" },
+    /* DESATURATED STORM TEAL */
+    { "f7e7b2" : "505c5c", "d9c189" : "3a4546", "a38d59" : "303838", "735e3a" : "262c2c" },
+    /* DESATURATED SUGAR TEAL */
+    { "f7e7b2" : "567e77", "d9c189" : "275b51", "a38d59" : "183832", "735e3a" : "102621" },
+    /* DESATURATED TEAL */
+    { "f7e7b2" : "5f7571", "d9c189" : "334f49", "a38d59" : "20302d", "735e3a" : "15211e" },
+    /* DESATURATED BLUE TOY */
+    { "f7e7b2" : "524f8f", "d9c189" : "363466", "a38d59" : "27264c", "735e3a" : "1c1a34" },
+    /* DESATURATED DARK LAVANDER DUST */
+    { "f7e7b2" : "605e80", "d9c189" : "41405a", "a38d59" : "303042", "735e3a" : "21202e" },
+    /* DESATURATED BLUE DEEP */
+    { "f7e7b2" : "32486a", "d9c189" : "1f2d43", "a38d59" : "16202e", "735e3a" : "0e141e" },
+    /* DESATURATED DEEP GREY-BLUE */
+    { "f7e7b2" : "404b5c", "d9c189" : "282f3a", "a38d59" : "1c2128", "735e3a" : "12151a" },
+    /* DESATURATED FADED FUSCIA */
+    { "f7e7b2" : "8a5a7d", "d9c189" : "6c4461", "a38d59" : "583a50", "735e3a" : "472d40" },
+    /* DESATURATED FADED ROSE */
+    { "f7e7b2" : "7e6678", "d9c189" : "624e5d", "a38d59" : "50424d", "735e3a" : "41333d" },
+    /* DESATURATED WINE PURPLE */
+    { "f7e7b2" : "682a57", "d9c189" : "4b1d3f", "a38d59" : "38182f", "735e3a" : "2e1226" },
+    /* DESATURATED DULL WINE */
+    { "f7e7b2" : "5a3851", "d9c189" : "40283a", "a38d59" : "30202c", "735e3a" : "281823" },
+    /* DESATURATED PURPLE */
+    { "f7e7b2" : "472a68", "d9c189" : "331d4b", "a38d59" : "271838", "735e3a" : "1f122e" },
+    /* DESATURATED PURPLE DUSK */
+    { "f7e7b2" : "48385a", "d9c189" : "332840", "a38d59" : "282030", "735e3a" : "1f1828" }
+  ],
+  "hairColor" : [
+    /* DESATURATED ROSE FADE */
+    { "f32200" : "945d54", "dc1f00" : "754a43", "be1b00" : "523b35" },
+    /* DESATURATED AWESOME RED */
+    { "f32200" : "6f271b", "dc1f00" : "591f15", "be1b00" : "411610" },
+    /* DESATURATED MAHOGANY */
+    { "f32200" : "561d14", "dc1f00" : "3f160f", "be1b00" : "30110c" },
+  /*/* DESATURATED PUMPKIN ORANGE */
+    { "f32200" : "a56333", "dc1f00" : "86502a", "be1b00" : "724523" },
+  /*/* DESATURATED BROWN SUGAR */
+    { "f32200" : "634f3b", "dc1f00" : "4b4036", "be1b00" : "3b322a" },
+    /* DESATURATED ROOT BEER */
+    { "f32200" : "5a3b36", "dc1f00" : "442d29", "be1b00" : "3a2723" },
+  /*/* DESATURATED MUSTARD */
+    { "f32200" : "ac853a", "dc1f00" : "8d6e30", "be1b00" : "6e5626" },
+  /*/* DESATURATED AVACADO */
+    { "f32200" : "83854d", "dc1f00" : "747645", "be1b00" : "62633b" },
+    /* DESATURATED SAGE */
+    { "f32200" : "605c4e", "dc1f00" : "49463a", "be1b00" : "39372f" },
+  /*/* DESATURATED SUBDUED GREEN */
+    { "f32200" : "59664e", "dc1f00" : "4a5541", "be1b00" : "394131" },
+    /* DESATURATED OCEAN TEAL */
+    { "f32200" : "324e42", "dc1f00" : "223e32", "be1b00" : "1f352b" },
+    /* DESATURATED FOREST DUSK */
+    { "f32200" : "38402e", "dc1f00" : "2d3325", "be1b00" : "21261c" },
+  /*/* DESATURATED BLUE DUSK */
+    { "f32200" : "595c75", "dc1f00" : "404253", "be1b00" : "30313e" },
+  /*/* DESATURATED FADED COBALT */
+    { "f32200" : "384d70", "dc1f00" : "293850", "be1b00" : "222c3e" },
+    /* DESATURATED BLUE MIDNIGHT */
+    { "f32200" : "2f3345", "dc1f00" : "262936", "be1b00" : "1c1e26" },
+  /*/* DESATURATED PURPLE DUSK */
+    { "f32200" : "523c5a", "dc1f00" : "3b2b41", "be1b00" : "2f2233" },
+  /*/* DESATURATED PURPLE VELVET */
+    { "f32200" : "67274b", "dc1f00" : "4b1c36", "be1b00" : "37182a" },
+    /* DESATURATED PURPLE SHADOWS */
+    { "f32200" : "433f45", "dc1f00" : "3a353b", "be1b00" : "2e2b2f" },
+    /* DESATURATED BONE */
+    { "f32200" : "beb6a4", "dc1f00" : "898373", "be1b00" : "60594e" },
+    /* DESATURATED SLATE */
+    { "f32200" : "464640", "dc1f00" : "363632", "be1b00" : "2a2a26" },
+    /* DESATURATED CHARCOAL */
+    { "f32200" : "413e34", "dc1f00" : "2e2c25", "be1b00" : "23211c" }
+  ]
+}

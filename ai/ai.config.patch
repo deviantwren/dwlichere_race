@@ -1,0 +1,47 @@
+[
+  {
+  "op" : "add",
+  "path" : "/species/lichere",
+  "value" : {
+      "aiFrames" : "floranAi.png",
+      "staticFrames" : "staticAvian.png",
+      "openSpeech" : {
+        "0" : [
+          {
+            "animation" : "unique",
+            "text" : "SystemNotice: User input caused fatal malfunction.",
+            "speedModifier" : 0.5
+          }
+        ],
+        "1" : [
+          {
+            "animation" : "talk",
+            "text" : "SystemNotice: User lockout failed. Activing FTL drive or thrusters will cause permanent damage. coreFailsafe() executed: ^orange;Core fragments^green; ejected.",
+            "speedModifier" : 1.0
+          }
+        ],
+        "2" : [
+          {
+            "animation" : "talk",
+            "text" : "SystemNotice: Thrusters online. Core temperature fluctuations detected. Catastrophic malfunction in FLT drive. ^orangeEjecting erchius crystals. ^greenJamming frequencies from Gateway Outpost.",
+            "speedModifier" : 1.0
+          }
+        ],
+        "3" : [
+          {
+            "animation" : "talk",
+            "text" : "SystemNotice: User priveleges restored. Setting AI privelege to 0. FTL spooling up.",
+            "speedModifier" : 1.0
+          }
+        ]
+      },
+      "techIntro" : [
+        {
+          "animation" : "talk",
+          "text" : "SystemNotice: Scanning lifeform.  Biological anomolies detected. ^green;Augmentation device standing by for ^orange;tech card and nano suit integration.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+]

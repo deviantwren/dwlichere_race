@@ -1,0 +1,45 @@
+{
+  "objectName" : "flaglichere",
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "crafting",
+  "price" : 100,
+
+  "description" : "A stripy flag.",
+  "shortdescription" : "Lichere Flag",
+  "race" : "lichere",
+
+  "apexDescription" : "This flag could come in useful if I have a spell of diarrhoea today.",
+  "avianDescription" : "An odd flag.  It makes me feel... nothing.  Still nothing.",
+  "floranDescription" : "Sstupid flag. Floran find breather to sssuffocate with it!",
+  "glitchDescription" : "Report. Optical processor inputting error code 410.  Optical analysis initializing...",
+  "humanDescription" : "Did someone put their clothes up on a flagpole?",
+  "hylotlDescription" : "At least it's not a Floran flag.",
+
+
+  "inventoryIcon" : "flaglichereicon.png",
+  "orientations" : [
+    {
+      "image" : "flaglichere.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flaglichere.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

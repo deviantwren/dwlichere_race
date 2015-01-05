@@ -1,0 +1,40 @@
+{
+  "objectName" : "licherefuelhatch",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "description" : "Accepts a bunch of different kinds of fuel. Of Lichere design.",
+  "shortdescription" : "Fuel Hatch",
+  "race" : "lichere",
+  "price" : 5000,
+  "lightColor" : [0, 255, 162],
+
+  "apexDescription" : "Stealing fuel is freedom.",
+  "avianDescription" : "Spare fuel perchance?",
+  "floranDescription" : "Blink-pulsse. Blink-pulsse. Like veins. Pulsse. Blood.",
+  "glitchDescription" : "Devious. When they're not looking.",
+  "humanDescription" : "A fuel panel. An interesting one.",
+  "hylotlDescription" : "I don't like this ship. It lacks style.",
+
+  "inventoryIcon" : "licherefuelhatchicon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "licherefuelhatch.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherefuelhatchlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, -16],
+      "frames" : 4,
+      "animationCycle" : 0.7,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "hasWindowIcon" : false,
+  "recipeGroup" : "fuel",
+  "slotCount" : 6,
+  "uiConfig" : "/interface/fuel/fuel.config",
+  "autoCloseCooldown" : 3600,
+  "frameCooldown" : 5,
+  
+  "triggerKeys" : [ "newfuelhatch" ]
+}

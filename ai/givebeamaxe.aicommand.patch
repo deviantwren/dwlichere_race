@@ -1,0 +1,30 @@
+[
+  {
+  "op" : "add",
+  "path" : "/speciesText/lichere",
+  "value" : {
+      "buttonText" : "Enable Matter Manipulator",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "The matter manipulator is very powerful!! Hehehe, it will let you dessstroy matter!!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Yes!! The matter manipulator is working! ^green;The matter manipulator enables you to pick up, move and collect objects and materials.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "Failure",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+]

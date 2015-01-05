@@ -1,0 +1,51 @@
+{
+  "objectName" : "lichereshiplockerTier0",
+  "rarity" : "Common",
+  "objectType" : "noisy",
+  "category" : "decorative",
+  "description" : "Store some stuff, why don't you?",
+  "shortdescription" : "Shiplocker",
+  "race" : "lichere",
+  "lightColor" : [113, 15, 15],
+
+  "apexDescription" : "An offline storage system very likely.",
+  "avianDescription" : "I don't feel comfortable on this ship.",
+  "floranDescription" : "Floran pound on sstatic sscreen.",
+  "glitchDescription" : "Curious. Who designed this technology?",
+  "humanDescription" : "Most of the tech on this ship doesn't appear to be of an origin that I am familiar with.",
+  "hylotlDescription" : "Curious.",
+
+  "particleEmitter" : {
+    "emissionRate" : 1,
+    "pixelOrigin" : [44, 27],
+
+    "particle" : {
+      "type" : "textured",
+      "image" : "/objects/ship/emid.png",
+      "size" : 1,
+      "color" : [255, 255, 255, 255],
+      "fade" : 0.0,
+      "initialVelocity" : [0.0, 0],
+      "finalVelocity" : [0.0, 0],
+      "approach" : [0, 0],
+      "timeToLive" : 0.5,
+      "layer" : "front",
+      "fullbright" : true
+    }
+  },
+  
+  "inventoryIcon" : "lichereshiplockericonTier0.png",
+  "orientations" : [
+    {
+	  "image" : "lichereshiplockerTier0.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "frames" : 22,
+      "animationCycle" : 2,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "sounds" : [ "/sfx/interface/ship_error1.wav" ]
+  
+}
