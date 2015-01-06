@@ -3,7 +3,8 @@
     { "item" : "ceruliumcompound", "count" : 4 },
     { "item" : "plantfibre", "count" : 45 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidalienjuice", "count" : 2 }
+    { "item" : "liquidalienjuice", "count" : 2 },
+    { "item" : "licheretier7pants", "count" : 1 }
   ],
   "output" : { "item" : "licheretier9pants", "count" : 1 },
   "groups" : [ "manipulatortable", "armors", "all" ]

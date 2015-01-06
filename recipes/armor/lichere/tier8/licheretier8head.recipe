@@ -3,7 +3,8 @@
     { "item" : "feroziumcompound", "count" : 6 },
 	{ "item" : "glowfibreorange", "count" : 2 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidalienjuice", "count" : 2 }
+    { "item" : "liquidalienjuice", "count" : 2 },
+    { "item" : "licheretier7head", "count" : 1 }
   ],
   "output" : { "item" : "licheretier8head", "count" : 1 },
   "groups" : [ "acceleratortable", "armors", "all" ]

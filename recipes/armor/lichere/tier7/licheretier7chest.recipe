@@ -1,7 +1,8 @@
 {
   "input" : [
     { "item" : "refinedviolium", "count" : 10 },
-    { "item" : "liquidhealing", "count" : 2 }
+    { "item" : "liquidhealing", "count" : 2 },
+	{ "item" : "bone", "count" : 150 },
   ],
   "output" : { "item" : "licheretier7chest", "count" : 1 },
   "groups" : [ "separatortable", "armors", "all" ]

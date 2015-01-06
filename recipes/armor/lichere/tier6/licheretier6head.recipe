@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "refinedaegisalt", "count" : 6 }
+    { "item" : "refinedaegisalt", "count" : 6 },
+    { "item" : "plantfibre", "count" : 7 }
   ],
   "output" : { "item" : "licheretier6head", "count" : 1 },
   "groups" : [ "acceleratortable", "armors", "all" ]
