@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "This aegisalt headpiece is built to protect a lichere wiseman's brain at all costs.",
-  "shortdescription" : "Wiseman's Thinking Hat",
+  "description" : "Coated with brain matter for anti-fogging, a Sprinter's aegisalt goggles provide full peripheral vision and a customizable hud.",
+  "shortdescription" : "Sprinter's Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

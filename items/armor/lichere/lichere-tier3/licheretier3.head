@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "The Possessor's hud provides a Lichere with information that improves situational awareness, and a scarf for a little warmth.",
-  "shortdescription" : "Possessor's Hud",
+  "description" : "A Possessor's wrap augments the Predator's hud by providing neck protection and warmth with its intricate titanium-and-bone mesh.",
+  "shortdescription" : "Possessor's Wrap",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

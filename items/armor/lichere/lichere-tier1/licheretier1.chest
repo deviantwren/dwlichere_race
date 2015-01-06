@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "An iron plated battle shroud soon to be splattered in blood and organs.",
+  "description" : "A Scavenger wears a solid iron plate to build endurance, enforce battle posture, and display the art of splattered blood and organs.",
   "shortdescription" : "Scavenger's Chestshroud",
   "tooltipKind" : "armor",
 

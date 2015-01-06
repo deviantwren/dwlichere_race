@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The gatherers skirt makes the sound of rustling leaves as they creep towards their prey.",
-  "shortdescription" : "Gatherer's Skirt",
+  "description" : "A Spectre's legs see no break from the perpetual hunt, and these frictionless violium-nanoweave pants aren't made for any.",
+  "shortdescription" : "Spectre's Legs",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

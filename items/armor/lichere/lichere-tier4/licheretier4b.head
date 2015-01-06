@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Stalkers are fleet of foot, and may stalk prey for days; some don the ancient horns of the legendary Udoni rams, long since hunted to extinction.",
+  "description" : "Stalkers are fleet of foot, and some may don ancient or freshly-cut horns of the legendary Udoni rams, centuries on the verge of extinction.",
   "shortdescription" : "Stalker's Crown",
   "tooltipKind" : "armor",
 

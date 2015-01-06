@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "It's said the sun itself could not stand between a cannibal and his meal.",
-  "shortdescription" : "Cannibal's Pants",
+  "description" : "A Carnivore's pants are lightweight, rubium-infused, and durable, so that not even the absent sun can ever stop the perpetual hunt.",
+  "shortdescription" : "Carnivore's Pants",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

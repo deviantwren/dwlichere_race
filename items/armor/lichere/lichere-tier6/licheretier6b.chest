@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "licheres believe to devourer a fallen wiseman's brain is to gain their wisdom.",
-  "shortdescription" : "Wiseman's Chestguard",
+  "description" : "Custom-fit and aegisalt-woven, this lightweight chestguard is a perfect blend of support and protection for a Lichere Sprinter's body.",
+  "shortdescription" : "Sprinter's Bodice",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

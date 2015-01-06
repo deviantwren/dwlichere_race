@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The cannibal's mask contains razor sharp rubium teeth built to tear through lichere flesh.",
-  "shortdescription" : "Cannibal's Mask",
+  "description" : "A Carnivore often replaces a Possessor's Wrap with a rubium-infused mask designed to amplify the fear-scent of the sentient heart.",
+  "shortdescription" : "Carnivore's Crown and Mask",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

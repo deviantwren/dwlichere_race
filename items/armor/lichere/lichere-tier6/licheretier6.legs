@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "Upstairs for thinking, downstairs for dancing.",
-  "shortdescription" : "Wiseman's Loincloth",
+  "description" : "A Sprinter's aegisalt-weave pants provide it all, and comfortably, whether sprinting amidst the perpetual hunt or dancing over the prey.",
+  "shortdescription" : "Sprinter's Pants",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

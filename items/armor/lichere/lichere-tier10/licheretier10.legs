@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "A kick from an armored synthesizer can shatter bone.",
-  "shortdescription" : "Synthesizer's Pants",
+  "description" : "Fur-lined, heat-shunting, moisture-controlled, pure impervium flex-shell boots ensure face-to-face slaughter is a Ripper's natural activity.",
+  "shortdescription" : "Ripper's Stomps",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

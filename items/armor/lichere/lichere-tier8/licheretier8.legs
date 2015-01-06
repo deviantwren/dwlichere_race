@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "When the lichere Sentinels march it sounds like a thunderstorm.",
-  "shortdescription" : "Sentinel's Shorts",
+  "description" : "Lightweight and minimalistic, ferozium greaves leave the perpetual hunt to the honed senses of the challenge-seeking Griever.",
+  "shortdescription" : "Griever's Greaves",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

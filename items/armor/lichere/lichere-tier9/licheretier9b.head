@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "The lichere shaman is said to channel the words of the sun.",
-  "shortdescription" : "Shaman's Mask",
+  "description" : "The nano-flora cells of the cerulium solar helm allow a Griever to leech and store immeasurable power from photosynthetic sources.",
+  "shortdescription" : "Reaver's Solar Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "headb.png",

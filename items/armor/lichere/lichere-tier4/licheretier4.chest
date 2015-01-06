@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A Stalker's durasteel chestguard is made of both solid plate and mesh, and lined with an intricate, bone mesh and the comfort and insulation of fur.",
+  "description" : "A Stalker's chestguard is made of solid plate durasteel, lined with an intricate, bone mesh, and softened by insulating fur.",
   "shortdescription" : "Stalker's Chestguard",
   "tooltipKind" : "armor",
 

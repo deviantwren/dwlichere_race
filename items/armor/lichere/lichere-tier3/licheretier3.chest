@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A titanium chestguard with an insulated inner layer of fur and intricate, bone mesh.",
+  "description" : "A Possessor's chestguard optimizes protection and flexibility with a mix of solid titanium plating and titanium-and-bone mesh.",
   "shortdescription" : "Possessor's Chestguard",
   "tooltipKind" : "armor",
 

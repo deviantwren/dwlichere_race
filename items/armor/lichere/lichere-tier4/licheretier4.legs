@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "The stalker's leggings are made of malleable durasteel mesh reinforced with bone and lined with fur for warmth and comfort.",
+  "description" : "A Stalker's durasteel mesh leggings are lined with fur for warmth and comfort, so they may easily stalk their prey for days.",
   "shortdescription" : "Stalker's Leggings",
   "tooltipKind" : "armor",
 

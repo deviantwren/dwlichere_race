@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "As with much of lichere technology, the gatherer's helm is built from the tech of fallen foes.",
-  "shortdescription" : "Gatherer's Helm",
+  "description" : "A Spectre's violium, single-eye hud provides maximum visual acuity with the advantages and challenges of natural-eye view-scape.",
+  "shortdescription" : "Spectre's Eye",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

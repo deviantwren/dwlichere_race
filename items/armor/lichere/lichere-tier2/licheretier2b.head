@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "The Predator's hud provides a Lichere with information that improves situational awareness.",
+  "description" : "The Predator's hud, when it is worn in front of the eyes, provides a Lichere with information that improves situational awareness.",
   "shortdescription" : "Predator's Hud",
   "tooltipKind" : "armor",
 

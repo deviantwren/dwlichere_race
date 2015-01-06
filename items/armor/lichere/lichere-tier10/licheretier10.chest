@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "The Synthesizer's Chestguard channels so much power from the sun it can get hot to the touch.",
-  "shortdescription" : "Synthesizer's Chestguard",
+  "description" : "The life-sustaining, genetic nurturing, and anatomical support of a Ripper's pure impervium hardshell prove removal to be retrogressive.",
+  "shortdescription" : "Ripper's Hardshell",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

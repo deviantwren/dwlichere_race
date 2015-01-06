@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The lichere gatherer's violium chestpiece is the last thing many a scientist sees.",
-  "shortdescription" : "Gatherer's Chestpiece",
+  "description" : "This violium-nanoweave bodice flaunts a Spectre's natural prowess while providing protection, heat, heat-shunting, and support.",
+  "shortdescription" : "Spectre's Bodice",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

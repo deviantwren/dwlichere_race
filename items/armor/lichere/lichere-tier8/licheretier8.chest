@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "As part of the licheres organised offensive force, no expense is spared infusing a sentinel's armour with ferozium.",
-  "shortdescription" : "Sentinel's Breastplate",
+  "description" : "A Griever's ferozium breastplate grants no hindrances, allowing flawless situational awareness and exploitation, and thus Griever superiority.",
+  "shortdescription" : "Griever's Breastplate",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

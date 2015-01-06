@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Possessor's leggings add a little warmth to the traditional battle-skirt.",
+  "description" : "A Possessor's leggings add warmth and protection through their intricate titanium-and-bone mesh, and are worn with the traditional battle-skirt.",
   "shortdescription" : "Possessor's Leggings",
   "tooltipKind" : "armor",
 

@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "The shaman's skirt is deceptively strong and wonderfully flexible.",
-  "shortdescription" : "Shaman's Skirt",
+  "description" : "Nano-flora gel-augmented, cerulium greaves leave no comfort desired, so a Reaver can exploit every tactical edge and advantage.",
+  "shortdescription" : "Reaver's Greaves",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",

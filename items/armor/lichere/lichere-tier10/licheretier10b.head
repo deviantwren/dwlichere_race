@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "The armour of the synthesizer is coated with pure impervium.",
-  "shortdescription" : "Synthesizer's Helm",
+  "description" : "A Ripper's pure impervium helmet makes ascension to the forefront of the perpetual hunt natural through anabiotic, neural hardening.",
+  "shortdescription" : "Ripper's Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "headb.png",

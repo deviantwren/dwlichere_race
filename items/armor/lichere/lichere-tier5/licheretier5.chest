@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "Disgraced lichere are thrown unarmored into an arena with a hungry lichere cannibal.",
-  "shortdescription" : "Cannibal's Chestguard",
+  "description" : "The sleek and fur-lined Carnivore chestguard is rubium-infused and light enough for a Lichere to join the perpetual hunt.",
+  "shortdescription" : "Carnivore's Chestguard",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
