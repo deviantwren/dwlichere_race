@@ -5,6 +5,7 @@
   "value" : [
       [0, {
       "fill" : [
+        {"pool" : "starterTreasure"},
         {"item" : [ "redflashlight", 1]},
         {"item" : [ "corefragmentore", 20]},
         {"item" : [ "licherestarter", 1]}
