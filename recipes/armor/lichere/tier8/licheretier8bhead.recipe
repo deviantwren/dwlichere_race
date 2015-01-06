@@ -4,6 +4,6 @@
 	{ "item" : "glowfibreorange", "count" : 2 },
     { "item" : "liquidhealing", "count" : 2 }
   ],
-  "output" : { "item" : "licheretier8head", "count" : 1 },
+  "output" : { "item" : "licheretier8bhead", "count" : 1 },
   "groups" : [ "acceleratortable", "armors", "all" ]
 }

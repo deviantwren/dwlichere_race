@@ -1,6 +1,9 @@
 {
   "input" : [
-    { "item" : "imperviumcompound", "count" : 4 }
+    { "item" : "imperviumcompound", "count" : 4 },
+    { "item" : "monsterplating", "count" : 1 },
+	{ "item" : "leather", "count" : 1 },
+    { "item" : "liquidhealing", "count" : 2 }
   ],
   "output" : { "item" : "licheretier10pants", "count" : 1 },
   "groups" : [ "separatortable", "armors", "all" ]

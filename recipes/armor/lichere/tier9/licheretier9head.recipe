@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "ceruliumcompound", "count" : 6 }
+    { "item" : "ceruliumcompound", "count" : 6 },
+    { "item" : "plantfibre", "count" : 45 },
+    { "item" : "liquidhealing", "count" : 2 }
   ],
   "output" : { "item" : "licheretier9head", "count" : 1 },
   "groups" : [ "manipulatortable", "armors", "all" ]

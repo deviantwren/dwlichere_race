@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "licheretier3head", "count" : 1 },
+	{ "item" : "licheretier4head", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier4bhead", "count" : 1 },
+  "groups" : [ "scifianvil", "armors", "all" ]
+}

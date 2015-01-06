@@ -2,8 +2,8 @@
   "input" : [
     { "item" : "titaniumbar", "count" : 6 },
 	{ "item" : "bone", "count" : 2 },
-	{ "item" : "licheretier2head", "count" : 1 }
+	{ "item" : "licheretier2bhead", "count" : 1 }
   ],
-  "output" : { "item" : "licheretier3head", "count" : 1 },
+  "output" : { "item" : "licheretier3bhead", "count" : 1 },
   "groups" : [ "metalworkstation", "armors", "all" ]
 }

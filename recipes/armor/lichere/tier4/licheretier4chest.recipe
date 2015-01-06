@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 10 }
+    { "item" : "durasteelbar", "count" : 10 },
+	{ "item" : "bone", "count" : 10 },
+	{ "item" : "leather", "count" : 1 }
   ],
   "output" : { "item" : "licheretier4chest", "count" : 1 },
   "groups" : [ "scifianvil", "armors", "all" ]
