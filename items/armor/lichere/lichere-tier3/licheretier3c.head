@@ -1,6 +1,6 @@
 {
   "itemName" : "licheretier3chead",
-  "inventoryIcon" : "icons.png:head",
+  "inventoryIcon" : "iconsb.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
