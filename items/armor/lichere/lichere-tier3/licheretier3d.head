@@ -8,8 +8,8 @@
   "shortdescription" : "Possessor's Specs and Wrap",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "headb.png",
-  "femaleFrames" : "headb.png",
+  "maleFrames" : "headd.png",
+  "femaleFrames" : "headd.png",
   "mask" : "mask.png",
 
   "statusEffects" : [

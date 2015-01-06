@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design premise.",
-  "shortdescription" : "Carnivore's Crown and Mask",
+  "shortdescription" : "Carnivore's Mask",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

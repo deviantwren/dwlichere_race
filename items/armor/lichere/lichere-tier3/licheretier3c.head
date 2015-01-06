@@ -4,12 +4,12 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Intricate titanium-and-bone mesh scarf worn with the hud for situational awareness, neck protection, and warmth.",
+  "description" : "Intricate titanium-and-bone mesh scarf with hud for situational awareness, neck protection, and warmth.",
   "shortdescription" : "Possessor's Hud and Wrap",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
+  "maleFrames" : "headc.png",
+  "femaleFrames" : "headc.png",
   "mask" : "mask.png",
 
   "statusEffects" : [
