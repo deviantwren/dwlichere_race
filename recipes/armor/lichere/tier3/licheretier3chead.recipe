@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 },
+	{ "item" : "bone", "count" : 2 },
+	{ "item" : "licheretier3head", "count" : 1 },
+    { "item" : "plantfibre", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier3chead", "count" : 1 },
+  "groups" : [ "metalworkstation", "armors", "all" ]
+}

@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A scarf of intricate titanium-and-bone mesh worn with the hud; so vogue, your are, not needing the hud.",
-  "shortdescription" : "Possessor's Wrap",
+  "description" : "It needs to be worn in front of the eyes to serve its purpose.",
+  "shortdescription" : "Possessor's Spectacles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "headb.png",

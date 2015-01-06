@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "steelbar", "count" : 10 },
+    { "item" : "steelbar", "count" : 12 },
     { "item" : "plantfibre", "count" : 3 },
 	{ "item" : "fabric", "count" : 2 }
   ],

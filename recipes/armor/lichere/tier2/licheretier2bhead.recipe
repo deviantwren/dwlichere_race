@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "steelbar", "count" : 6 },
-    { "item" : "plantfibre", "count" : 1 }
-  ],
-  "output" : { "item" : "licheretier2bhead", "count" : 1 },
-  "groups" : [ "metalworkstation", "armors", "all" ]
-}

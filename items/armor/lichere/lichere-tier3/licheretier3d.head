@@ -1,15 +1,15 @@
 {
-  "itemName" : "licheretier3head",
+  "itemName" : "licheretier3dhead",
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Provides information that improves situational awareness.",
-  "shortdescription" : "Possessor's Hud",
+  "description" : "Intricate titanium-and-bone mesh scarf worn with the raised hud: Lichere vanity?",
+  "shortdescription" : "Possessor's Specs and Wrap",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
+  "maleFrames" : "headb.png",
+  "femaleFrames" : "headb.png",
   "mask" : "mask.png",
 
   "statusEffects" : [

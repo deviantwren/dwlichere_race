@@ -39,6 +39,9 @@
       { "item" : "licheretier2pants" },
       
       { "item" : "licheretier3head" },
+      { "item" : "licheretier3bhead" },
+      { "item" : "licheretier3chead" },
+      { "item" : "licheretier3dhead" },
       { "item" : "licheretier3chest" },
       { "item" : "licheretier3pants" },
       { "item" : "florantier3hammer" },

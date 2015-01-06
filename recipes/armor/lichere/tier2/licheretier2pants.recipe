@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "steelbar", "count" : 4 },
+    { "item" : "steelbar", "count" : 6 },
     { "item" : "plantfibre", "count" : 2 }
   ],
   "output" : { "item" : "licheretier2pants", "count" : 1 },
