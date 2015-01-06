@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A Spectre's violium, single-eye hud provides maximum visual acuity with the advantages and challenges of natural-eye view-scape.",
+  "description" : "Violium lens, single-eye hud for maximum visual acuity, and natural-eye view-scape.",
   "shortdescription" : "Spectre's Eye",
   "tooltipKind" : "armor",
 
@@ -30,6 +30,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* PURPLE */
     { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" },
     /* BLACK */

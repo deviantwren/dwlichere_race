@@ -23,7 +23,7 @@
         "2" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: Thrusters online. Core temperature fluctuations detected. Catastrophic malfunction in FLT drive. ^orangeEjecting erchius crystals. ^greenJamming frequencies from Gateway Outpost.",
+            "text" : "SystemNotice: Thrusters online. Core temperature fluctuations detected. Catastrophic malfunction in FTL drive. ^orange;Ejecting erchius crystals. ^green;Jamming frequencies from Gateway Outpost.",
             "speedModifier" : 1.0
           }
         ],

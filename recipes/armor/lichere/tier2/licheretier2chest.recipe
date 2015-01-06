@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "steelbar", "count" : 10 },
-	{ "item" : "bone", "count" : 10 },
-	{ "item" : "leather", "count" : 1 }
+    { "item" : "plantfibre", "count" : 3 },
+	{ "item" : "fabric", "count" : 2 }
   ],
   "output" : { "item" : "licheretier2chest", "count" : 1 },
   "groups" : [ "metalworkstation", "armors", "all" ]

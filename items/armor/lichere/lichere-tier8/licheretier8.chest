@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "A Griever's ferozium breastplate grants no hindrances, allowing flawless situational awareness and exploitation, and thus Griever superiority.",
+  "description" : "A Griever's ferozium breastplate grants no hindrances, flawless situational awareness, and thus Griever superiority.",
   "shortdescription" : "Griever's Breastplate",
   "tooltipKind" : "armor",
 
@@ -38,6 +38,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* TEAL */
     { "ffca8a" : "a8e6e2", "e0975c" : "4facb2", "a85636" : "30636c", "6f2919" : "233c43" },
     /* BLACK */

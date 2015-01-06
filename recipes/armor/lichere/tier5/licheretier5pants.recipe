@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "refinedrubium", "count" : 4 }
+    { "item" : "refinedrubium", "count" : 4 },
+    { "item" : "leather", "count" : 1 }
   ],
   "output" : { "item" : "licheretier5pants", "count" : 1 },
   "groups" : [ "manipulatortable", "armors", "all" ]

@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A Spectre's legs see no break from the perpetual hunt, and these frictionless violium-nanoweave pants aren't made for any.",
+  "description" : "No break from the perpetual hunt?  Frictionless violium-nanoweave pants aren't made for any.",
   "shortdescription" : "Spectre's Legs",
   "tooltipKind" : "armor",
 
@@ -29,6 +29,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* PURPLE */
     { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" },
     /* BLACK */

@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A Possessor's wrap augments the Predator's hud by providing neck protection and warmth with its intricate titanium-and-bone mesh.",
+  "description" : "A scarf of intricate titanium-and-bone mesh worn with the hud; so vogue, your are, not needing the hud.",
   "shortdescription" : "Possessor's Wrap",
   "tooltipKind" : "armor",
 
@@ -32,6 +32,8 @@
   "triggerKeys" : [ "titaniumarmor" ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* WHITE */
     { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
     /* BLACK */

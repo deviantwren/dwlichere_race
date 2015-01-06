@@ -38,6 +38,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* BLACK */

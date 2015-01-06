@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A battle skirt immerses the Predator in the sensations of nature--rain, wind, and the gore of the hunt.",
+  "description" : "Immersive in rain, wind, and the gore of the hunt.",
   "shortdescription" : "Predator's Battle-skirt",
   "tooltipKind" : "armor",
 
@@ -31,6 +31,8 @@
   "triggerKeys" : [ "steelarmor" ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* LIGHT GREY */
     { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
     /* BLACK */

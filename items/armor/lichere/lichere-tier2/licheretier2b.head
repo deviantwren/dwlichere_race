@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "The Predator's hud, when it is worn in front of the eyes, provides a Lichere with information that improves situational awareness.",
+  "description" : "It needs to be worn in front of the eyes to serve its purpose.",
   "shortdescription" : "Predator's Hud",
   "tooltipKind" : "armor",
 
@@ -32,6 +32,8 @@
   "triggerKeys" : [ "steelarmor" ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* LIGHT GREY */
     { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
     /* BLACK */

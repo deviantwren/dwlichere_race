@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A Sprinter's aegisalt-weave pants provide it all, and comfortably, whether sprinting amidst the perpetual hunt or dancing over the prey.",
+  "description" : "Aegisalt-weave pants provide it all, whether sprinting amidst the perpetual hunt or dancing over the prey.",
   "shortdescription" : "Sprinter's Pants",
   "tooltipKind" : "armor",
 

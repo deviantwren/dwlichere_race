@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A Scavenger wears a solid iron plate to build endurance, enforce battle posture, and display the art of splattered blood and organs.",
+  "description" : "Solid iron plate to build endurance, and display splatter art--blood and organs.",
   "shortdescription" : "Scavenger's Chestshroud",
   "tooltipKind" : "armor",
 
@@ -38,6 +38,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */

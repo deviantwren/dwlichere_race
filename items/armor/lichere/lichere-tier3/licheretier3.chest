@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A Possessor's chestguard optimizes protection and flexibility with a mix of solid titanium plating and titanium-and-bone mesh.",
+  "description" : "Optimizes protection and flexibility; a mix of solid titanium plating, bone mesh and insulating, soft fabric.",
   "shortdescription" : "Possessor's Chestguard",
   "tooltipKind" : "armor",
 
@@ -40,6 +40,8 @@
   "triggerKeys" : [ "titaniumarmor" ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* WHITE */
     { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
     /* BLACK */

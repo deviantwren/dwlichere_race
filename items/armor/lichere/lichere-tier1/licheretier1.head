@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "Only the best Scavengers discover the secrets to crafting the spiked, iron leaf; very Lichere; very vogue.",
+  "description" : "Very Lichere; very vogue.",
   "shortdescription" : "Scavenger's Crown",
   "tooltipKind" : "armor",
 
@@ -30,6 +30,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */

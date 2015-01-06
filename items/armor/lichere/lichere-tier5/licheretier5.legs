@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A Carnivore's pants are lightweight, rubium-infused, and durable, so that not even the absent sun can ever stop the perpetual hunt.",
+  "description" : "Lightweight, rubium-infused, fur-lined, and durable; not even the absent sun can keep a Carnivore from the perpetual hunt.",
   "shortdescription" : "Carnivore's Pants",
   "tooltipKind" : "armor",
 
@@ -29,6 +29,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* RED */
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     /* BLACK */

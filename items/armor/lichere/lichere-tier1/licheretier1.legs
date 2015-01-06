@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "These anklets are scant to teach the Scavenger the art of evasion, the battle dance; and also it grants more Lichere nudity.",
+  "description" : "Grants more nudity, and scantily-clad Lichere learn the art of evasion.",
   "shortdescription" : "Scavenger's Anklets",
   "tooltipKind" : "armor",
 
@@ -29,6 +29,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */

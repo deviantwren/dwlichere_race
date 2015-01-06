@@ -30,6 +30,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED MIDNIGHT BLUE */
+    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
     /* BLUE */
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
     /* BLACK */

@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "The sleek and fur-lined Carnivore chestguard is rubium-infused and light enough for a Lichere to join the perpetual hunt.",
+  "description" : "Sleek, fur-lined, rubium-infused, and light enough for a Carnivore to join the perpetual hunt.",
   "shortdescription" : "Carnivore's Chestguard",
   "tooltipKind" : "armor",
 
@@ -40,6 +40,8 @@
   "triggerKeys" : [ "tier5armor" ],
 
   "colorOptions" : [
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* RED */
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     /* BLACK */

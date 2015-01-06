@@ -4,8 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "This violium-nanoweave bodice flaunts a Spectre's natural prowess while providing protection, heat, heat-shunting, and support.",
-  "shortdescription" : "Spectre's Bodice",
+  "description" : "Minimalistic violium-nanoweave design with heat shunting, protected vitals, body support, and sustaining nano-flora gel.",
+  "shortdescription" : "Spectre's Chestrig",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -40,6 +40,8 @@
   "triggerKeys" : [ "tier5armor" ],
 
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* PURPLE */
     { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" },
     /* BLACK */

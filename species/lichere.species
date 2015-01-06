@@ -127,10 +127,6 @@
     }
   ],
   "bodyColor" : [
-    /* DESATURATED SIERRA RED */
-    { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
-  /*/* DESATURATED DUSTY ROSE */
-    { "ffca8a" : "91493d", "e0975c" : "723930", "a85636" : "552b24", "6f2919" : "3d1f1a" },
     /* DESATURATED CHALLENGE RED */
     { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
     /* DESATURATED SHADOWED BRICK */

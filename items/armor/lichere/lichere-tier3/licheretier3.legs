@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "A Possessor's leggings add warmth and protection through their intricate titanium-and-bone mesh, and are worn with the traditional battle-skirt.",
+  "description" : "Intricate titanium-and-bone mesh leggings; warmer and more protective than just a battle skirt.",
   "shortdescription" : "Possessor's Leggings",
   "tooltipKind" : "armor",
 
@@ -31,6 +31,8 @@
   "triggerKeys" : [ "titaniumarmor" ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* WHITE */
     { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
     /* BLACK */

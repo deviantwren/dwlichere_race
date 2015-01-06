@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Stalkers are fleet of foot, and some may don ancient or freshly-cut horns of the legendary Udoni rams, centuries on the verge of extinction.",
+  "description" : "Stalkers often don the horns of the legendary Udon rams, centuries on the verge of extinction.",
   "shortdescription" : "Stalker's Crown",
   "tooltipKind" : "armor",
 
@@ -30,6 +30,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* GREY BLUE */
     { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
     /* BLACK */

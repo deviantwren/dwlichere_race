@@ -1,7 +1,6 @@
 {
   "input" : [
-    { "item" : "refinedrubium", "count" : 6 },
-	{ "item" : "licheretier4bhead", "count" : 6 }
+    { "item" : "refinedrubium", "count" : 6 }
   ],
   "output" : { "item" : "licheretier5head", "count" : 1 },
   "groups" : [ "manipulatortable", "armors", "all" ]

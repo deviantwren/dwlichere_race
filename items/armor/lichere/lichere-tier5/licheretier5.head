@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "description" : "A Carnivore often replaces a Possessor's Wrap with a rubium-infused mask designed to amplify the fear-scent of the sentient heart.",
+  "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design probably.",
   "shortdescription" : "Carnivore's Crown and Mask",
   "tooltipKind" : "armor",
 
@@ -30,6 +30,10 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* RED */
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
     /* BLACK */

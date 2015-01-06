@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "ironbar", "count" : 2 }
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "plantfibre", "count" : 2 }
   ],
   "output" : { "item" : "licheretier1pants", "count" : 1 },
   "groups" : [ "anvil", "armors", "all" ]
