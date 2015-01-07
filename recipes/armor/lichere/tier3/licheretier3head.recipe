@@ -1,7 +1,6 @@
 {
   "input" : [
     { "item" : "titaniumbar", "count" : 6 },
-	{ "item" : "licheretier2head", "count" : 1 },
     { "item" : "plantfibre", "count" : 1 }
   ],
   "output" : { "item" : "licheretier3head", "count" : 1 },
