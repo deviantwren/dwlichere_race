@@ -6,7 +6,13 @@
   "shortdescription" : "Fuel Hatch",
   "race" : "lichere",
   "price" : 5000,
-  "lightColor" : [0, 255, 162],
+  "lightColor" : [113, 15, 15],
+
+  "flickerPeriod" : 0.7,
+  "flickerMinIntensity" : 0.0,
+  "flickerMaxIntensity" : 0.4,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
 
   "apexDescription" : "Stealing fuel is freedom.",
   "avianDescription" : "Spare fuel perchance?",
