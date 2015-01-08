@@ -23,7 +23,7 @@
   "orientations" : [
     {
       "image" : "smallboosterupflamelichere.png:<color>.<frame>",
-      "imagePosition" : [-14, -14],
+      "imagePosition" : [0, 2],
       "frames" : 3,
       "animationCycle" : 0.4,
 	  "fullbright" : true,

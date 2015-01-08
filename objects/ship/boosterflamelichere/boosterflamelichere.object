@@ -22,7 +22,7 @@
   "particleEmitter" : {
     "emissionRate" : 0.4,
     "emissionVariance" : 0.5,
-    "pixelOrigin" : [-30, 0],
+    "pixelOrigin" : [0, 0],
 
     "particle" : {
       "type" : "ember",

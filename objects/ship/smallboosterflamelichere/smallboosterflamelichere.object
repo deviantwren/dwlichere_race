@@ -23,8 +23,8 @@
   "orientations" : [
     {
       "image" : "smallboosterflamelichere.png:<color>.<frame>",
-      "imagePosition" : [-14, -14],
-      "frames" : 3,
+      "imagePosition" : [0, -2],
+      "frames" : 4,
       "animationCycle" : 0.4,
 	  "fullbright" : true,
 
@@ -36,8 +36,8 @@
   "engineOnOrientations" : [
     {
       "image" : "smallboosterflamelichereon.png:<color>.<frame>",
-      "imagePosition" : [-14, -14],
-      "frames" : 3,
+      "imagePosition" : [0, -2],
+      "frames" : 4,
       "animationCycle" : 0.3,
 	  "fullbright" : true,
 
