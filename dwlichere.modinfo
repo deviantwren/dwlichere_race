@@ -1,6 +1,6 @@
 {
   "name" : "dwlichere_race",
-  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "version" : "Beta v. Upbeat Giraffe - Update 2",
   "path" : ".",
   "dependencies" : ["dwccextender"],
   "metadata": {
