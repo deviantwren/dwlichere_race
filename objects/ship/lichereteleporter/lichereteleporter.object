@@ -1,7 +1,6 @@
 {
   "objectName" : "lichereteleporter",
   "rarity" : "Common",
-  "interactAction" : "OpenShipTeleporterDialog",
   "description" : "A teleportation device.",
   "shortdescription" : "Teleporter",
   "race" : "lichere",
@@ -18,6 +17,9 @@
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
   "flickerTiming" : 4,
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warpmenu/shipteleporter.config",
 
   "inventoryIcon" : "lichereteleportericon.png",
   "orientations" : [
