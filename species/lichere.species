@@ -2,6 +2,7 @@
   "kind" : "lichere",
   "nameGen" : [ "/species/licherenamegen.config:names", "/species/licherenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/licherehurt_male1.wav", "/sfx/humanoid/licherehurt_female1.wav" ],
+  "gruntNoises" : [ [ "/sfx/humanoid/licherehurt_male2.wav", "/sfx/humanoid/licherehurt_male3.wav" ], [ "/sfx/humanoid/licherehurt_female2.wav", "/sfx/humanoid/licherehurt_female3.wav" ] ],
   "charGenTextLabels" : [ "SKIN COLOR", "FOLIAGE", "SHIRT", "PANTS", "LEAF COLOR", "FLOWER COLOR", "SHIRT COLOR", "PANTS COLOR", "FLORAN", "PERSONALITY" ],
   "skull" : "/humanoid/lichere/dead.png",
   "defaultBlueprints" : {
