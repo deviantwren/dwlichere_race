@@ -19,7 +19,7 @@
   "flickerTiming" : 4,
 
   "interactAction" : "OpenTeleportDialog",
-  "interactData" : "/interface/warpmenu/shipteleporter.config",
+  "interactData" : "/interface/warping/shipteleporter.config",
 
   "inventoryIcon" : "lichereteleportericon.png",
   "orientations" : [
