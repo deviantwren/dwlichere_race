@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 5 },
+    { "item" : "darkwoodmaterial", "count" : 9 },
+    { "item" : "licheretier3axe", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier4axe", "count" : 1 },
+  "groups" : [ "scifianvil", "weapons", "all" ]
+}

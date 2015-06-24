@@ -1,0 +1,19 @@
+{
+  "projectileName" : "reapersurge",
+  "physics" : "laser",
+  "frames" : "reapersurge.png",
+  "animationCycle" : 0.7,
+  "pointLight" : true,
+  "lightColor" : [220, 50, 50],
+  "frameNumber" : 16,
+  "damageKindImage" : "reapersurgeicon.png",
+  "timeToLive" : 2,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/reapersmoke/reapersmoke.config"
+    }
+  ],
+  "power" : 20,
+  "damageKind" : "plasma"
+}

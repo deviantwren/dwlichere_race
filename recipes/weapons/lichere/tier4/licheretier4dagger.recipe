@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 2 },
+    { "item" : "licheretier3dagger", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier4dagger", "count" : 1 },
+  "groups" : [ "scifianvil", "weapons", "all" ]
+}

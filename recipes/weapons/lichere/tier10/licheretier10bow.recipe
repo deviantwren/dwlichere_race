@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "imperviumbar", "count" : 8 },
+    { "item" : "rubiumbar", "count" : 8 },
+    { "item" : "bone", "count" : 15 },
+    { "item" : "fleshstrand", "count" : 15 },
+    { "item" : "inkbulb", "count" : 7 },
+    { "item" : "or", "count" : 1 },
+    { "item" : "laserdiode", "count" : 1 },
+    { "item" : "circuitboard", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "moltencore", "count" : 1 },
+    { "item" : "solariumrod", "count" : 2 }
+  ],
+  "output" : { "item" : "licheretier10bow", "count" : 1 },
+  "groups" : [ "separatortable", "tools", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rubiumbar", "count" : 5 },
+    { "item" : "diamond", "count" : 2 },
+    { "item" : "licheretier8spear", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier9spear", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all" ]
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "imperviumbar", "count" : 3 },
+    { "item" : "rubiumbar", "count" : 2 },
+    { "item" : "diamond", "count" : 1 },
+    { "item" : "currentcorn", "count" : 4 },
+    { "item" : "licheretier9axe", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier10axe", "count" : 1 },
+  "groups" : [ "separatortable", "weapons", "all" ]
+}

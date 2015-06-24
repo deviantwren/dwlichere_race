@@ -1,0 +1,22 @@
+{
+  "projectileName" : "chargedreapersurge",
+  "physics" : "laser",
+  "frames" : "chargedreapersurge.png",
+  "animationCycle" : 0.7,
+  "pointLight" : true,
+  "lightColor" : [20, 180, 250],
+  "frameNumber" : 16,
+  "emitters" : [ "electricplasma" ],
+  "damageKindImage" : "chargedreapersurgeicon.png",
+  "timeToLive" : 2,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/reapersmoke/reapersmoke.config"
+    }
+  ],
+  "power" : 20,
+  "bounces" : 1,
+  "piercing" : true,
+  "damageKind" : "plasma"
+}

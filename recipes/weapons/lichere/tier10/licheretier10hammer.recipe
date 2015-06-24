@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "imperviumbar", "count" : 5 },
+    { "item" : "rubiumbar", "count" : 5 },
+    { "item" : "diodia", "count" : 6 },
+    { "item" : "or", "count" : 1 },
+    { "item" : "laserdiode", "count" : 1 },
+    { "item" : "circuitboard", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "licheretier9hammer", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier10hammer", "count" : 1 },
+  "groups" : [ "separatortable", "weapons", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "aegisaltbar", "count" : 5 },
+    { "item" : "licheretier4shortsword", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier5shortsword", "count" : 1 },
+  "groups" : [ "metalworkstation", "weapons", "all" ]
+}

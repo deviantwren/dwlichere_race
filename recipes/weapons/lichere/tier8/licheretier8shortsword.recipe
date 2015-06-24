@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "violiumbar", "count" : 5 },
+    { "item" : "magmarock", "count" : 3 },
+    { "item" : "licheretier7shortsword", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier8shortsword", "count" : 1 },
+  "groups" : [ "separatortable", "weapons", "all" ]
+}
