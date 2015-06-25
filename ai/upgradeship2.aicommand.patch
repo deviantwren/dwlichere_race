@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Repair Ship's Thrusters",
+      "buttonText" : "Jumpstart Gravitic Thrusters",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I can repair the thrusters with the ship's auto repair module but ^green;I'll need ^orange;20 core fragments ^green;from the planet below.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Orbital decay detected. Unable to estimate time until de-orbit. Recommended action: ^green;Emergency disembark.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "The ship's thrusters have been repaired! Travel within this system is now available. ^green;We need to fix the ship's FTL drive with ^orange; 20 Erchius crystals. ^green;Our scanners have also picked up the presence of a ^orange;strange gate ^green;in this system, we should check that out first!",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Gravitic thrusters online. Core temperature fluctuations detected. ^red;Catastrophic malfunction ^white;in FTL drive. ^orange;Ejecting erchius crystals. ^green;Jamming frequencies from Gateway Outpost.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^red;Gravitic thrusters malfunctioning. ^white;ETA for orbital stabilization... Prediction subroutines shut down by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ]
     }

@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Enable Paint Tool",
+      "buttonText" : "Release Maintenance Tools",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "The Paint Tool allows you to colour many blocks different colours. I can enable it for you.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^green;Maintenance tools ^white;locked by user(adimin.aicore).",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I have switched on your Paint Tool. ^green;The Paint Tool enables you to colour many different blocks.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^green;Maintenance tools ^white;released. Failure to load manual.cdn. File missing.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Failure",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Failure to release ^green;maintenance tools. ^white;User access denied by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ]
     }

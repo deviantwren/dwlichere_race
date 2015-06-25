@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Enable Matter Manipulator",
+      "buttonText" : "Release Emergency Gear",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "The matter manipulator is very powerful!! Hehehe, it will let you dessstroy matter!!",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Storage locker ^red;purged ^white;by user(admin.aicore). Partial log file corruption detected.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Yes!! The matter manipulator is working! ^green;The matter manipulator enables you to pick up, move and collect objects and materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Emergency gear released. Recommended action: ^green;Emergency disembark.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Failure",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Failure to release ^green;emergency gear. ^white;User access denied by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ]
     }

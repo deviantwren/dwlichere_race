@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Enable Teleporter",
+      "buttonText" : "Activate Emergency Disembark Protocols",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "The short range teleporter will take you to the planet's surface. Be careful down there hehehe.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Unstable fluctuations detected in ^orange;teleportation nodes. ^white;No escape pod module installed.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "^green;The teleporter ^#aee1ee;is enabled! Go! Spread your wings my little birdy, find us the things we need to fix the ship's thrusters.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Short-range emergency ^green;teleportation override ^white;engaged.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Failure",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Failure to override ^red;teleportation lockout. ^white;User access denied by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ]
     }

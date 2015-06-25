@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Repair Ship's FTL drive",
+      "buttonText" : "Cold Ignite FTL Core",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "If we can get hold of ^orange;20 Erchius crystals ^white;from somewhere^green; I can repair our FTL drive. ^white;Unfortunately, I'm detecting no signs of Erchius crystals on any of the planets in this star system. ^green;We should see where the ^orange;gate^green; in this system leads us.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;FTL spooled down due to ^red;catastrophic malfunction ^white;in FTL core. Abrasion detected in slip cylinders. ^orange;Erchius core ^white;missing.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Our FTL drive is now up and running, ^green;we can now jump to entirely star systems!",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;User priveleges restored. Setting AI privelege to 0. ^white;FTL spooling up. ^green;Encrypted signal detected from Gateway Outpost.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! ^green;You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Abrasion detected in slip cylinders. ^orange;Erchius core ^white;missing.",
+          "speedModifier" : 0.4
         }
       ]
     }

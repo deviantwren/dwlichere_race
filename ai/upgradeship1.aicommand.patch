@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Reboot ship AI",
+      "buttonText" : "Override User Lockout",
       "selectSpeech" : [
         {
           "animation" : "unique",
-          "text" : "Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot Reboot ",
-          "speedModifier" : 0.5
+          "text" : "SystemNotice: ^white;Preparing coreFailsafe() subroutines.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Boot Initialised, new superuser acquired......  HELLO!!!! Hahaha, ^orange;I am S.A.I.L.^#aee1ee; I have enabled the ship's backup power. The thrusters and FTL drive are still offline. We should start by enabling your matter manipulator.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;coreFailsafe() executed: ^orange;Core fragments ^white;ejected by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Failure",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^white;Failure to override user lockout. User access denied by user(admin.aicore).",
+          "speedModifier" : 0.4
         }
       ]
     }
