@@ -24,9 +24,9 @@
   "orientations" : [
     {
 	  "imageLayers" : [ { "image" : "licheretechstation.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheretechstationlit.png:<color>.<frame>" } ],
-      "imagePosition" : [-16, -8],
-      "frames" : 8,
-      "animationCycle" : 2,
+      "imagePosition" : [-8, 0],
+      "frames" : 24,
+      "animationCycle" : 2.2,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

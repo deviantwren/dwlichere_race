@@ -1,0 +1,54 @@
+{
+  "objectName" : "licheredrip",
+  "rarity" : "Legendary",
+
+  "category" : "door",
+  "price" : 5000,
+  "description" : "Something digusting!",
+  "shortdescription" : "Lichere Growth",
+  "lightColor" : [27, 8, 26],
+
+  "flickerPeriod" : 33.0,
+  "flickerMinIntensity" : 0.05,
+  "flickerMaxIntensity" : 0.35,
+  "flickerPeriodVariance" : 1.5,
+  "flickerIntensityVariance" : 0.025,
+  
+  "race" : "lichere",
+
+  "apexDescription" : "That's...unnatural.",
+  "avianDescription" : "It reeks here!",
+  "floranDescription" : "Touch. Touch. Squish!",
+  "glitchDescription" : "Inquisitive. Non-sentient organic matter?",
+  "humanDescription" : "I've had nightmares about these!",
+  "hylotlDescription" : "I feel deeply unsettled. Floran evolution?",
+
+  "inventoryIcon" : "licheredripicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "licheredrip.png:default",
+      "imagePosition" : [-9, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : [ "/sfx/blocks/footstep_brains.wav" ],
+      "close" : [ "/sfx/blocks/puddlemod.wav" ]
+    }
+  },
+  "animationParts" : {
+    "door" : "licheredrip.png"
+  },
+  "animationPosition" : [-9, 0],
+
+  "inboundNodes" : [ [-1, 4] ],
+  "outboundNodes" : [ [0, 0] ]
+}

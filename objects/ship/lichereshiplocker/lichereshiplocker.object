@@ -20,7 +20,7 @@
   "orientations" : [
     {
 	  "imageLayers" : [ { "image" : "lichereshiplocker.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereshiplockerlit.png:<color>.<frame>" } ],
-      "imagePosition" : [-16, -8],
+      "imagePosition" : [-8, -8],
       "frames" : 22,
       "animationCycle" : 2,
       "spaceScan" : 0.1,

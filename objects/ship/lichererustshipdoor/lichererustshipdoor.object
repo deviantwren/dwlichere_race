@@ -1,11 +1,11 @@
 {
-  "objectName" : "lichereshipdoor",
+  "objectName" : "lichererustshipdoor",
   "rarity" : "Common",
 
   "category" : "door",
-  "price" : 5000,
-  "description" : "A door. Possibly suitable for a spaceship.",
-  "shortdescription" : "Lichere Ship Door",
+  "price" : 3500,
+  "description" : "An old door. Possibly suitable for a spaceship.",
+  "shortdescription" : "Rusty Lichere Ship Door",
   "race" : "lichere",
 
   "apexDescription" : "That's a puzzling bit of engineering.",
@@ -15,10 +15,10 @@
   "humanDescription" : "That's a brilliant door!",
   "hylotlDescription" : "The design is appealing and eloquent in the utmost.",
 
-  "inventoryIcon" : "lichereshipdooricon.png",
+  "inventoryIcon" : "lichererustshipdooricon.png",
   "orientations" : [
     {
-      "dualImage" : "lichereshipdoor.png:default",
+      "dualImage" : "lichererustshipdoor.png:default",
       "imagePosition" : [-8, 0],
 
       "spaceScan" : 0.1,
@@ -37,7 +37,7 @@
     }
   },
   "animationParts" : {
-    "door" : "lichereshipdoor.png"
+    "door" : "lichererustshipdoor.png"
   },
   "animationPosition" : [-8, 0],
 

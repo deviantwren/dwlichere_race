@@ -2,7 +2,7 @@
   "objectName" : "licherefuelhatch",
   "rarity" : "Common",
   "objectType" : "container",
-  "description" : "Accepts a bunch of different kinds of fuel. Of Lichere design.",
+  "description" : "Accepts fuel. Lichere design.",
   "shortdescription" : "Fuel Hatch",
   "race" : "lichere",
   "price" : 5000,
@@ -26,9 +26,9 @@
     {
 	  "imageLayers" : [ { "image" : "licherefuelhatch.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherefuelhatchlit.png:<color>.<frame>" } ],
 
-      "imagePosition" : [-8, -16],
-      "frames" : 4,
-      "animationCycle" : 0.7,
+      "imagePosition" : [-8, -8],
+      "frames" : 16,
+      "animationCycle" : 2.8,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

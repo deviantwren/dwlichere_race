@@ -1,0 +1,54 @@
+{
+  "objectName" : "licheredripmature",
+  "rarity" : "Legendary",
+
+  "category" : "door",
+  "price" : 5000,
+  "description" : "Something digusting!",
+  "shortdescription" : "Lichere Growth",
+  "lightColor" : [27, 8, 26],
+
+  "flickerPeriod" : 33.0,
+  "flickerMinIntensity" : 0.05,
+  "flickerMaxIntensity" : 0.35,
+  "flickerPeriodVariance" : 1.5,
+  "flickerIntensityVariance" : 0.025,
+  
+  "race" : "lichere",
+
+  "apexDescription" : "That's...Floran evolution!?",
+  "avianDescription" : "A soft egg, ready to burst.",
+  "floranDescription" : "Touch. Touch. Burst!",
+  "glitchDescription" : "Inquisitive. Sentient organic?",
+  "humanDescription" : "No! No! I--I don't want--PLEASE LET ME GO!",
+  "hylotlDescription" : "I think it is time to leave. NOW!",
+
+  "inventoryIcon" : "licheredripmatureicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "licheredripmature.png:default",
+      "imagePosition" : [-9, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : [ "/sfx/projectiles/goo_spit2.wav" ],
+      "close" : [ "/sfx/projectiles/goo_spit1.wav" ]
+    }
+  },
+  "animationParts" : {
+    "door" : "licheredripmature.png"
+  },
+  "animationPosition" : [-9, 0],
+
+  "inboundNodes" : [ [-1, 4] ],
+  "outboundNodes" : [ [0, 0] ]
+}

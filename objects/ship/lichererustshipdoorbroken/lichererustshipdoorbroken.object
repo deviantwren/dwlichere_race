@@ -1,11 +1,11 @@
 {
-  "objectName" : "lichereshipdoorBroken",
+  "objectName" : "lichererustshipdoorBroken",
   "rarity" : "Common",
   "objectType" : "noisy",
   "category" : "decorative",
   "price" : 5000,
   "description" : "Is it a door?  It's inoperable.",
-  "shortdescription" : "Lichere Ship Door",
+  "shortdescription" : "Rusty Lichere Ship Door",
   "race" : "lichere",
 
   "apexDescription" : "Huh.",
@@ -15,11 +15,11 @@
   "humanDescription" : "What?",
   "hylotlDescription" : "The design is appealing and eloquent in the utmost.",
 
-  "inventoryIcon" : "lichereshipdoorBrokenicon.png",
+  "inventoryIcon" : "lichererustshipdoorBrokenicon.png",
   "orientations" : [
     {
-      "dualImage" : "lichereshipdoorBroken.png:default",
-      "imagePosition" : [-20, 0],
+      "dualImage" : "lichererustshipdoorBroken.png:default",
+      "imagePosition" : [-8, 0],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom", "top" ],

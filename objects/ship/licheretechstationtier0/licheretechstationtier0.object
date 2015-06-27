@@ -29,8 +29,8 @@
     {
 	  "imageLayers" : [ { "image" : "licheretechstationTier0.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheretechstationlitTier0.png:<color>.<frame>" } ],
       "imagePosition" : [-16, -8],
-      "frames" : 8,
-      "animationCycle" : 2,
+      "frames" : 24,
+      "animationCycle" : 2.2,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

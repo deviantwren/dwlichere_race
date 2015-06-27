@@ -7,9 +7,9 @@
   "race" : "lichere",
   "lightColor" : [0, 255, 162],
 
-  "flickerPeriod" : 1.53,
+  "flickerPeriod" : 0.5,
   "flickerMinIntensity" : 0.0,
-  "flickerMaxIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.3,
   "flickerPeriodVariance" : 0,
   "flickerIntensityVariance" : 0,
 
@@ -27,9 +27,9 @@
     {
 	  "imageLayers" : [ { "image" : "brokenlicherefuelhatch.png:<color>.<frame>", "fullbright" : true }, { "image" : "brokenlicherefuelhatchlit.png:<color>.<frame>" } ],
 
-      "imagePosition" : [-8, -16],
-      "frames" : 16,
-      "animationCycle" : 6.12,
+      "imagePosition" : [-8, -8],
+      "frames" : 8,
+      "animationCycle" : 0.5,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
