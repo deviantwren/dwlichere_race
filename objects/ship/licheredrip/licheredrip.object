@@ -41,7 +41,7 @@
   "animationCustom" : {
     "sounds" : {
       "open" : [ "/sfx/blocks/footstep_brains.wav" ],
-      "close" : [ "/sfx/blocks/puddlemod.wav" ]
+      "close" : [ "/sfx/blocks/water_puddlemod.wav" ]
     }
   },
   "animationParts" : {
