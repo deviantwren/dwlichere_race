@@ -1,8 +1,8 @@
 {
   "id" : "licheretutorial.gearup",
   "title" : "^orange;Fresh Meat",
-  "text" : "Tired of Floran savagery, I have taken to the stars to pursue a more honourable hunt. The ship has been damaged in hyperspace and is unoperational. To keep moving I'll need to ^green;repair the ship's thrusters and patch up the hull.",
-  "completionText" : "The ship has rumbled to life! There's still work to do and I need to fix the FTL drive. But it's a start!",
+  "text" : "Floran's luck! Ramming attempt causes ME a hull breach! My prey dislodges, and I'm left with an escape pod I didn't bother purging the artificial intelligence from!",
+  "completionText" : "Fine.  I need to jury rig...",
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
   ],
