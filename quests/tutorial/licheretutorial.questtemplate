@@ -1,8 +1,8 @@
 {
   "id" : "licheretutorial.gearup",
-  "title" : "^orange;Fresh Meat",
-  "text" : "Floran's luck! Ramming attempt causes ME a hull breach! My prey dislodges, and I'm left with an escape pod I didn't bother purging the artificial intelligence from!",
-  "completionText" : "Fine.  I need to jury rig...",
+  "title" : "^orange;Entropic Luck!",
+  "text" : "Entropic luck! Ramming attempt causes ME a hull breach! My prey dislodges, and I'm left with an escape pod I didn't bother purging the artificial intelligence from!",
+  "completionText" : "That didn't work.",
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
   ],
