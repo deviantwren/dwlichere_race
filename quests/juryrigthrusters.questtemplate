@@ -1,0 +1,14 @@
+{
+  "id" : "juryrigthrusters.gearup",
+  "title" : "^orange;Free as a Bird",
+  "text" : "Now that I can visit the planets within this solar system ^green;I need to start looking at how to repair my FTL drive, ^orange;S.A.I.L will probably know more.",
+  "completionText" : "It's working! I can finally visit other star systems!",
+  "conditions" : [
+    { "kind" : "trigger", "trigger" : "ai.repairftl" }
+  ],
+  "moneyRange" : [500, 500],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "fuel222.gearup",
+  "canBeAbandoned" : false
+}

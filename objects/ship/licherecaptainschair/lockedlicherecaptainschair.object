@@ -1,0 +1,48 @@
+{
+  "objectName" : "lockedlicherecaptainschair",
+  "rarity" : "Common",
+  "objectType" : "loungeable",
+
+  "description" : "ENGAGE!",
+  "shortdescription" : "Lichere Captain's Chair",
+  "race" : "lichere",
+  "category" : "furniture",
+
+  "apexDescription" : "Ahh freedom...",
+  "avianDescription" : "Bless my beak, such a comfortable captain's chair.",
+  "floranDescription" : "SSsmells of Apex butt.",
+  "glitchDescription" : "Anticipation. Where to next?",
+  "humanDescription" : "A pretty cool chair.",
+  "hylotlDescription" : "Elegant.",
+
+  "inventoryIcon" : "licherecaptainschairicon.png",
+  "orientations" : [
+    {
+      "image" : "licherecaptainschair.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "flipImages" : true,
+	  "direction" : "left",
+      "sitPosition" : [1.6, 22.5]
+    },
+	{
+      "image" : "licherecaptainschair.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "direction" : "right",
+      "sitPosition" : [1.6, 22.5]
+    }
+  ],
+
+  "sitFlipDirection" : false,
+  "soundEffect" : "/sfx/environmental/crystal_underground.ogg",
+  "soundEffectRadius" : 1000
+}

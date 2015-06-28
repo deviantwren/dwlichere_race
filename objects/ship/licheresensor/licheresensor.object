@@ -1,0 +1,37 @@
+{
+  "objectName" : "licheresensor",
+  "rarity" : "Common",
+  "description" : "An access panel for the sensor.",
+  "shortdescription" : "Sensor Access Panel",
+  "race" : "lichere",
+  "lightColor" : [213, 115, 115],
+
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.0,
+  "flickerMaxIntensity" : 0.6,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "Loot! Oh, no, just an access panel.",
+  "avianDescription" : "I don't have time to jury rig an access panel.",
+  "floranDescription" : "Blink. Blink. Like Glitch flickering out.",
+  "glitchDescription" : "Observation. Sensor Access Panel.",
+  "humanDescription" : "A blinking access panel.",
+  "hylotlDescription" : "A sensor panel suggests higher brain function than a Floran.",
+  
+  "breakDropOptions" : [],
+
+  "inventoryIcon" : "licheresensoricon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "licheresensor.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresensorlit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, -8],
+      "frames" : 32,
+      "animationCycle" :2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

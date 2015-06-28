@@ -1,14 +1,14 @@
 {
   "id" : "licheretutorial.gearup",
-  "title" : "^orange;Entropic Luck!",
-  "text" : "Entropic luck! Ramming attempt causes ME a hull breach! My prey dislodges, and I'm left with an escape pod I didn't bother purging the artificial intelligence from!",
-  "completionText" : "That didn't work.",
+  "title" : "^orange;Toe-class Escape Capsule",
+  "text" : "SystemLog: Proximity alarm. Safety override:User lockout. SystemFailure:AI.Mindcore. Proximity alarm. Collision alarm. Hull breach. Catastrophic System Failure. Decompression alarm. SystemFailure:LifeSupport. Collision alarm. Reactor alarm. Escape module booting. AI.MindCore mirrored. Escape module launched.",
+  "completionText" : "SystemNotice: Updating System Log.",
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
   ],
-  "moneyRange" : [500, 500],
+  "moneyRange" : [0, 0],
   "planetMode" : "none",
-  "followUp" : "ftlrepairmain.gearup",
+  "followUp" : "juryrigthrusters.gearup",
   "questDungeons" : [ ],
   "canBeAbandoned" : false
 }
