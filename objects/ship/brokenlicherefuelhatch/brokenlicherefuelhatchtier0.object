@@ -1,6 +1,7 @@
 {
   "objectName" : "brokenlicherefuelhatchTier0",
   "rarity" : "Common",
+  "objecttype" : "noisy",
   "description" : "It's the fuel hatch. It's malfunctioning.",
   "shortdescription" : "Broken Fuel Hatch",
   "race" : "lichere",
@@ -21,21 +22,23 @@
   
   "breakDropOptions" : [],
 
-  "inventoryIcon" : "licherebrokenfuelhatchicon.png",
+  "inventoryIcon" : "brokenlicherefuelhatchicon.png",
   "orientations" : [
     {
 	  "imageLayers" : [ { "image" : "brokenlicherefuelhatchTier0.png:<color>.<frame>", "fullbright" : true }, { "image" : "brokenlicherefuelhatchlitTier0.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, -8],
       "frames" : 8,
-      "animationCycle" :0.5,
+      "animationCycle" : 0.5,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     }
   ],
-  
-  "soundEffect" : "/sfx/interface/ship_error1.wav",
-  "soundEffectRadius" : 15
-  
+
+  "soundEffect" : "/sfx/instruments/bones/a6.ogg",
+  "soundEffectRadius" : 15,
+
+  "sounds" : [ "/sfx/interface/ship_error1.wav" ]
+
 }
