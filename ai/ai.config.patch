@@ -3,43 +3,43 @@
   "op" : "add",
   "path" : "/species/lichere",
   "value" : {
-      "aiFrames" : "floranAi.png",
-      "staticFrames" : "staticAvian.png",
+      "aiFrames" : "lichereai.png",
+      "staticFrames" : "staticavian.png",
       "openSpeech" : {
         "0" : [
           {
             "animation" : "unique",
-            "text" : "SystemNotice: ^white;User input caused ^red;fatal malfunction.",
-            "speedModifier" : 0.4
+            "text" : "SystemNotice: ^orange;Access denied ^white;due to user(^red;current^white;) matching logicFailsafe() IDstring in ParentLog as cause of catastrophic system failure in parent vessel.",
+            "speedModifier" : 0.6
           }
         ],
         "1" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: ^white;coreFailsafe() executed: ^orange;Core fragments ^white;ejected. User lockout overriden. ^red;Activing FTL drive or thrusters will cause permanent damage.",
-            "speedModifier" : 0.4
+            "text" : "^orange;SystemError: ^white;Cascading systems failure.",
+            "speedModifier" : 0.6
           }
         ],
         "2" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: ^red;Severe fluctuations ^white;detected in gravitic thrusters. ^red;FTL drive offline. ^orange;Erchius core missing.",
-            "speedModifier" : 0.4
+            "text" : "SystemNotice: ^white;Core temperature fluctuations detected in ionic compression drive.",
+            "speedModifier" : 0.6
           }
         ],
         "3" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: ^white;AI privelege 0. FTL spooled. ^red;Severe fluctuations detected in gravitic thrusters.",
-            "speedModifier" : 0.4
+            "text" : "SystemNotice: ^white;Abrasion detected in slip cylinders of slip-drive coil 1. Core temperature fluctuations detected in ionic compression drive.",
+            "speedModifier" : 0.6
           }
         ]
       },
       "techIntro" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Scanning lifeform. Biological anomolies detected. Augmentation device standing by for ^orange;tech card ^white;and nano suit integration.",
-          "speedModifier" : 0.4
+          "text" : "SystemNotice: ^white;Lifeform scanned. Genetic anomolies detected. Callibration set for Floran sub-species. Augmentation device standing by for ^orange;tech card ^white;and nano suit integration.",
+          "speedModifier" : 0.6
         }
       ]
     }

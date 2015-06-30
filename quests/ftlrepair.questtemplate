@@ -1,0 +1,17 @@
+  {
+  "id" : "ftlrepair.gearup",
+  "title" : "^#9be3d6;Distress!",
+  "text" : "My ship has received a distress signal from an Erchius mining facility. ^green;I should talk to S.A.I.L and check the ^orange;missions tab ^green;to see what's going on.",
+  "completionText" : "I've started the drill and I finally have what I need to fix the ship's FTL drive.",
+  "conditions" : [ ],
+  "requireTurnIn" : true,
+  "moneyRange" : [0, 0],
+  "rewards" : [ 
+    [ [ "supermatter", 20 ] ]  
+  ],
+  "canBeAbandoned" : false,
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "associatedMission" : "mission1"
+}

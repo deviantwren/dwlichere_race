@@ -1,14 +1,14 @@
 {
   "id" : "licheretutorial.gearup",
-  "title" : "^orange;Toe-class Escape Capsule",
-  "text" : "SystemLog: Proximity alarm. Safety override:User lockout. SystemFailure:AI.Mindcore. Proximity alarm. Collision alarm. Hull breach. Catastrophic System Failure. Decompression alarm. SystemFailure:LifeSupport. Collision alarm. Reactor alarm. Escape module booting. AI.MindCore mirrored. Escape module launched.",
+  "title" : "^orange;Toe-class Escape Module",
+  "text" : "^#aee1ee;SystemNotice: ^white;Escape module control denied by user(^blue;ai.mindcore^white;).",
   "completionText" : "SystemNotice: Updating System Log.",
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
   ],
   "moneyRange" : [0, 0],
   "planetMode" : "none",
-  "followUp" : "juryrigthrusters.gearup",
+  "followUp" : "juryrigftl.gearup",
   "questDungeons" : [ ],
   "canBeAbandoned" : false
 }

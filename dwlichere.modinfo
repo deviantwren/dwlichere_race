@@ -10,18 +10,16 @@
         }
 }
 
+//create synthesizer bench
+//if creating a set of lichere items (like biome items) base visually on the bone table icon image, as well as the alpine stone items / stone alpine table
+//advanced table could be like a robotic table, but with a third arm, and pretty dark
+//pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
+//list and pan out substitutue quests, and eventually tie into others
+//completely bypass outpost quests...
 //lichere starter clothes chest icons (all but one isn't working)
-//lichere starter clothes colors...
-//lichere pinkish red light for ship interior
-//add boneboo to starter package
-//face paint: diagonal beneath with red; maybe some on forehead
-//goggles; remove green border
-//if creating a set of lichere items (like biome items) base visually on the bone table icon image, as well as the alpine stone items
 //modify recipe for flaglichere in /recipes/plain/ - move this under lichere crafting table
 //make it need red petals
-//create a lichere crafting table of sorts; put ... idk ... in it (mabye this is based on the stone alpine table)
-//advanced table could be like a robotic table, but with a third arm, and pretty dark
-//all-dark (skin / hair & clothes) options suggest more fixes for hair color saturation (more contrast necessary)
-//deal with working fuel hatch too; blinking of light requires animation to be shifted over; check accelerator table to see where
-//figure out alarm.lua
+//figure out sensor transfer / alarm going off after purge? or not
+//figure out .lua triggers for ceiling plant
 //figure out what file controls dying using lichere respawn files already in place...
+//adjust lichere spawn images to ceiling-hanging plant

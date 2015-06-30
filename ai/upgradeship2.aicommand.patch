@@ -3,26 +3,26 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Jumpstart Gravitic Thrusters",
+      "buttonText" : "Jury-Rig Thrusters",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Orbital decay detected. Unable to estimate time until de-orbit. Recommended action: ^green;Emergency disembark.",
-          "speedModifier" : 0.4
+          "text" : "SystemNotice: ^white;Orbital decay detected. Unable to estimate time until complete orbital decay.                                                     ^orange;SystemError: ^white;Unable to ready deployment of atmospheric re-entry chute.",
+          "speedModifier" : 0.6
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Gravitic thrusters online. Core temperature fluctuations detected. ^red;Catastrophic malfunction ^white;in FTL drive. ^orange;Ejecting erchius crystals. ^green;Jamming frequencies from Gateway Outpost.",
-          "speedModifier" : 0.4
+          "text" : "SystemNotice: ^white;Unrecognized propulsion device detected. Loading custom configuration. Ionic compression drive spooling. Core temperature fluctuations detected.",
+          "speedModifier" : 0.6
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "SystemNotice: ^red;Gravitic thrusters malfunctioning. ^white;ETA for orbital stabilization... Prediction subroutines shut down by user(admin.aicore).",
-          "speedModifier" : 0.4
+          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;20 Core fragments^white;) detected in substratum layers.               All required compounds found for custom blueprint: ^green;ionic compression drive^white;. ^orange;Release emergency tools ^white;to access necessary components for material synthesis with ^green;synthesizer bench^white;.",
+          "speedModifier" : 0.6
         }
       ]
     }

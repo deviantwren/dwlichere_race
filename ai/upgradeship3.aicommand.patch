@@ -3,7 +3,7 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Cold Ignite FTL Core",
+      "buttonText" : "Jury-Rig Slip-Drive Coils",
       "selectSpeech" : [
         {
           "animation" : "talk",
@@ -14,14 +14,14 @@
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;User priveleges restored. Setting AI privelege to 0. ^white;FTL spooling up. ^green;Encrypted signal detected from Gateway Outpost.",
+          "text" : "SystemNotice: ^white;Cold ignition of slip-drive coils complete. Ionic compression drive cooling off. Abrasion detected in slip cylinders. Safety governor set to seventy-percent.",
           "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "SystemNotice: ^white;Abrasion detected in slip cylinders. ^orange;Erchius core ^white;missing.",
+          "text" : "SystemNotice: ^white;Processing Slip-Drive Coils v34I blueprint:                      * * * * * * * * * * * * * * * * * * Slip-Drive Coils (2): ^orange;4 ^green;Slip Cylinders; ^orange;20 ^green;Erchius Crystals. ^white;Required Tools: ^orange;1 ^green;Synthesizer Bench^white;.                              * * * * * * * * * * * * * * * * * *",
           "speedModifier" : 0.4
         }
       ]
