@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "feroziumbar", "count" : 5 },
+    { "item" : "feroziumcompound", "count" : 5 },
     { "item" : "durasteelbar", "count" : 2 },
     { "item" : "licheretier5spear", "count" : 1 }
   ],

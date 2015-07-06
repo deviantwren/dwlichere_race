@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "ceruliumbar", "count" : 2 },
+    { "item" : "ceruliumcompound", "count" : 2 },
     { "item" : "licheretier6dagger", "count" : 1 }
   ],
   "output" : { "item" : "licheretier7dagger", "count" : 1 },

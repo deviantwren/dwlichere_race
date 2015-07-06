@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "violiumbar", "count" : 5 },
+    { "item" : "refinedviolium", "count" : 5 },
     { "item" : "magmarock", "count" : 3 },
     { "item" : "licheretier7shortsword", "count" : 1 }
   ],

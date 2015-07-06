@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "imperviumbar", "count" : 3 },
-    { "item" : "rubiumbar", "count" : 2 },
+    { "item" : "imperviumcompound", "count" : 3 },
+    { "item" : "rubiumore", "count" : 2 },
     { "item" : "magmarock", "count" : 6 },
     { "item" : "diamond", "count" : 1 },
     { "item" : "currentcorn", "count" : 4 },

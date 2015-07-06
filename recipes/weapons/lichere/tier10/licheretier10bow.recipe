@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "imperviumbar", "count" : 8 },
-    { "item" : "rubiumbar", "count" : 8 },
+    { "item" : "imperviumcompound", "count" : 8 },
+    { "item" : "rubiumore", "count" : 8 },
     { "item" : "bone", "count" : 15 },
     { "item" : "fleshstrand", "count" : 15 },
     { "item" : "inkbulb", "count" : 7 },

@@ -10,9 +10,12 @@
         }
 }
 
-//create synthesizer bench
+//add ship jury-rig exterior files and shipupgrade elements
+//double check to make sure sensor upgrade is communicated into fuel unit
+//fix 'genericitem' reference in all lichere armor and weapon recipes; refined<bar>item is the cause
+//create synthesizer bench for items related to ship rigging (upgradeship1-8)
+//create replacement crafting benches / tables / cooking out of this item as well / maybe separate mod
 //if creating a set of lichere items (like biome items) base visually on the bone table icon image, as well as the alpine stone items / stone alpine table
-//advanced table could be like a robotic table, but with a third arm, and pretty dark
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
 //list and pan out substitutue quests, and eventually tie into others
 //completely bypass outpost quests...

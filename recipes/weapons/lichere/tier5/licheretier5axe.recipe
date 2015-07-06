@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "aegisaltbar", "count" : 5 },
+    { "item" : "refinedaegisalt", "count" : 5 },
     { "item" : "durasteelbar", "count" : 3 },
     { "item" : "leather", "count" : 1 },
     { "item" : "licheretier4axe", "count" : 1 }

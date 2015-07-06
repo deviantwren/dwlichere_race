@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "imperviumbar", "count" : 5 },
-    { "item" : "rubiumbar", "count" : 5 },
+    { "item" : "imperviumcompound", "count" : 5 },
+    { "item" : "rubiumore", "count" : 5 },
     { "item" : "diodia", "count" : 6 },
     { "item" : "or", "count" : 1 },
     { "item" : "laserdiode", "count" : 1 },

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "rubiumbar", "count" : 10 },
+    { "item" : "refinedrubium", "count" : 10 },
     { "item" : "diodia", "count" : 6 },
     { "item" : "licheretier8hammer", "count" : 1 }
   ],

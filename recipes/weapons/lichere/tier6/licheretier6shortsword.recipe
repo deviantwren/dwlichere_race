@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "feroziumbar", "count" : 5 },
+    { "item" : "feroziumcompound", "count" : 5 },
     { "item" : "licheretier5shortsword", "count" : 1 }
   ],
   "output" : { "item" : "licheretier6shortsword", "count" : 1 },
