@@ -1,0 +1,65 @@
+{
+  "objectName" : "licherestone",
+  "rarity" : "legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/licherestone.config",
+    "filter" : [ "licherestone" ]
+  },
+  "printable" : false,
+  "description" : "This table has magic! Unexplained science is magic! ",
+  "shortdescription" : "^orange;Lichere Crafting Table^white;",
+  "race" : "lichere",
+  "category" : "crafting",
+  "price" : 7000,
+  
+  "lightColor" : [0, 192, 255],
+
+  "flickerPeriod" : 10,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.4,
+  "flickerPeriodVariance" : 0.5,
+  "flickerIntensityVariance" : 0.05,
+
+  "apexDescription" : "A stone table.",
+  "avianDescription" : "An altar of some kind.",
+  "floranDescription" : "Meet slabs go here.",
+  "glitchDescription" : "Analyzing. Rock.",
+  "humanDescription" : "Caveman designs look scrawled all over this table.",
+  "hylotlDescription" : "I do not like tables like these.",
+
+  "inventoryIcon" : "licherestoneicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licherestone.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherestonelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.3,
+      
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "lightPosition" : [ -1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "licherestone.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherestonelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 3,
+      "animationCycle" : 0.3,
+      
+      "direction" : "right",
+      
+      "lightPosition" : [ 0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
