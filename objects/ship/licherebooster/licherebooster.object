@@ -1,5 +1,5 @@
 {
-  "objectName" : "boosterflamelichere",
+  "objectName" : "licherebooster",
   "rarity" : "Common",
   "description" : "I wonder how quickly that would cook a burger.",
   "shortdescription" : "Booster Flame",
@@ -42,10 +42,10 @@
     }
   },
 
-  "inventoryIcon" : "boosterlichereicon.png",
+  "inventoryIcon" : "lichereboostericon.png",
   "orientations" : [
     {
-      "image" : "boosterflamelichere.png:<color>.<frame>",
+      "image" : "licherebooster.png:<color>.<frame>",
       "imagePosition" : [-32, -32],
       "frames" : 4,
       "animationCycle" : 1.0,
@@ -58,7 +58,7 @@
 
   "engineOnOrientations" : [
     {
-      "image" : "boosterflamelichereon.png:<color>.<frame>",
+      "image" : "lichereboosteron.png:<color>.<frame>",
       "imagePosition" : [-32, -32],
       "frames" : 3,
       "animationCycle" : 0.3,

@@ -12,7 +12,8 @@
         {"item" : [ "licheretier10bow", 1]},
         {"item" : [ "lichereragcape", 1]},
         {"item" : [ "supermatter", 20]},
-        {"item" : [ "licherestarter", 1]} 
+        {"item" : [ "licherestarter", 1]},
+        {"item" : [ "liquidfuel", 1000]}
 
       ]
     } ]

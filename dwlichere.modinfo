@@ -10,11 +10,13 @@
         }
 }
 
+//adjust sounds for lichereboosterbig to something energy / lightning related, but not annoying
+//adjust sound of lichereboostersmallup to arigunderground.ogg instead of lichereboosterbig
 //add itemgroup "licherestone" to items where "plain" or "armor" might be marked
 //figure out how crafting tables read recipe lists if the above doesn't work
 //create a good looking lichere table, instead of the present
 //add ship jury-rig exterior files and shipupgrade elements, and recipe them into licherestone
-//double check to make sure sensor upgrade is communicated into fuel unit
+//sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //fix 'genericitem' reference in all lichere armor and weapon recipes; refined<bar>item is the cause
 //use licherestone for items related to ship rigging (upgradeship1-8)
 //create replacement crafting benches / tables / cooking out of licherestone item as well
@@ -24,7 +26,6 @@
 //lichere starter clothes chest icons (all but one isn't working)
 //modify recipe for flaglichere in /recipes/plain/ - move this under lichere crafting table
 //make it need red petals
-//figure out sensor transfer / alarm going off after purge? or not
 //figure out .lua triggers for ceiling plant
 //figure out what file controls dying using lichere respawn files already in place...
 //adjust lichere spawn images to ceiling-hanging plant

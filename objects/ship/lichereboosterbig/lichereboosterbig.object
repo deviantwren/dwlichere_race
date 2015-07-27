@@ -1,5 +1,5 @@
 {
-  "objectName" : "bigboosterflamelichere",
+  "objectName" : "lichereboosterbig",
   "rarity" : "Common",
   "description" : "I wonder how quickly that would cook a burger.",
   "shortdescription" : "Booster Flame",
@@ -13,18 +13,24 @@
   "hylotlDescription" : "Propulsion.",
 
   "category" : "light",
-  "lightColor" : [59, 183, 255],
+  "lightColor" : [203, 255, 178],
   "pointLight" : true,
-  "flickerDistance" : 0.2,
-  "flickerStrength" : 0.05,
-  "flickerTiming" : 4,
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 1.0,
+  "flickerMinIntensity" : 0.6,
+  "flickerMaxIntensity" : 0.7,
+  "flickerIntensityVariance" : 0.035,
 
-  "inventoryIcon" : "bboosterflamelichereicon.png",
+  "flickerTiming" : 0.25,
+  "flickerPeriod" : 0.25,
+  "flickerPeriodVariance" : 0.2,
+
+  "inventoryIcon" : "lichereboosterbigicon.png",
   "orientations" : [
     {
-      "image" : "bigboosterflamelichere.png:<color>.<frame>",
-      "imagePosition" : [0, 0],
-      "frames" : 4,
+      "image" : "lichereboosterbig.png:<color>.<frame>",
+      "imagePosition" : [-40, -16],
+      "frames" : 10,
       "animationCycle" : 1.0,
 	  "fullbright" : true,
 
@@ -35,10 +41,10 @@
 
   "engineOnOrientations" : [
     {
-      "image" : "bigboosterflamelichereon.png:<color>.<frame>",
-      "imagePosition" : [-35, -40],
-      "frames" : 3,
-      "animationCycle" : 0.3,
+      "image" : "lichereboosterbigon.png:<color>.<frame>",
+      "imagePosition" : [-40, -16],
+      "frames" : 4,
+      "animationCycle" : 0.25,
 	  "fullbright" : true,
 
       "spaces" : [ [-3, 2], [-3, 1], [-3, 0], [-3, -1], [-3, -2], [-3, -3], [-2, 2], [-2, 1], [-2, 0], [-2, -1], [-2, -2], [-2, -3], [-1, 2], [-1, 1], [-1, 0], [-1, -1], [-1, -2], [-1, -3], [0, 2], [0, 1], [0, 0], [0, -1], [0, -2], [0, -3] ],
