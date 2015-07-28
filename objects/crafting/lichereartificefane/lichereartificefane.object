@@ -1,10 +1,10 @@
 {
-  "objectName" : "artificefane",
+  "objectName" : "lichereartificefane",
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/artificefane.config",
-    "filter" : [ "artificefane" ]
+    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "filter" : [ "lichereartificefane" ]
   },
   "printable" : false,
   "description" : "This table has magic! Unexplained science is magic!",
@@ -28,10 +28,10 @@
   "humanDescription" : "Caveman designs look scrawled all over this table.",
   "hylotlDescription" : "I do not like tables like these.",
 
-  "inventoryIcon" : "artificefaneicon.png",
+  "inventoryIcon" : "lichereartificefaneicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "artificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "artificefanelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereartificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereartificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
       "frames" : 4,
@@ -47,7 +47,7 @@
 
     },
     {
-      "imageLayers" : [ { "image" : "artificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "artificefanelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereartificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereartificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
       "frames" : 4,

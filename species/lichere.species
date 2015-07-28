@@ -7,7 +7,7 @@
   "skull" : "/humanoid/lichere/dead.png",
   "defaultBlueprints" : {
     "tier1" : [
-      { "item" : "licherestone" },
+      { "item" : "lichereartificefane" },
       { "item" : "licheretier1hammer" },
       { "item" : "licheretier1shortsword" },
       { "item" : "licheretier1broadsword" },
