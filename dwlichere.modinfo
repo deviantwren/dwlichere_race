@@ -10,16 +10,16 @@
         }
 }
 
-//adjust sounds for lichereboosterbig to something energy / lightning related, but not annoying
-//adjust sound of lichereboostersmallup to arigunderground.ogg instead of lichereboosterbig
-//add itemgroup "licherestone" to items where "plain" or "armor" might be marked
+//finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
+//conform t4-8 lit ship.pngs to 95% opacity
+//add itemgroup "artificefane" to items where "plain" or "armor" might be marked
+//create artificefane.recipe
 //figure out how crafting tables read recipe lists if the above doesn't work
-//create a good looking lichere table, instead of the present
 //add ship jury-rig exterior files and shipupgrade elements, and recipe them into licherestone
 //sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //fix 'genericitem' reference in all lichere armor and weapon recipes; refined<bar>item is the cause
-//use licherestone for items related to ship rigging (upgradeship1-8)
-//create replacement crafting benches / tables / cooking out of licherestone item as well
+//use artificefane for items related to ship rigging (upgradeship1-8)
+//create replacement crafting benches / tables / cooking out of artificefane as well
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
 //list and pan out substitute quests, and eventually tie into others
 //completely bypass outpost quests...

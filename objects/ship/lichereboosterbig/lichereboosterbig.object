@@ -18,7 +18,7 @@
   "flickerDistance" : 0.5,
   "flickerStrength" : 1.0,
   "flickerMinIntensity" : 0.6,
-  "flickerMaxIntensity" : 0.7,
+  "flickerMaxIntensity" : 0.8,
   "flickerIntensityVariance" : 0.035,
 
   "flickerTiming" : 0.25,
@@ -52,6 +52,6 @@
     }
   ],
 
-  "soundEffect" : "/sfx/environmental/arid_underground.ogg"
+  "soundEffect" : "/sfx/cinematics/teleporting_loop.ogg"
 
 }

@@ -17,8 +17,8 @@
   "pointLight" : true,
   "flickerDistance" : 0.5,
   "flickerStrength" : 0.5,
-  "flickerMinIntensity" : 0.4,
-  "flickerMaxIntensity" : 0.6,
+  "flickerMinIntensity" : 0.3,
+  "flickerMaxIntensity" : 0.4,
   "flickerIntensityVariance" : 0.05,
 
   "flickerTiming" : 0.0,
@@ -52,6 +52,6 @@
     }
   ],
 
-  "soundEffect" : "/sfx/objects/boosterflame.wav"
+  "soundEffect" : "/sfx/environmental/space_loop2.ogg"
 
 }

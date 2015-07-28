@@ -13,39 +13,45 @@
   "hylotlDescription" : "Propulsion.",
 
   "category" : "light",
-  "lightColor" : [59, 183, 255],
+  "lightColor" : [203, 255, 178],
   "pointLight" : true,
-  "flickerDistance" : 0.2,
-  "flickerStrength" : 0.05,
-  "flickerTiming" : 4,
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.5,
+  "flickerMinIntensity" : 0.5,
+  "flickerMaxIntensity" : 0.6,
+  "flickerIntensityVariance" : 0.05,
+
+  "flickerTiming" : 0.0,
+  "flickerPeriod" : 0.4,
+  "flickerPeriodVariance" : 0,
 
   "inventoryIcon" : "lichereboostersmallupicon.png",
   "orientations" : [
     {
-      "image" : "lichereboostersmall.png:<color>.<frame>",
-      "imagePosition" : [0, 2],
+      "image" : "lichereboostersmallup.png:<color>.<frame>",
+      "imagePosition" : [-8, -2],
       "frames" : 3,
       "animationCycle" : 0.4,
 	  "fullbright" : true,
 
       "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
-      "anchors" : [ "top" ]
+      "anchors" : [ "right" ]
     }
   ],
 
   "engineOnOrientations" : [
     {
       "image" : "lichereboostersmallupon.png:<color>.<frame>",
-      "imagePosition" : [-14, -14],
+      "imagePosition" : [-8, -2],
       "frames" : 3,
       "animationCycle" : 0.3,
 	  "fullbright" : true,
 
       "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
-      "anchors" : [ "top" ]
+      "anchors" : [ "right" ]
     }
   ],
 
-  "soundEffect" : "/sfx/objects/boosterflame.wav"
+  "soundEffect" : "/sfx/environmental/arid_underground.ogg"
 
 }

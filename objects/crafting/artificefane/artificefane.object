@@ -1,41 +1,41 @@
 {
-  "objectName" : "licherestone",
+  "objectName" : "artificefane",
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/licherestone.config",
-    "filter" : [ "licherestone" ]
+    "config" : "/interface/windowconfig/artificefane.config",
+    "filter" : [ "artificefane" ]
   },
   "printable" : false,
-  "description" : "This table has magic! Unexplained science is magic! ",
-  "shortdescription" : "^orange;Lichere Crafting Table^white;",
+  "description" : "This table has magic! Unexplained science is magic!",
+  "shortdescription" : "^orange;Artifice Fane^white;",
   "race" : "lichere",
   "category" : "crafting",
   "price" : 7000,
   
-  "lightColor" : [0, 192, 255],
+  "lightColor" : [203, 255, 178],
 
   "flickerPeriod" : 10,
   "flickerMinIntensity" : 0.2,
-  "flickerMaxIntensity" : 0.4,
+  "flickerMaxIntensity" : 0.25,
   "flickerPeriodVariance" : 0.5,
   "flickerIntensityVariance" : 0.05,
 
   "apexDescription" : "A stone table.",
   "avianDescription" : "An altar of some kind.",
   "floranDescription" : "Meet slabs go here.",
-  "glitchDescription" : "Analyzing. Rock.",
+  "glitchDescription" : "Analyzing. Rock modified by sub-intelligent sentient life.",
   "humanDescription" : "Caveman designs look scrawled all over this table.",
   "hylotlDescription" : "I do not like tables like these.",
 
-  "inventoryIcon" : "licherestoneicon.png",
+  "inventoryIcon" : "artificefaneicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "licherestone.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherestonelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "artificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "artificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
-      "frames" : 3,
-      "animationCycle" : 0.3,
+      "frames" : 4,
+      "animationCycle" : 0.5,
       
       "direction" : "left",
       "flipImages" : true,
@@ -47,11 +47,11 @@
 
     },
     {
-      "imageLayers" : [ { "image" : "licherestone.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherestonelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "artificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "artificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
-      "frames" : 3,
-      "animationCycle" : 0.3,
+      "frames" : 4,
+      "animationCycle" : 0.5,
       
       "direction" : "right",
       
