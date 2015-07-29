@@ -4,5 +4,5 @@
     { "item" : "licheretier5dagger", "count" : 1 }
   ],
   "output" : { "item" : "licheretier6dagger", "count" : 1 },
-  "groups" : [ "acceleratortable", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

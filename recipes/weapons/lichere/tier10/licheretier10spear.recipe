@@ -7,5 +7,5 @@
     { "item" : "licheretier9spear", "count" : 1 }
   ],
   "output" : { "item" : "licheretier10spear", "count" : 1 },
-  "groups" : [ "separatortable", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "refinedviolium", "count" : 4 },
-	{ "item" : "bone", "count" : 25 }
+    { "item" : "bone", "count" : 25 }
   ],
   "output" : { "item" : "licheretier7pants", "count" : 1 },
-  "groups" : [ "separatortable", "armors", "all" ]
+  "groups" : [ "licherearmor", "licherefane" ]
 }

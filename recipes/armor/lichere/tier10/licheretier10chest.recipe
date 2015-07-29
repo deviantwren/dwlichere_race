@@ -3,9 +3,9 @@
     { "item" : "imperviumcompound", "count" : 10 },
     { "item" : "monsterplating", "count" : 1 },
     { "item" : "liquidhealing", "count" : 2 },
-	{ "item" : "fleshstrand", "count" : 2 },
+    { "item" : "fleshstrand", "count" : 2 },
     { "item" : "licheretier7chest", "count" : 1 }
   ],
   "output" : { "item" : "licheretier10chest", "count" : 1 },
-  "groups" : [ "separatortable", "armors", "all" ]
+  "groups" : [ "licherearmor", "licherefane" ]
 }

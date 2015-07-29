@@ -4,5 +4,5 @@
     { "item" : "darkwoodmaterial", "count" : 7 }
   ],
   "output" : { "item" : "licheretier1axe", "count" : 1 },
-  "groups" : [ "anvil", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

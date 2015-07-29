@@ -8,6 +8,7 @@
         {"pool" : "starterTreasure"},
         {"item" : [ "redflashlight", 1]},
         {"item" : [ "lichereartificefane", 1]},
+        {"item" : [ "licheresmallfane", 1]},
         {"item" : [ "corefragmentore", 20]},
         {"item" : [ "licheretier10bow", 1]},
         {"item" : [ "lichereragcape", 1]},

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 15 },
+    { "item" : "licherescience", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "lichereionicdrive",
+    "count" : 1
+  },
+  "groups" : [ "licheretech", "licherefane" ]
+}

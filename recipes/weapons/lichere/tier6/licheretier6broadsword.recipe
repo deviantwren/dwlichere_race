@@ -4,5 +4,5 @@
     { "item" : "licheretier5broadsword", "count" : 1 }
   ],
   "output" : { "item" : "licheretier6broadsword", "count" : 1 },
-  "groups" : [ "metalworkstation", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

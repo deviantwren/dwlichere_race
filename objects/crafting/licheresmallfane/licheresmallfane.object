@@ -1,0 +1,65 @@
+{
+  "objectName" : "licheresmallfane",
+  "rarity" : "legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "filter" : [ "licherefane" ]
+  },
+  "printable" : false,
+  "description" : "This table has magic! Unexplained science is magic!",
+  "shortdescription" : "^orange;Small Artifice Fane^white;",
+  "race" : "lichere",
+  "category" : "crafting",
+  "price" : 7000,
+  
+  "lightColor" : [203, 255, 178],
+
+  "flickerPeriod" : 7,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.25,
+  "flickerPeriodVariance" : 0.25,
+  "flickerIntensityVariance" : 0.015,
+
+  "apexDescription" : "A small, stone table.",
+  "avianDescription" : "An small altar of some kind.",
+  "floranDescription" : "Meet slabs are best on small tables.",
+  "glitchDescription" : "Analyzing. Rock modified by sub-intelligent sentient life.",
+  "humanDescription" : "Caveman designs look scrawled all over this table.",
+  "hylotlDescription" : "I do not like tables like these.",
+
+  "inventoryIcon" : "licheresmallfaneicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licheresmallfane.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresmallfanelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 7,
+      "animationCycle" : 0.8,
+      
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "lightPosition" : [ -1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "licheresmallfane.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresmallfanelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 7,
+      "animationCycle" : 0.8,
+      
+      "direction" : "right",
+      
+      "lightPosition" : [ 0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

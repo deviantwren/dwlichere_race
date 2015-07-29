@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 30 },
+    { "item" : "corefragmentore", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "licherescience",
+    "count" : 1
+  },
+  "groups" : [ "licheretech", "licherefane" ]
+}

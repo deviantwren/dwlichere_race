@@ -4,5 +4,5 @@
     { "item" : "licheretier3hammer", "count" : 1 }
   ],
   "output" : { "item" : "licheretier4hammer", "count" : 1 },
-  "groups" : [ "scifianvil", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

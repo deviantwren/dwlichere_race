@@ -9,9 +9,9 @@
     { "item" : "laserdiode", "count" : 1 },
     { "item" : "circuitboard", "count" : 1 },
     { "item" : "wire", "count" : 1 },
-    { "item" : "moltencore", "count" : 1 },
+    { "item" : "teleportercore", "count" : 1 },
     { "item" : "solariumrod", "count" : 2 }
   ],
   "output" : { "item" : "licheretier10bow", "count" : 1 },
-  "groups" : [ "separatortable", "tools", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }

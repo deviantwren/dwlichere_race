@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "petalblue", "count" : 15 },
+    { "item" : "plantfibre", "count" : 4 },
+    { "item" : "fabric", "count" : 7 }
+  ],
+  "output" : { "item" : "lichereragcape", "count" : 1 },
+  "groups" : [ "licherecloth", "licherefane" ]
+}

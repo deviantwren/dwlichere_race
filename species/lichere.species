@@ -8,7 +8,8 @@
   "defaultBlueprints" : {
     "tier1" : [
       { "item" : "lichereartificefane" },
-      { "item" : "licheretier1hammer" },
+      { "item" : "licheresmallfane" },
+
       { "item" : "licheretier1shortsword" },
       { "item" : "licheretier1broadsword" },
       { "item" : "licheretier1spear" },
@@ -17,6 +18,7 @@
       { "item" : "licheretier1head" },
       { "item" : "licheretier1chest" },
       { "item" : "licheretier1pants" },
+
       { "item" : "licherefurnivourchest" },
       { "item" : "licherefurnivourlegs" },
       { "item" : "licherehunterchest" },
@@ -27,6 +29,7 @@
       { "item" : "licherepeltlegs" },
       { "item" : "licheresurvivalistchest" },
       { "item" : "licheresurvivalistlegs" },
+      { "item" : "lichereragcape" },
       
       { "item" : "flaglichere" },
       

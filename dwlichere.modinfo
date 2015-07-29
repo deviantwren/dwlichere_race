@@ -10,22 +10,20 @@
         }
 }
 
+//create lichereionicdrive component & licherescience; make them placeable
+//maybe later make items just colored crates; but these would be more interestin as actual items
 //finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
 //conform t4-8 lit ship.pngs to 95% opacity
-//add itemgroup "artificefane" to items where "plain" or "armor" might be marked
 //create artificefane.recipe
-//figure out how crafting tables read recipe lists if the above doesn't work
-//add ship jury-rig exterior files and shipupgrade elements, and recipe them into licherestone
+//add ship jury-rig exterior files and shipupgrade elements, and recipe them into "licheretech" & "licherefane" 
 //sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
-//fix 'genericitem' reference in all lichere armor and weapon recipes; refined<bar>item is the cause
-//use artificefane for items related to ship rigging (upgradeship1-8)
-//create replacement crafting benches / tables / cooking out of artificefane as well
+//use "licheretech" & "licherefane" for items related to ship rigging (upgradeship1-8)
+//create lichere cooking table, and use "licherefood" as the recipe list
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
 //list and pan out substitute quests, and eventually tie into others
 //completely bypass outpost quests...
 //lichere starter clothes chest icons (all but one isn't working)
-//modify recipe for flaglichere in /recipes/plain/ - move this under lichere crafting table
-//make it need red petals
+//modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
 //figure out what file controls dying using lichere respawn files already in place...
 //adjust lichere spawn images to ceiling-hanging plant

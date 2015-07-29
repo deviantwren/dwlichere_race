@@ -10,5 +10,5 @@
     { "item" : "licheretier9hammer", "count" : 1 }
   ],
   "output" : { "item" : "licheretier10hammer", "count" : 1 },
-  "groups" : [ "separatortable", "weapons", "all" ]
+  "groups" : [ "lichereweapon", "licherefane" ]
 }
