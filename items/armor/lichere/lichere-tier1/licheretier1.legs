@@ -7,6 +7,7 @@
   "description" : "Grants more nudity, and scantily-clad Lichere learn the art of evasion.",
   "shortdescription" : "Scavenger's Anklets",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier2pants" ],
 
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsf.png",

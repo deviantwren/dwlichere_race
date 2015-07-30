@@ -7,6 +7,7 @@
   "description" : "Lightweight, aegisalt-woven, and a perfect blend of support and protection.",
   "shortdescription" : "Sprinter's Chestguard",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier7chest" ],
 
   "maleFrames" : {
     "body" : "chestm.png",

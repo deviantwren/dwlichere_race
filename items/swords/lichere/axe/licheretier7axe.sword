@@ -8,6 +8,7 @@
   "shortdescription" : "Spectre Battleaxe",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier8axe" ],
 
   "image" : "licheretier7axe.png",
   "firePosition" : [12.5, -3.5],

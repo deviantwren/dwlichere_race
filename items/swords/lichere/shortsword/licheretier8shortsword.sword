@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Battlesword",
   "tooltipKind" : "sword",
   "weaponType" : "Shortsword",
+  "learnBlueprintsOnPickup" : [ "licheretier9shortsword" ],
 
   "image" : "licheretier8shortsword.png",
   "firePosition" : [22, -2],

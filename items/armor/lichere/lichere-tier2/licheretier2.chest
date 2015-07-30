@@ -7,6 +7,7 @@
   "description" : "Solid steel augmented by a resilient vine mesh and insulated with soft fabric.",
   "shortdescription" : "Predator's Chestguard",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier3chest" ],
 
   "maleFrames" : {
     "body" : "chestm.png",

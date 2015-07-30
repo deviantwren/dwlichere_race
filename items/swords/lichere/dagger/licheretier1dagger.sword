@@ -8,6 +8,7 @@
   "shortdescription" : "Scavenger Dagger",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier2dagger" ],
 
   "image" : "licheretier1dagger.png",
   "firePosition" : [13.5, -1.5],

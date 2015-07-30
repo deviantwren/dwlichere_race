@@ -7,6 +7,7 @@
   "description" : "No break from the perpetual hunt?  Frictionless violium-nanoweave pants aren't made for any.",
   "shortdescription" : "Spectre's Legs",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier8pants", "licheretier9pants", "licheretier10pants" ],
 
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsf.png",

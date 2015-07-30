@@ -8,6 +8,7 @@
   "shortdescription" : "Possessor Blade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier4broadsword" ],
 
   "image" : "licheretier3broadsword.png",
   "firePosition" : [6, 4.5],

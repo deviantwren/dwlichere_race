@@ -8,6 +8,7 @@
   "shortdescription" : "Scavenger Maul",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier2hammer" ],
 
   "image" : "licheretier1hammer.png",
   "firePosition" : [8, 2],

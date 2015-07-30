@@ -8,6 +8,7 @@
   "shortdescription" : "Sprinter Battlebarb",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier7dagger" ],
 
   "image" : "licheretier6dagger.png",
   "firePosition" : [13.5, -1.5],

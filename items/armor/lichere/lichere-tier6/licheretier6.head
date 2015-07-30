@@ -7,6 +7,7 @@
   "description" : "Coated with brain matter for anti-fogging, and designed with full peripheral vision and a customizable hud.",
   "shortdescription" : "Sprinter's Goggles",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier7head" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

@@ -8,6 +8,7 @@
   "shortdescription" : "Stalker Maulhammer",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier5hammer" ],
 
   "image" : "licheretier4hammer.png",
   "firePosition" : [8, 2],

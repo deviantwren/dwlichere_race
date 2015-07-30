@@ -8,6 +8,7 @@
   "shortdescription" : "Stalker Lance",
   "tooltipKind" : "sword",
   "weaponType" : "Spear",
+  "learnBlueprintsOnPickup" : [ "licheretier5spear" ],
 
   "image" : "licheretier4spear.png",
   "firePosition" : [45.5, -8.5],

@@ -8,6 +8,7 @@
   "shortdescription" : "Griever Battlemaul",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier10hammer" ],
 
   "image" : "licheretier9hammer.png",
   "firePosition" : [8, 2],

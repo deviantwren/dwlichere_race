@@ -8,6 +8,7 @@
   "shortdescription" : "Carnivore Shortblade",
   "tooltipKind" : "sword",
   "weaponType" : "Shortsword",
+  "learnBlueprintsOnPickup" : [ "licheretier6shortsword" ],
 
   "image" : "licheretier5shortsword.png",
   "firePosition" : [22, -2],

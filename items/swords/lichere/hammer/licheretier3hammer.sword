@@ -8,6 +8,7 @@
   "shortdescription" : "Possessor Maulhammer",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier4hammer" ],
 
   "image" : "licheretier3hammer.png",
   "firePosition" : [8, 2],

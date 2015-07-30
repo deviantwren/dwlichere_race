@@ -8,6 +8,7 @@
   "shortdescription" : "Possessor Spear",
   "tooltipKind" : "sword",
   "weaponType" : "Spear",
+  "learnBlueprintsOnPickup" : [ "licheretier4spear" ],
 
   "image" : "licheretier3spear.png",
   "firePosition" : [45.5, -8.5],

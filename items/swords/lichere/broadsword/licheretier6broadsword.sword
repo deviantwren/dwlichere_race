@@ -8,6 +8,7 @@
   "shortdescription" : "Carnivore Blade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier7broadsword" ],
 
   "image" : "licheretier6broadsword.png",
   "firePosition" : [6, 4.5],

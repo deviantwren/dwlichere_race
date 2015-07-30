@@ -8,6 +8,7 @@
   "shortdescription" : "Spectre Battleblade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier8broadsword" ],
 
   "image" : "licheretier7broadsword.png",
   "firePosition" : [6, 4.5],

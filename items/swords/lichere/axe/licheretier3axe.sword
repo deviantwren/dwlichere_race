@@ -8,6 +8,7 @@
   "shortdescription" : "Possessor Axe",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier4axe" ],
 
   "image" : "licheretier3axe.png",
   "firePosition" : [12.5, -3.5],

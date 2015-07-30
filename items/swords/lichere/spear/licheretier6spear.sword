@@ -8,6 +8,7 @@
   "shortdescription" : "Sprinter Switchspear",
   "tooltipKind" : "sword",
   "weaponType" : "Spear",
+  "learnBlueprintsOnPickup" : [ "licheretier7spear" ],
 
   "image" : "licheretier6spear.png",
   "firePosition" : [45.5, -8.5],

@@ -8,6 +8,7 @@
   "shortdescription" : "Spectre Battlemaul",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier8hammer" ],
 
   "image" : "licheretier7hammer.png",
   "firePosition" : [8, 2],

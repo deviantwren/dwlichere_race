@@ -8,6 +8,7 @@
   "shortdescription" : "Carnivore Axe",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier6axe" ],
 
   "image" : "licheretier5axe.png",
   "firePosition" : [12.5, -3.5],

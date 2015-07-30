@@ -8,6 +8,7 @@
   "shortdescription" : "Carnivore Maulhammer",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier6hammer" ],
 
   "image" : "licheretier5hammer.png",
   "firePosition" : [8, 2],

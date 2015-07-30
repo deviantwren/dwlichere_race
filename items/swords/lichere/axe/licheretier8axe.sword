@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Battleaxe",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier9axe" ],
 
   "image" : "licheretier8axe.png",
   "firePosition" : [12.5, -3.5],

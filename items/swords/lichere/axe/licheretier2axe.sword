@@ -8,6 +8,7 @@
   "shortdescription" : "Predator Cleaver",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier3axe" ],
 
   "image" : "licheretier2axe.png",
   "firePosition" : [12.5, -3.5],

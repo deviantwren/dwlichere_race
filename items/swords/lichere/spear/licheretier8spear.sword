@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Switchspear",
   "tooltipKind" : "sword",
   "weaponType" : "Spear",
+  "learnBlueprintsOnPickup" : [ "licheretier9spear" ],
 
   "image" : "licheretier8spear.png",
   "firePosition" : [45.5, -8.5],

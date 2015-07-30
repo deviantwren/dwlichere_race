@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Battleblade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier9broadsword" ],
 
   "image" : "licheretier8broadsword.png",
   "firePosition" : [6, 4.5],

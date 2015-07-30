@@ -8,6 +8,7 @@
   "shortdescription" : "Possessor Dagger",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier4dagger" ],
 
   "image" : "licheretier3dagger.png",
   "firePosition" : [13.5, -1.5],

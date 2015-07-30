@@ -7,6 +7,7 @@
   "description" : "It needs to be worn in front of the eyes to serve its purpose.",
   "shortdescription" : "Possessor's Spectacles",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier4head" ],
 
   "maleFrames" : "headb.png",
   "femaleFrames" : "headb.png",

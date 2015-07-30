@@ -8,6 +8,7 @@
   "shortdescription" : "Predator Maul",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier3hammer" ],
 
   "image" : "licheretier2hammer.png",
   "firePosition" : [8, 2],

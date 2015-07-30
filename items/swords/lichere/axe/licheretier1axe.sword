@@ -8,6 +8,7 @@
   "shortdescription" : "Scavenger Cleaver",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier2axe" ],
 
   "image" : "licheretier1axe.png",
   "firePosition" : [12.5, -3.5],

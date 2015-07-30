@@ -7,6 +7,7 @@
   "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design premise.",
   "shortdescription" : "Carnivore's Mask",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier6head" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

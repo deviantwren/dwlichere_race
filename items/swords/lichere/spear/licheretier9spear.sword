@@ -8,6 +8,7 @@
   "shortdescription" : "Griever Switchspear",
   "tooltipKind" : "sword",
   "weaponType" : "Spear",
+  "learnBlueprintsOnPickup" : [ "licheretier10spear" ],
 
   "image" : "licheretier9spear.png",
   "firePosition" : [45.5, -8.5],

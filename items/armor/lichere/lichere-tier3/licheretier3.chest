@@ -7,6 +7,7 @@
   "description" : "Optimizes protection and flexibility; a mix of solid titanium plating, bone mesh and insulating, soft fabric.",
   "shortdescription" : "Possessor's Chestguard",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier4chest" ],
 
   "maleFrames" : {
     "body" : "chestm.png",

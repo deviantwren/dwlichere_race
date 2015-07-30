@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Battlemaul",
   "tooltipKind" : "sword",
   "weaponType" : "Hammer",
+  "learnBlueprintsOnPickup" : [ "licheretier9hammer" ],
 
   "image" : "licheretier8hammer.png",
   "firePosition" : [8, 2],

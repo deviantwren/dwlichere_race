@@ -8,6 +8,7 @@
   "shortdescription" : "Griever Battlebarb",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier10dagger" ],
 
   "image" : "licheretier9dagger.png",
   "firePosition" : [13.5, -1.5],

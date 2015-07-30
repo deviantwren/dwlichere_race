@@ -7,6 +7,7 @@
   "description" : "The horns of the legendary Udon rams, centuries on the verge of extinction; very Lichere; very vogue.",
   "shortdescription" : "Stalker's Crown",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier5head" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

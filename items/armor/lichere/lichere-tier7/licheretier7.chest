@@ -7,6 +7,7 @@
   "description" : "Minimalistic violium-nanoweave design with heat shunting, protected vitals, body support, and sustaining nano-flora gel.",
   "shortdescription" : "Spectre's Chestrig",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier8chest", "licheretier9chest", "licheretier10chest" ],
 
   "maleFrames" : {
     "body" : "chestm.png",

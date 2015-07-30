@@ -8,6 +8,7 @@
   "shortdescription" : "Stalker Longblade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier5broadsword" ],
 
   "image" : "licheretier4broadsword.png",
   "firePosition" : [6, 4.5],

@@ -10,6 +10,8 @@
         }
 }
 
+//change artificefane upper flames to lightning bolts into a ball of energy
+//re-add 'all', 'armor', and 'weapon' tags to all recipes... nice job removing them...
 //create lichereionicdrive component & licherescience; make them placeable
 //maybe later make items just colored crates; but these would be more interestin as actual items
 //finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?

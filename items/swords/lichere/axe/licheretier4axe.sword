@@ -8,6 +8,7 @@
   "shortdescription" : "Stalker Axe",
   "tooltipKind" : "sword",
   "weaponType" : "Axe",
+  "learnBlueprintsOnPickup" : [ "licheretier5axe" ],
 
   "image" : "licheretier4axe.png",
   "firePosition" : [12.5, -3.5],

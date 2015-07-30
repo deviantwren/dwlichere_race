@@ -8,6 +8,7 @@
   "shortdescription" : "Spectre Battlebarb",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier8dagger" ],
 
   "image" : "licheretier7dagger.png",
   "firePosition" : [13.5, -1.5],

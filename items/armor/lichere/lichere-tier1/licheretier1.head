@@ -7,6 +7,8 @@
   "description" : "Solid iron face plate, not very vogue.",
   "shortdescription" : "Scavenger's Face Plate",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier2head" ],
+
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

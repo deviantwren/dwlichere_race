@@ -8,6 +8,7 @@
   "shortdescription" : "Predator Blade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier3broadsword" ],
 
   "image" : "licheretier2broadsword.png",
   "firePosition" : [6, 4.5],

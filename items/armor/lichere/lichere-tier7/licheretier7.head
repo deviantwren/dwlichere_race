@@ -7,6 +7,7 @@
   "description" : "Violium lens, single-eye hud for maximum visual acuity, and natural-eye view-scape.",
   "shortdescription" : "Spectre's Eye",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier8head", "licheretier8bhead", "licheretier9head", "licheretier9bhead", "licheretier10head", "licheretier10bhead" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

@@ -8,6 +8,7 @@
   "shortdescription" : "Griever Battleblade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier10broadsword" ],
 
   "image" : "licheretier9broadsword.png",
   "firePosition" : [6, 4.5],

@@ -8,6 +8,7 @@
   "shortdescription" : "Carnivore Dagger",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier6dagger" ],
 
   "image" : "licheretier5dagger.png",
   "firePosition" : [13.5, -1.5],

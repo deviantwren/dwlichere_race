@@ -7,6 +7,7 @@
   "description" : "Steel-and-plant-based paste spread on face to distort appearance.",
   "shortdescription" : "Predator's Paint",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier3head", "licheretier3bhead", "licheretier3chead", "licheretier3dhead" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

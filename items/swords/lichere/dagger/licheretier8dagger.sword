@@ -8,6 +8,7 @@
   "shortdescription" : "Ripper Battlebarb",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier9dagger" ],
 
   "image" : "licheretier8dagger.png",
   "firePosition" : [13.5, -1.5],

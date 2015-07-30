@@ -8,6 +8,7 @@
   "shortdescription" : "Scavenger Blade",
   "tooltipKind" : "sword",
   "weaponType" : "Broadsword",
+  "learnBlueprintsOnPickup" : [ "licheretier2broadsword" ],
 
   "image" : "licheretier1broadsword.png",
   "firePosition" : [6, 4.5],

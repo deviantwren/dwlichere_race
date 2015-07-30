@@ -8,6 +8,7 @@
   "shortdescription" : "Predator Dagger",
   "tooltipKind" : "sword",
   "weaponType" : "Dagger",
+  "learnBlueprintsOnPickup" : [ "licheretier3dagger" ],
 
   "image" : "licheretier2dagger.png",
   "firePosition" : [13.5, -1.5],

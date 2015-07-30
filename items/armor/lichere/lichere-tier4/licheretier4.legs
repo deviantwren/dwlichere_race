@@ -7,6 +7,7 @@
   "description" : "Durasteel mesh leggings lined with fur for warmth and comfort allow a Stalker to stalk prey for days.",
   "shortdescription" : "Stalker's Leggings",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "licheretier5pants" ],
 
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsf.png",
