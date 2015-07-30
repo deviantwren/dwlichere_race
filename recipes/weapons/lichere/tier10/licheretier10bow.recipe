@@ -13,5 +13,5 @@
     { "item" : "solariumrod", "count" : 2 }
   ],
   "output" : { "item" : "licheretier10bow", "count" : 1 },
-  "groups" : [ "lichereweapon", "licherefane" ]
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
 }

@@ -3,5 +3,5 @@
     { "item" : "refinedrubium", "count" : 6 }
   ],
   "output" : { "item" : "licheretier5head", "count" : 1 },
-  "groups" : [ "licherearmor", "licherefane" ]
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

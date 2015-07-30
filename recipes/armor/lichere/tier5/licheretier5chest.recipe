@@ -4,5 +4,5 @@
     { "item" : "leather", "count" : 1 }
   ],
   "output" : { "item" : "licheretier5chest", "count" : 1 },
-  "groups" : [ "licherearmor", "licherefane" ]
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

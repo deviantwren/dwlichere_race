@@ -4,5 +4,5 @@
     { "item" : "plantfibre", "count" : 14 }
   ],
   "output" : { "item" : "licheretier6pants", "count" : 1 },
-  "groups" : [ "licherearmor", "licherefane" ]
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

@@ -5,5 +5,5 @@
     { "item" : "licheretier1broadsword", "count" : 1 }
   ],
   "output" : { "item" : "licheretier2broadsword", "count" : 1 },
-  "groups" : [ "lichereweapon", "licherefane" ]
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
 }

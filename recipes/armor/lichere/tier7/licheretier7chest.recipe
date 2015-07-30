@@ -5,5 +5,5 @@
     { "item" : "bone", "count" : 35 }
   ],
   "output" : { "item" : "licheretier7chest", "count" : 1 },
-  "groups" : [ "licherearmor", "licherefane" ]
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

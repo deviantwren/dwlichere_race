@@ -4,5 +4,5 @@
     { "item" : "licheretier1axe", "count" : 1 }
   ],
   "output" : { "item" : "licheretier2axe", "count" : 1 },
-  "groups" : [ "lichereweapon", "licherefane" ]
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
 }

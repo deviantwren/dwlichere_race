@@ -4,5 +4,5 @@
     { "item" : "darkwoodmaterial", "count" : 2 }
   ],
   "output" : { "item" : "licheretier1shortsword", "count" : 1 },
-  "groups" : [ "lichereweapon", "licherefane" ]
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
 }

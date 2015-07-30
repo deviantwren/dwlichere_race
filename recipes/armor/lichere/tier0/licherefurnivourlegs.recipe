@@ -3,5 +3,5 @@
     { "item" : "fabric", "count" : 2 }
   ],
   "output" : { "item" : "licherefurnivourlegs", "count" : 1 },
-  "groups" : [ "licherecloth", "licherefane" ]
+  "groups" : [ "armors", "legs", "all", "licherecloth", "licherefane" ]
 }

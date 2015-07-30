@@ -7,5 +7,5 @@
     "item" : "flaglichere",
     "count" : 1
   },
-  "groups" : [ "licherecloth", "licherefane" ]
+  "groups" : [ "plain", "objects", "all", "licherecloth", "licherefane" ]
 }

@@ -7,5 +7,5 @@
     { "item" : "licheretier7head", "count" : 1 }
   ],
   "output" : { "item" : "licheretier8head", "count" : 1 },
-  "groups" : [ "lichereamor", "licherefane" ]
+  "groups" : [ "armors", "all", "lichereamor", "licherefane" ]
 }
