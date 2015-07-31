@@ -1,10 +1,10 @@
 {
-  "objectName" : "lichereionicdrive",
+  "objectName" : "lichereslipdrive",
   "printable" : false,
-  "rarity" : "Uncommon",
+  "rarity" : "Rare",
   "objectType" : "container",
   "tooltipKind" : "container",
-  "learnBlueprintsOnPickup" : [ "lichereslipdrive" ],
+  "learnBlueprintsOnPickup" : [ "lichereteleporter" ],
 
   "category" : "storage",
   "price" : 15,
@@ -19,10 +19,10 @@
   "humanDescription" : "A wooden crate. It's open.",
   "hylotlDescription" : "An open crate.",
 
-  "inventoryIcon" : "lichereionicdriveicon.png",
+  "inventoryIcon" : "lichereslipdriveicon.png",
   "orientations" : [
     {
-      "image" : "lichereionicdrive.png:default",
+      "image" : "lichereslipdrive.png:default",
       "direction" : "left",
       "flipImages" : true,
 
@@ -35,7 +35,7 @@
       "collision" : "platform"
     },
     {
-      "image" : "lichereionicdrive.png:default",
+      "image" : "lichereslipdrive.png:default",
       "direction" : "right",
 
       "imagePosition" : [-8, 0],

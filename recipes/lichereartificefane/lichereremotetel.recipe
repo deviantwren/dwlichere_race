@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "durasteelbar", "count" : 15 },
+    { "item" : "refinedaegisalt", "count" : 4 },
+    { "item" : "teleportercore", "count" : 1 },
+    { "item" : "corefragmentore", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "lichereremotetel",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

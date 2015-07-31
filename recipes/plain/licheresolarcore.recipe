@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 35 },
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 3 },
+    { "item" : "inkbulb", "count" : 3 },
+    { "item" : "boneboo", "count" : 3 },
+    { "item" : "coalore", "count" : 12 }
+
+  ],
+  "output" : {
+    "item" : "licheresolarcore",
+    "count" : 1
+  },
+  "groups" : [ "plain", "licheretech", "licherefane" ]
+}

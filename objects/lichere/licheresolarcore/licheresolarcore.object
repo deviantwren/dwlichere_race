@@ -1,0 +1,70 @@
+{
+  "objectName" : "licheresolarcore",
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "category" : "wire",
+  "price" : 3000,
+
+  "lightColor" : [140, 255, 84],
+  "flickerPeriod" : 15.0,
+  "flickerMinIntensity" : 0.5,
+  "flickerMaxIntensity" : 0.7,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "description" : "A Lichere solar core.",
+  "shortdescription" : "Lichere Solarcore",
+  "race" : "lichere",
+  "learnBlueprintsOnPickup" : [ "licherescience" ],
+
+  "apexDescription" : "A curious light-source.",
+  "avianDescription" : "Dangerous technology.",
+  "floranDescription" : "Throwable weapon?",
+  "glitchDescription" : "Observation. There is no connection port.",
+  "humanDescription" : "Reminds me of a starship series I used to watch.",
+  "hylotlDescription" : "This is technology in a sphere.",
+
+  "inventoryIcon" : "licheresolarcoreicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licheresolarcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresolarcorelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "licheresolarcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresolarcorelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/switch/switch.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/lichere/licheresolarcore/licheresolarcore.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.wav" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.wav" ]
+    }
+  },
+  "animationParts" : {
+    "switch" : "licheresolarcore.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "outboundNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "torch", "count" : 2 },
+    { "item" : "campfire", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "lichereartificefane",
+    "count" : 1
+  },
+  "groups" : [ "plain", "licheretech", "licherefane" ]
+}

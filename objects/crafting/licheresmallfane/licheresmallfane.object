@@ -13,13 +13,14 @@
   "category" : "crafting",
   "price" : 7000,
   
-  "lightColor" : [203, 255, 178],
+  "lightColor" : [94, 171, 56],
+  "lightposition" : [5, 20],
 
-  "flickerPeriod" : 7,
+  "flickerPeriod" : 0.25,
   "flickerMinIntensity" : 0.2,
   "flickerMaxIntensity" : 0.25,
-  "flickerPeriodVariance" : 0.25,
-  "flickerIntensityVariance" : 0.015,
+  "flickerPeriodVariance" : 0.15,
+  "flickerIntensityVariance" : 0.05,
 
   "apexDescription" : "A small, stone table.",
   "avianDescription" : "An small altar of some kind.",

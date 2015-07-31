@@ -1,0 +1,46 @@
+{
+  "objectName" : "lichereremotetel",
+  "objectType" : "teleporter",
+  "rarity" : "Legendary",
+  "description" : "This will let me teleport from anywhere! \n^red;Destroyed when broken.",
+  "shortdescription" : "Lichere Remote Teleporter",
+  "price" : 3000,
+  "printable" : false,
+
+  "apexDescription" : "This teleporter has a curious design.",
+  "avianDescription" : "This teleporter has a curious design.",
+  "floranDescription" : "This teleporter has a curious design.",
+  "glitchDescription" : "This teleporter has a curious design.",
+  "humanDescription" : "This teleporter has a curious design.",
+  "hylotlDescription" : "This teleporter has a curious design.",
+  "novakidDescription" : "This teleporter has a curious design.",
+
+  "category" : "teleporter",
+  "lightColor" : [140, 255, 84],
+  "lightPosition" : [0, 1],
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/remoteteleporter.config",
+
+  "inventoryIcon" : "lichereremotetelicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "lichereremotetel.png:<color>", "fullbright" : true }, { "image" : "lichereremotetellit.png:<color>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    }
+  ],
+
+  "health" : 20,
+
+  "breakDropPool" : "remoteteleporter",
+  
+  "teleporterFootPosition" : [0, 1]
+}

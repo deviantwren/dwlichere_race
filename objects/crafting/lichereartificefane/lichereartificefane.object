@@ -14,11 +14,12 @@
   "price" : 7000,
   
   "lightColor" : [203, 255, 178],
+  "lightposition" : [20, 20],
 
-  "flickerPeriod" : 10,
+  "flickerPeriod" : 0.3,
   "flickerMinIntensity" : 0.2,
   "flickerMaxIntensity" : 0.25,
-  "flickerPeriodVariance" : 0.5,
+  "flickerPeriodVariance" : 0.2,
   "flickerIntensityVariance" : 0.05,
 
   "apexDescription" : "A stone table.",

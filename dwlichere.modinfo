@@ -10,21 +10,24 @@
         }
 }
 
-//change artificefane upper flames to lightning bolts into a ball of energy
-//create lichereionicdrive component & licherescience; make them placeable
-//maybe later make items just colored crates; but these would be more interestin as actual items
+//create alternative teleportercore recipe
+//tier8-10 headb items are not resourcing the correct inventory icon
+//licherehunterchest is not displaying manekin item properly, actual chest piece probably
+//lichereleafchest "", peltchest, survivalistchest
+//cape's short desc name is "billowing"
+//Sprinter's bodice doesn't display correctly; Spectre's chestrig
+//licheresolarcorelit not working; it should fullbright the difference; related to .animation file in use?
+//lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
+//create lichereionicdrive & lichereslipdrive components; make it placable, like science and solarcore
 //finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
 //conform t4-8 lit ship.pngs to 95% opacity
-//create artificefane.recipe
-//add ship jury-rig exterior files and shipupgrade elements, and recipe them into "licheretech" & "licherefane" 
 //sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
-//use "licheretech" & "licherefane" for items related to ship rigging (upgradeship1-8)
-//create lichere cooking table, and use "licherefood" as the recipe list
+//use "licheretech" for items related to ship rigging (upgradeship1-8)
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
 //list and pan out substitute quests, and eventually tie into others
 //completely bypass outpost quests...
 //lichere starter clothes chest icons (all but one isn't working)
 //modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
-//figure out what file controls dying using lichere respawn files already in place...
+//figure out what file & reference controls dying using lichere respawn files already in place...
 //adjust lichere spawn images to ceiling-hanging plant
