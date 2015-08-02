@@ -10,7 +10,9 @@
       { "item" : "lichereartificefane" },
       { "item" : "licheresmallfane" },
       { "item" : "licheresolarcore" },
+      { "item" : "licherecorecluster" },
       { "item" : "lichereionicdrive" },
+      { "item" : "liquidalienjuice" },
 
       { "item" : "licheretier1shortsword" },
       { "item" : "licheretier1broadsword" },

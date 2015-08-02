@@ -4,7 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Legendary",
   "description" : "A ragged cape. Perfect for billowing epically in the wind.",
-  "shortdescription" : "Ragged Cape of Epic Billowing",
+  "shortdescription" : "Epic Cape of Billowing",
 
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",

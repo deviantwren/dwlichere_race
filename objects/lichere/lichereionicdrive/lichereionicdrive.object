@@ -2,56 +2,32 @@
   "objectName" : "lichereionicdrive",
   "printable" : false,
   "rarity" : "Uncommon",
-  "objectType" : "container",
-  "tooltipKind" : "container",
+  "description" : "Engine parts.",
+  "shortdescription" : "Lichere Ionic Drive",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 8500,
   "learnBlueprintsOnPickup" : [ "lichereslipdrive" ],
 
-  "category" : "storage",
-  "price" : 15,
-  "description" : "A mysterious wooden crate.",
-  "shortdescription" : "Wooden Crate",
-  "race" : "generic",
-
-  "apexDescription" : "A wooden crate.",
-  "avianDescription" : "A storage box.",
-  "floranDescription" : "Box!",
-  "glitchDescription" : "Curiosity. Is there anything inside?",
-  "humanDescription" : "A wooden crate. It's open.",
-  "hylotlDescription" : "An open crate.",
+  "apexDescription" : "Enginge scrap, yes?",
+  "avianDescription" : "Looks like an unused engine.",
+  "floranDescription" : "If Floran eats lots, maybe can lift and wield metal boulder.",
+  "glitchDescription" : "Disapproving. Unallocated engine scrap.",
+  "humanDescription" : "Where's the hoarder?",
+  "hylotlDescription" : "That could have some use, but I'm not sure what.",
 
   "inventoryIcon" : "lichereionicdriveicon.png",
   "orientations" : [
     {
-      "image" : "lichereionicdrive.png:default",
-      "direction" : "left",
-      "flipImages" : true,
+      "dualImage" : "lichereionicdrive.png:<color>",
 
-      "imagePosition" : [-8, 0],
+      "imagePosition" : [-16, 0],
       "frames" : 1,
-      "animationCycle" : 0.5,
+      "animationCycle" : 1.0,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "lichereionicdrive.png:default",
-      "direction" : "right",
+      "anchors" : [ "bottom" ]
 
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
     }
-  ],
-
-  "openSounds" : [ "/sfx/objects/woodenbox_open.wav" ],
-  "closeSounds" : [ "/sfx/objects/woodenbox_close.wav" ],
-  "slotCount" : 16,
-  "uiConfig" : "/interface/chests/chest%slots%.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
+  ]
 }

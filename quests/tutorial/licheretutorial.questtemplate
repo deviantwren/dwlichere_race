@@ -1,14 +1,16 @@
 {
   "id" : "licheretutorial.gearup",
   "title" : "^orange;Toe-class Escape Module",
-  "text" : "^#aee1ee;SystemNotice: ^white;Escape module control denied by user(^blue;ai.mindcore^white;).",
-  "completionText" : "SystemNotice: Updating System Log.",
+  "text" : "Called it-- re-entry chute failure alarm goes off now that I'm in teleportation range. Plan Now: Salvage this thruster-less escape module by jury-rigging some kind of I-drive, an ^blue;ionic compression drive^white; should do. I have time. Orbital decay wasn't an issue before the sensor array malfunctioned.",
+  "completionText" : "Idea! We might have enough core fragments, already.",
   "conditions" : [
-    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
+    { "kind" : "gather", "item" : [ "corefragmentore", 15], "consume" : false }
   ],
   "moneyRange" : [0, 0],
+  "rewards" : [
+   ],
   "planetMode" : "none",
-  "followUp" : "juryrigftl.gearup",
+  "followUp" : "ionicdrive.gearup",
   "questDungeons" : [ ],
   "canBeAbandoned" : false
 }

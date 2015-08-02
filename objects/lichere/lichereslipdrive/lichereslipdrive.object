@@ -1,57 +1,33 @@
 {
   "objectName" : "lichereslipdrive",
   "printable" : false,
-  "rarity" : "Rare",
-  "objectType" : "container",
-  "tooltipKind" : "container",
-  "learnBlueprintsOnPickup" : [ "lichereteleporter" ],
-
-  "category" : "storage",
-  "price" : 15,
-  "description" : "A mysterious wooden crate.",
-  "shortdescription" : "Wooden Crate",
+  "rarity" : "Uncommon",
+  "description" : "High-Tech Engine parts.",
+  "shortdescription" : "Lichere Slip Drive",
   "race" : "generic",
+  "category" : "furniture",
+  "price" : 9900,
+  "learnBlueprintsOnPickup" : [ "licheretelcore", "lichereremotetel" ],
 
-  "apexDescription" : "A wooden crate.",
-  "avianDescription" : "A storage box.",
-  "floranDescription" : "Box!",
-  "glitchDescription" : "Curiosity. Is there anything inside?",
-  "humanDescription" : "A wooden crate. It's open.",
-  "hylotlDescription" : "An open crate.",
+  "apexDescription" : "Unorganized scrap.",
+  "avianDescription" : "Looks like garbage.",
+  "floranDescription" : "Not very good for spear.",
+  "glitchDescription" : "Disapproving. Unallocated scrap.",
+  "humanDescription" : "There's a hoarder nearby.",
+  "hylotlDescription" : "I doubt that has any use any longer.",
 
   "inventoryIcon" : "lichereslipdriveicon.png",
   "orientations" : [
     {
-      "image" : "lichereslipdrive.png:default",
-      "direction" : "left",
-      "flipImages" : true,
+      "dualImage" : "lichereslipdrive.png:<color>",
 
-      "imagePosition" : [-8, 0],
+      "imagePosition" : [-16, 0],
       "frames" : 1,
-      "animationCycle" : 0.5,
+      "animationCycle" : 1.0,
 
       "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
-    },
-    {
-      "image" : "lichereslipdrive.png:default",
-      "direction" : "right",
+      "anchors" : [ "bottom" ]
 
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ],
-      "collision" : "platform"
     }
-  ],
-
-  "openSounds" : [ "/sfx/objects/woodenbox_open.wav" ],
-  "closeSounds" : [ "/sfx/objects/woodenbox_close.wav" ],
-  "slotCount" : 16,
-  "uiConfig" : "/interface/chests/chest%slots%.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
+  ]
 }

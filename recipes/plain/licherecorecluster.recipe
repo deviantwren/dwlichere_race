@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 15 }
+
+  ],
+  "output" : {
+    "item" : "licherecorecluster",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
+}

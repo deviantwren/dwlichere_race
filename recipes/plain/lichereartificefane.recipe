@@ -10,5 +10,5 @@
     "item" : "lichereartificefane",
     "count" : 1
   },
-  "groups" : [ "plain", "licheretech", "licherefane" ]
+  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
 }

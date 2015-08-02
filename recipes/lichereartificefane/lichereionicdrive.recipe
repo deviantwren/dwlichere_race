@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "corefragmentore", "count" : 15 },
-    { "item" : "licherescience", "count" : 2 }
+    { "item" : "licherescience", "count" : 2 },
+    { "item" : "ironbar", "count" : 3 }
   ],
-  "output" : {
+  "output" : { 
     "item" : "lichereionicdrive",
     "count" : 1
   },

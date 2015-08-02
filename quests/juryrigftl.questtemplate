@@ -6,7 +6,7 @@
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairftl" }
   ],
-  "moneyRange" : [500, 500],
+  "moneyRange" : [0, 0],
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "fuel222.gearup",

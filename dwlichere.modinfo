@@ -10,24 +10,26 @@
         }
 }
 
-//create alternative teleportercore recipe
-//tier8-10 headb items are not resourcing the correct inventory icon
-//licherehunterchest is not displaying manekin item properly, actual chest piece probably
-//lichereleafchest "", peltchest, survivalistchest
-//cape's short desc name is "billowing"
-//Sprinter's bodice doesn't display correctly; Spectre's chestrig
-//licheresolarcorelit not working; it should fullbright the difference; related to .animation file in use?
-//lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
+//todolist
+//figure out a way to use lichereionicdrive and lichereslipdrive, as they're already in-game
+//double all tiered armors as vanity items selectable from start as starter clothes with all colors?
 //create lichereionicdrive & lichereslipdrive components; make it placable, like science and solarcore
 //finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
-//conform t4-8 lit ship.pngs to 95% opacity
 //sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
-//use "licheretech" for items related to ship rigging (upgradeship1-8)
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
 //list and pan out substitute quests, and eventually tie into others
 //completely bypass outpost quests...
-//lichere starter clothes chest icons (all but one isn't working)
 //modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
 //figure out what file & reference controls dying using lichere respawn files already in place...
 //adjust lichere spawn images to ceiling-hanging plant
+//
+//notes
+//conform t4-8 lit ship.pngs to 95% opacity
+//ai.config.patch has //code that can be implimented to start the quest progression if custom questing is possible
+//upgradelichere1.aicommand.disabled can be implimented as first stage in quest progression
+//blinking 'e' over shiplocker is found in shiplockertier0 as the particle "emid.png"; pixel origin
+//lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
+//licheresolarcorelit not working; it should fullbright the difference; related to .animation file in use?
+//use "licheretech" for items related to ship rigging (upgradeship1-8)
+

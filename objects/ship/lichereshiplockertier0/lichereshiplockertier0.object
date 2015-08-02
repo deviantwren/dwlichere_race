@@ -17,7 +17,7 @@
 
   "particleEmitter" : {
     "emissionRate" : 1,
-    "pixelOrigin" : [44, 27],
+    "pixelOrigin" : [15, -15],
 
     "particle" : {
       "type" : "textured",

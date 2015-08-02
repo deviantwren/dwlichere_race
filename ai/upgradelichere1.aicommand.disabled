@@ -1,0 +1,59 @@
+{
+  "commandName" : "upgradeLichere1",
+  "icon" : "ai.png",
+  "actions" : [
+    { 
+      "action" : "PlaySound",
+      "sound" : "/sfx/interface/ship_powerup1.wav",
+      "loops" : 0
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 1
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeLichere1"
+    },
+    {
+      "action" : "DisableCommand",
+      "command" : "upgradeShip1"
+    },
+    {
+       "action" : "EnableCommand",
+       "command" : "upgradeShip3"
+    },
+    { 
+      "action" : "showTech",
+      "techName" : [ "doublejumpTech", "dashTech", "bounceTech" ]  
+    }
+  ],
+
+  "speciesText" : {
+    "lichere" : { "buttonText" : "Purge System (WarKey:*******)",
+      "selectSpeech" : [
+        {
+          "animation" : "unique",
+          "text" : "SystemNotice: ^green;Reviewing log from parent vessel for user(^red;current^green;):                       ^white;* * * * * * * * * * * * * * * * * * ^orange;46:15 ^white;Autopilot failsafes purged. ^orange;48:10 ^white;Proximity alarm. ^orange;48:17 ^white;Collision alarm. ^orange;48:19 ^white;Hull breach alarm(7). ^orange;48:88 ^white;Collision alarm. ^orange;48:90 ^white;Decompression alarm. ^orange;48:93 ^white;Catasprophic system failure. ^orange;49:71 ^white;Escape module launch detected.                              * * * * * * * * * * * * * * * * * *",
+          "speedModifier" : 0.6
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "SystemNotice: ^white;Purging system. Unauthorized user privileges detected. ^orange;MindCoreFailsafe() ^white;executed.                                                 ^orange;SystemError: ^white;Cascading systems failure.",
+          "speedModifier" : 0.6
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "SystemNotice: ^white;Invalid WarKey. Please check and re-enter code.",
+          "speedModifier" : 0.6
+        }
+      ]
+    }
+  }
+}

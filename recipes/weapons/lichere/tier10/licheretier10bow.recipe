@@ -3,10 +3,9 @@
     { "item" : "imperviumcompound", "count" : 8 },
     { "item" : "rubiumore", "count" : 8 },
     { "item" : "bone", "count" : 15 },
-    { "item" : "inkbulb", "count" : 7 },
     { "item" : "laserdiode", "count" : 2 },
     { "item" : "circuitboard", "count" : 1 },
-    { "item" : "teleportercore", "count" : 1 },
+    { "item" : "licheretelcore", "count" : 1 },
     { "item" : "solariumstar", "count" : 2 }
   ],
   "output" : { "item" : "licheretier10bow", "count" : 1 },
