@@ -1,16 +1,16 @@
 {
   "id" : "licheretutorial.gearup",
   "title" : "^orange;Toe-class Escape Module",
-  "text" : "Called it-- re-entry chute failure alarm goes off now that I'm in teleportation range. Plan Now: Salvage this thruster-less escape module by jury-rigging some kind of I-drive, an ^blue;ionic compression drive^white; should do. I have time. Orbital decay wasn't an issue before the sensor array malfunctioned.",
-  "completionText" : "Idea! We might have enough core fragments, already.",
+  "text" : "Finally within teleportation range! Time to grab the ^blue;emergency tools ^white;and disembark! Plan Now: Salvage this thruster-less escape module by jury-rigging some kind of engine. Orbital decay shouldn't be an issue for a while.",
+  "completionText" : "Not a bad fabrication job.",
   "conditions" : [
-    { "kind" : "gather", "item" : [ "corefragmentore", 15], "consume" : false }
+    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
   ],
   "moneyRange" : [0, 0],
   "rewards" : [
    ],
   "planetMode" : "none",
-  "followUp" : "ionicdrive.gearup",
+  "followUp" : "2_options.gearup",
   "questDungeons" : [ ],
   "canBeAbandoned" : false
 }

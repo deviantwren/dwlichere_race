@@ -1,0 +1,24 @@
+{
+  "itemName" : "licherebrokeaxe",
+  "inventoryIcon" : "licherebrokeaxeicon.png",
+  "rarity" : "Legendary",
+  "maxStack" : 1,
+  "description" : "A malfunctioning beamaxe that was at some point illegally tampered with.",
+  "shortdescription" : "Broken Beamaxe",
+  "printable" : false,
+
+  "image" : "licherebrokeaxe.png",
+  "handPosition" : [-1, 0],
+  "firePosition" : [20, 1],
+
+  "fireTime" : 0.05,
+  "inaccuracy" : 0.1,
+  "twoHanded" : false,
+  "level" : 1,
+
+  "projectileType" : "brainshock",
+  "projectile" : { "speed" : 5,
+    "power" : 1,
+    "color" : [10, 255, 10]
+  }
+}

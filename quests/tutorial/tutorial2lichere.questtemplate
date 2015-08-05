@@ -1,0 +1,14 @@
+{
+  "id" : "tutorial2lichere.gearup",
+  "title" : "^orange;Fresh Reaper II: Science",
+  "text" : "I will need a ^blue;small artifice fane ^white;eventually if I'm going to fabricate an ^blue;ionic compression drive^white. But easier said than done.",
+  "completionText" : "May the science of great minds commence! Namely mine. I'll get by.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "licheresmallfane", 1], "consume" : false }
+  ],
+  "moneyRange" : [10, 10],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial3lichere.gearup",
+  "canBeAbandoned" : false
+}

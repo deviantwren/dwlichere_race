@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licheretier5bow", "count" : 1 },
+    { "item" : "feroziumcompound", "count" : 8 },
+    { "item" : "laserdiode", "count" : 2 },
+    { "item" : "circuitboard", "count" : 1 }
+  ],
+  "output" : { "item" : "licheretier6bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

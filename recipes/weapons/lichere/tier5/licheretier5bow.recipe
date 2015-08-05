@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "licheretier4bow", "count" : 1 },
+    { "item" : "refinedaegisalt", "count" : 4 },
+    { "item" : "alienstripedwood", "count" : 10 }
+  ],
+  "output" : { "item" : "licheretier5bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

@@ -4,7 +4,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/lichereartificefane.config",
-    "filter" : [ "licherefane" ]
+    "filter" : [ "plain", "licheretech", "licherehightech" ]
   },
   "printable" : false,
   "description" : "This table has magic! Unexplained science is magic!",
@@ -35,8 +35,8 @@
       "imageLayers" : [ { "image" : "lichereartificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereartificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
-      "frames" : 4,
-      "animationCycle" : 0.5,
+      "frames" : 6,
+      "animationCycle" : 0.7,
       
       "direction" : "left",
       "flipImages" : true,
@@ -51,8 +51,8 @@
       "imageLayers" : [ { "image" : "lichereartificefane.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereartificefanelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
-      "frames" : 4,
-      "animationCycle" : 0.5,
+      "frames" : 6,
+      "animationCycle" : 0.7,
       
       "direction" : "right",
       

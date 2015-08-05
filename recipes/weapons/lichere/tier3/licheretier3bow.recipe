@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licheretier2bow", "count" : 1 },
+    { "item" : "titaniumbar", "count" : 1 },
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "bone", "count" : 5 }
+  ],
+  "output" : { "item" : "licheretier3bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

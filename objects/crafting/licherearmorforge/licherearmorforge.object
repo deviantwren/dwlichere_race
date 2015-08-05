@@ -1,0 +1,65 @@
+{
+  "objectName" : "licherearmorforge",
+  "rarity" : "legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "filter" : [ "licherearmor" ]
+  },
+  "printable" : false,
+  "description" : "This table has magic! Unexplained science is magic!",
+  "shortdescription" : "^orange;Armor Artificing Forge^white;",
+  "race" : "lichere",
+  "category" : "crafting",
+  "price" : 7000,
+  
+  "lightColor" : [0, 240, 255],
+
+  "flickerPeriod" : 10,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.25,
+  "flickerPeriodVariance" : 0.3,
+  "flickerIntensityVariance" : 0.05,
+
+  "apexDescription" : "A stone slab.",
+  "avianDescription" : "An unnatural slab.",
+  "floranDescription" : "Stone table. Good for everything.",
+  "glitchDescription" : "Analyzing. Rock modified by sub-intelligent sentient life.",
+  "humanDescription" : "Caveman designs look scrawled all over this table.",
+  "hylotlDescription" : "These kind of tables make me feel uneasy.",
+
+  "inventoryIcon" : "licherearmorforgeicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licherearmorforge.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherearmorforgelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 5,
+      "animationCycle" : 0.4,
+      
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "lightPosition" : [ -1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "imageLayers" : [ { "image" : "licherearmorforge.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherearmorforgelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 5,
+      "animationCycle" : 0.4,
+      
+      "direction" : "right",
+      
+      "lightPosition" : [ 0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

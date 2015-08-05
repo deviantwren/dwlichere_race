@@ -12,7 +12,7 @@
   "flickerPeriodVariance" : 0.075,
   "flickerIntensityVariance" : 0.025,
 
-  "description" : "A Lichere solar core.",
+  "description" : "A solar-energized core.",
   "shortdescription" : "Lichere Solarcore",
   "race" : "lichere",
   "learnBlueprintsOnPickup" : [ "licherescience" ],

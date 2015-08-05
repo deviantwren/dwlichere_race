@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "licheresolarcore", "count" : 1 },
-    { "item" : "licherecorecluster", "count" : 1 }
+    { "item" : "corefragmentore", "count" : 2 }
   ],
   "output" : {
     "item" : "licherescience",

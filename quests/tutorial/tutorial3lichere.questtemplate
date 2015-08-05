@@ -1,0 +1,14 @@
+{
+  "id" : "tutorial3lichere.gearup",
+  "title" : "^blue;Fresh Reaper III: Prepare Yourself",
+  "text" : "Now to build that ^blue;ionic compression drive. ^white;To do that I'll need: ...",
+  "completionText" : "That wasn't too bad. I could make all sorts of things from ^orange;plant fibres^white;, from ^orange;ropes^white; to ^orange;cloth.^white;",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "bandage", 1], "consume" : false }
+  ],
+  "moneyRange" : [10, 10],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial4.gearup",
+  "canBeAbandoned" : false
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licheretier7bow", "count" : 1 },
+    { "item" : "refinedviolium", "count" : 8 },
+    { "item" : "violiumore", "count" : 2 },
+    { "item" : "uraniumrod", "count" : 3 }
+  ],
+  "output" : { "item" : "licheretier8bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

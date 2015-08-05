@@ -1,0 +1,15 @@
+{
+  "id" : "tutorial1lichere.gearup",
+  "title" : "^orange;Fresh Reaper I: Fire",
+  "text" : "I need a light, and I don't mean plant-burning that induces inhalation deficiencies. I need a large pack of flares, or a ^blue;flashlight.",
+  "completionText" : "A ^red;red, low-light flashlight? ^white;Oh! Good thing I saw those saplings. I will most likely need those.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "redflashlight", 1], "consume" : false }
+  ],
+  "moneyRange" : [10, 10],
+  "enableAiCommands" : [ "upgradeBeamaxe1" ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial2lichere.gearup",
+  "canBeAbandoned" : false
+}

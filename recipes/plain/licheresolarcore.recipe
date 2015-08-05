@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "plantfibre", "count" : 35 },
-    { "item" : "ironbar", "count" : 1 },
-    { "item" : "copperbar", "count" : 3 },
+    { "item" : "ironore", "count" : 1 },
+    { "item" : "copperore", "count" : 3 },
     { "item" : "liquidalienjuice", "count" : 10 }
   ],
   "output" : {

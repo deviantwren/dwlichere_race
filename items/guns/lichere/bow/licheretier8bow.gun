@@ -1,0 +1,41 @@
+{
+  "itemName" : "licheretier8bow",
+  "inventoryIcon" : "licheretier10bowicon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "tooltipKind" : "bow",
+  "weaponType" : "Bow",
+  "learnBlueprintsOnPickup" : [ "licheretier9bow" ],
+
+  "description" : "For precision slaughter on the perpetual hunt.",
+  "shortdescription" : "Reaper Bow",
+  "image" : "licheretier10bow.png:<frame>",
+  "imageFrameSelector" : "bowImageSelector",
+  "handPosition" : [0, -0.5],
+  "firePosition" : [12, 1.5],
+  "baseDps" : [8, 8],
+  "level" : 1,
+  "fireTime" : 0.65,
+  "inaccuracy" : 0.004,
+  "twoHanded" : true,
+
+  "fireOnRelease" : true,
+  "walkWhileFiring" : true,
+
+  "projectileType" : "reapersurge",
+  "powerProjectileType" : "chargedreapersurge",
+  "powerProjectileTime" : [0.9, 1.1],
+  "projectile" : {
+    "speed" : 115,
+    "speedCurve" : "drawTimeMultiplier",
+    "power" : 8,
+    "powerCurve" : "drawTimeMultiplier",
+    "color" : [220, 10, 10]
+  },
+
+  "muzzleEffect" : {
+    "animation" : "/animations/muzzleflash/plasmamuzzle3/plasmamuzzle3.animation",
+    "fireSound" : [ { "file" : "/sfx/gun/lightningcoil1.wav" }, { "file" : "/sfx/gun/lightningcoil2.wav" }, { "file" : "/sfx/gun/lightningcoil3.wav" } ]
+  }
+}

@@ -5,16 +5,10 @@
   "value" : [
       [0, {
       "fill" : [
-        {"pool" : "starterTreasure"},
         {"item" : [ "licherestarter", 1]},
         {"item" : [ "redflashlight", 1]},
-        {"item" : [ "licheresmallfane", 1]},
-        {"item" : [ "bonebooseed", 3]},
-        {"item" : [ "neonmelonseed", 3]},
-        {"item" : [ "licheretier10bow", 1]},
-        {"item" : [ "lichereragcape", 1]},
-        {"item" : [ "lichereionicdrive", 1]},
-        {"item" : [ "lichereslipdrive", 1]},
+        {"item" : [ "licherebrokeaxe", 1]},
+        {"item" : [ "licheretier1bow", 1]},
         {"item" : [ "corefragmentore", 20]},
         {"item" : [ "supermatter", 20]},
         {"item" : [ "liquidfuel", 1000]}

@@ -1,12 +1,12 @@
 {
   "input" : [
+    { "item" : "licheretier9bow", "count" : 1 },
     { "item" : "imperviumcompound", "count" : 8 },
     { "item" : "rubiumore", "count" : 8 },
-    { "item" : "bone", "count" : 15 },
-    { "item" : "laserdiode", "count" : 2 },
-    { "item" : "circuitboard", "count" : 1 },
     { "item" : "licheretelcore", "count" : 1 },
-    { "item" : "solariumstar", "count" : 2 }
+    { "item" : "diamond", "count" : 15 },
+    { "item" : "solariumstar", "count" : 5 },
+    { "item" : "liquidalienjuice", "count" : 3 }
   ],
   "output" : { "item" : "licheretier10bow", "count" : 1 },
   "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]

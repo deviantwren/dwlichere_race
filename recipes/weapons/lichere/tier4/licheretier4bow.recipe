@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "licheretier3bow", "count" : 1 },
+    { "item" : "durasteel", "count" : 2 },
+    { "item" : "bone", "count" : 5 }
+  ],
+  "output" : { "item" : "licheretier4bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

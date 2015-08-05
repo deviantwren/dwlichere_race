@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licheretier6bow", "count" : 1 },
+    { "item" : "ceruliumcompound", "count" : 8 },
+    { "item" : "rainbowwood", "count" : 10 },
+    { "item" : "bone", "count" : 10 }
+  ],
+  "output" : { "item" : "licheretier7bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}
