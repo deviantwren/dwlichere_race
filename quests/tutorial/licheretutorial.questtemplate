@@ -1,16 +1,16 @@
 {
   "id" : "licheretutorial.gearup",
-  "title" : "^orange;Toe-class Escape Module",
-  "text" : "Finally within teleportation range! Time to grab the ^blue;emergency tools ^white;and disembark! Plan Now: Salvage this thruster-less escape module by jury-rigging some kind of engine. Orbital decay shouldn't be an issue for a while.",
-  "completionText" : "Not a bad fabrication job.",
+  "title" : "^blue;Toe-class Escape Module",
+  "text" : "^blue;SynapticID0: ^white;You are within teleportation range. ^orange;Gear up ^white;prior acting on your intention to ^orange;disembark ^white;this derelict, thruster-less escape module.",
+  "completionText" : "^blue;SynapticID0: ^white;Quoting, 'Nothing can stop a Lichere Reaper with the correct gear.', but perhaps you shouldn't advertise that just now.  Your present state is...interruption. Confirmed. Accessing SynapticID0 dialogue settings.",
   "conditions" : [
-    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
+    { "kind" : "gather", "item" : [ "licherelight", 1], "consume" : false }
   ],
   "moneyRange" : [0, 0],
   "rewards" : [
    ],
   "planetMode" : "none",
-  "followUp" : "2_options.gearup",
+  "followUp" : "tutorial1lichere.gearup",
   "questDungeons" : [ ],
   "canBeAbandoned" : false
 }

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 3 },
+    { "item" : "liquidalienjuice", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licherebandage",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
+}

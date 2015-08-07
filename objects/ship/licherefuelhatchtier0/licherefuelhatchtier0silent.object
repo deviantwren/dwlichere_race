@@ -1,0 +1,40 @@
+{
+  "objectName" : "licherefuelhatchtier0silent",
+  "rarity" : "Common",
+  "description" : "It's a systems access hatch.",
+  "shortdescription" : "Systems Access Hatch",
+  "race" : "lichere",
+  "lightColor" : [213, 115, 115],
+
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.0,
+  "flickerMaxIntensity" : 0.6,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "An access hatch.",
+  "avianDescription" : "That looks like an access panel.",
+  "floranDescription" : "Blinking light. Glitch do that.",
+  "glitchDescription" : "Analyzing. Light sequence suggests distress.",
+  "humanDescription" : "An access panel.",
+  "hylotlDescription" : "A traditional access panel.",
+  
+  "breakDropOptions" : [],
+
+  "inventoryIcon" : "licherefuelhatchtier0icon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "licherefuelhatchtier0.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherefuelhatchlittier0.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, -8],
+      "frames" : 8,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "sounds" : [ "/sfx/interface/ship_error1.wav" ]
+
+}

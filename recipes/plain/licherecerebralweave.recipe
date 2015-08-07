@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 10 }
+
+  ],
+  "output" : {
+    "item" : "licherecerebralweave",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
+}

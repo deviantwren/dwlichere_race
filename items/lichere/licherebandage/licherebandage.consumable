@@ -1,0 +1,24 @@
+{
+  "itemName" : "licherebandage",
+  "rarity" : "Common",
+  "price" : 325,
+  "inventoryIcon" : "licherebandage.png",
+  "description" : "A liquid bandage for healing wounds. Using it restores 100 health.",
+  "shortdescription" : "Liquid Bandage",
+  "effects" : [ [
+      {
+        "effect" : "bandage6",
+        "duration" : 5
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "bandageuse" ],
+  "blockingEffects" : [
+    "bandage1",
+    "bandage2",
+    "bandage3",
+    "bandage4",
+    "bandage5",
+    "bandage6"
+  ]
+}

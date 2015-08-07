@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 12 },
-    { "item" : "ironore", "count" : 4 },
-    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "ironore", "count" : 5 },
+    { "item" : "lichereisocore", "count" : 1 },
     { "item" : "torch", "count" : 2 },
     { "item" : "campfire", "count" : 1 }
   ],

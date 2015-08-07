@@ -21,7 +21,7 @@
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;20 Core fragments^white;) detected in substratum layers.               All required compounds found for custom blueprint: ^green;ionic compression drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
+          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;core fragments^white;) detected in substratum layers.               All required compounds found for custom blueprint: ^green;ionic compression drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
           "speedModifier" : 0.6
         }
       ]

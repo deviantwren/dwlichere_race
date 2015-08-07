@@ -6,9 +6,10 @@
       [0, {
       "fill" : [
         {"item" : [ "licherestarter", 1]},
-        {"item" : [ "redflashlight", 1]},
+        {"item" : [ "licherelight", 1]},
         {"item" : [ "licherebrokeaxe", 1]},
-        {"item" : [ "licheretier1bow", 1]},
+        {"item" : [ "licheretent", 1]},
+        {"item" : [ "sapling", 1]},
         {"item" : [ "corefragmentore", 20]},
         {"item" : [ "supermatter", 20]},
         {"item" : [ "liquidfuel", 1000]}

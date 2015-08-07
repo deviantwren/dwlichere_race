@@ -4,7 +4,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/lichereartificefane.config",
-    "filter" : [ "licherearmor" ]
+    "filter" : [ "licherecloth", "licherearmor" ]
   },
   "printable" : false,
   "description" : "This table has magic! Unexplained science is magic!",

@@ -1,13 +1,12 @@
 {
   "id" : "tutorial1lichere.gearup",
-  "title" : "^orange;Fresh Reaper I: Fire",
-  "text" : "I need a light, and I don't mean plant-burning that induces inhalation deficiencies. I need a large pack of flares, or a ^blue;flashlight.",
-  "completionText" : "A ^red;red, low-light flashlight? ^white;Oh! Good thing I saw those saplings. I will most likely need those.",
+  "title" : "^blue;Fresh Reaper I: Science",
+  "text" : "^blue;SynapticID0: ^white;Yes, this escape module's core systems could support a jury-rigged engine, Reaper. My ^blue;blueprint database [C] ^white;contains the schematic for a ^orange;Simple Artifice Fane^white;, necessary in fabricating basic Lichere technology.",
+  "completionText" : "^blue;SynapticID0: ^white;Quoting, 'May the science and artificery of great minds commence!' Namely yours, Reaper. Your IQ suggests you will manage.",
   "conditions" : [
-    { "kind" : "gather", "item" : [ "redflashlight", 1], "consume" : false }
+    { "kind" : "gather", "item" : [ "licheresmallfane", 1], "consume" : false }
   ],
-  "moneyRange" : [10, 10],
-  "enableAiCommands" : [ "upgradeBeamaxe1" ],
+  "moneyRange" : [100, 100],
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "tutorial2lichere.gearup",

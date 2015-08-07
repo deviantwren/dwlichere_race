@@ -1,12 +1,10 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 35 },
-    { "item" : "ironore", "count" : 1 },
-    { "item" : "copperore", "count" : 3 },
+    { "item" : "corefragmentore", "count" : 2 },
     { "item" : "liquidalienjuice", "count" : 10 }
   ],
   "output" : {
-    "item" : "licheresolarcore",
+    "item" : "lichereisocore",
     "count" : 1
   },
   "groups" : [ "all", "plain", "licheretech", "licherefane" ]

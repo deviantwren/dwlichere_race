@@ -3,7 +3,7 @@
   "op" : "add",
   "path" : "/speciesText/lichere",
   "value" : {
-      "buttonText" : "Jury-Rig Slip-Drive Coils",
+      "buttonText" : "Jury-Rig Slip-Drive",
       "selectSpeech" : [
         {
           "animation" : "talk",

@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "licherescience", "count" : 2 },
-    { "item" : "ironbar", "count" : 3 }
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "ironbar", "count" : 5 }
   ],
   "output" : { 
     "item" : "lichereionicdrive",

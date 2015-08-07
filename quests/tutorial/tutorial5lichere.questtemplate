@@ -1,0 +1,17 @@
+{
+  "id" : "tutorial5lichere.gearup",
+  "title" : "^blue;Fresh Reaper IV: Slip-drive Halo",
+  "text" : "^blue;SynapticID0: ^white;WarKey validated. Loading ^orange;Slip Drive into Artifice Fane's mindcore.",
+  "completionText" : "^blue;SynapticID0; ^white;Processing recorded fabrication of the Slip Drive for future stream-lining.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "lichereslipdrive", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+      [ [ "supermatter", 20 ] ]
+    ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tutorial6lichere.gearup",
+  "canBeAbandoned" : false
+}

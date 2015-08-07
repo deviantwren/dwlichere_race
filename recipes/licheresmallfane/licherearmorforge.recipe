@@ -1,12 +1,12 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 20 },
-    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "licherescience", "count" : 1 },
     { "item" : "campfire", "count" : 2 }
   ],
   "output" : {
     "item" : "licherearmorforge",
     "count" : 1
   },
-  "groups" : [ "all", "licherehightech", "licherefane" ]
+  "groups" : [ "all", "licheretech", "licherefane" ]
 }

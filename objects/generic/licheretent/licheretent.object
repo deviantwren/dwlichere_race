@@ -1,0 +1,44 @@
+{
+  "objectName" : "licheretent",
+  "rarity" : "Uncommon",
+  "description" : "An emergency tent!",
+  "shortdescription" : "Emergency Tent",
+  "race" : "lichere",
+  "category" : "furniture",
+  "price" : 1325,
+
+  "apexDescription" : "A tent. It smells like...nature.",
+  "avianDescription" : "I don't want to get in there. I'll smell like plant.",
+  "floranDescription" : "Little green houssse.",
+  "glitchDescription" : "Irritated. There isn't much room.",
+  "humanDescription" : "Camping! Nature! One with the wild.",
+  "hylotlDescription" : "I am not sleeping in that tent. It smells like lichen.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-6, 7],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/generic/licheretent/licheretentlit.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration1",
+    "nude",
+    "intents"
+  ],
+
+  "inventoryIcon" : "licheretenticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "licheretent.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

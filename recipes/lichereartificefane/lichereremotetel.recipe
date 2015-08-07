@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "licherescience", "count" : 1 },
     { "item" : "durasteelbar", "count" : 15 },
     { "item" : "refinedaegisalt", "count" : 5 },
     { "item" : "plutoniumrod", "count" : 5 },

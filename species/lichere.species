@@ -9,11 +9,17 @@
     "tier1" : [
       { "item" : "lichereartificefane" },
       { "item" : "licheresmallfane" },
-      { "item" : "licheresolarcore" },
+      { "item" : "licherearmorforge" },
+      { "item" : "lichereweaponforge" },
+      { "item" : "liquidalienjuice" },
+      { "item" : "licherecerebralweave" },
+      { "item" : "licheremindcore" },
+      { "item" : "lichereisocore" },
       { "item" : "licherecorecluster" },
       { "item" : "lichereionicdrive" },
-      { "item" : "liquidalienjuice" },
+      { "item" : "licherebandage" },
 
+      { "item" : "licheretier1bow" },
       { "item" : "licheretier1shortsword" },
       { "item" : "licheretier1broadsword" },
       { "item" : "licheretier1spear" },
@@ -35,9 +41,7 @@
       { "item" : "licheresurvivalistlegs" },
       { "item" : "lichereragcape" },
       
-      { "item" : "flaglichere" },
-      
-      { "item" : "licheretier10bow" }
+      { "item" : "flaglichere" }
     ]
   },
   "altOptionAsUndyColor" : true,

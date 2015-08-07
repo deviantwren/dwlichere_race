@@ -44,10 +44,4 @@
       ]
     }
   }
-//,
-//  {
-//  "op" : "add",
-//  "path" : "/enableCommandsAtLevel/0",
-//  "value" : ["upgradeShip1", "upgradeLichere1"]
-//  }
 ]

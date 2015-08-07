@@ -1,0 +1,17 @@
+{
+  "id" : "tutorial6lichere.gearup",
+  "title" : "^blue;Fresh Reaper IV: Slip-drive Halo",
+  "text" : "^blue;SynapticID0: ^white;Command received. Link established to ^orange;escape module's AI. ^white;Teleportation module on-line for use in remote fabrication and jury-rigging of Slip Drive to escape module hull.",
+  "completionText" : "^blue;SynapticID0: ^white;Thought recorded as, 'Back to the perpetual hunt and the pure evolution of the Lichere Reapers!'.",
+  "conditions" : [
+    { "kind" : "trigger", "trigger" : "ai.repairftl" }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+      [ [ "supermatter", 20 ] ]
+    ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "lichere1reaper.gearup",
+  "canBeAbandoned" : false
+}

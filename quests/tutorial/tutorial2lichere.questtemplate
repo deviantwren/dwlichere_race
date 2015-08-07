@@ -1,12 +1,16 @@
 {
   "id" : "tutorial2lichere.gearup",
-  "title" : "^orange;Fresh Reaper II: Science",
-  "text" : "I will need a ^blue;small artifice fane ^white;eventually if I'm going to fabricate an ^blue;ionic compression drive^white. But easier said than done.",
-  "completionText" : "May the science of great minds commence! Namely mine. I'll get by.",
+  "title" : "^blue;Fresh Reaper II: Artificery",
+  "text" : "^blue;SynapticID0: ^orange;Fabrication of an ^orange;Ionic Compression Drive ^white:is now possible. A ^orange;Core Cluster ^white;is necessary to cold start such an engine.",
+  "completionText" : "^blue;SynapticID0: ^white;Processing recorded fabrication and cold-ignition of the Ionic Compression Drive for future stream-lining.",
   "conditions" : [
-    { "kind" : "gather", "item" : [ "licheresmallfane", 1], "consume" : false }
+    { "kind" : "gather", "item" : [ "lichereionicdrive", 1] },
+    { "kind" : "gather", "item" : [ "licherecorecluster", 1] }
   ],
-  "moneyRange" : [10, 10],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+      [ [ "corefragmentore", 20 ] ]
+    ],
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "tutorial3lichere.gearup",

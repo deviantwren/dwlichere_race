@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "licheresolarcore", "count" : 1 },
+    { "item" : "licherescience", "count" : 1 },
     { "item" : "imperviumcompound", "count" : 10 },
     { "item" : "refinedrebium", "count" : 1 },
     { "item" : "solariumstar", "count" : 3 }

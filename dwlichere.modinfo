@@ -11,25 +11,17 @@
 }
 
 //todolist
-//tutorialquest does not follow up correctly yet; and depending on the path of the tutorial1-8lichere quests... it may not need to divert much at all, save for flavor text.
-//right now licherescience requires a corecluster [12 core fragments] and is used in almsot everything
-//it is used twice in the ionic compression drive [24 core fragments]
-//perhaps keep the core cluster, but only the ignition of the drive requires the cluster
-//everything else could just require 1 or 2 core fragments
+
+//sapling still not working; don't change out for brain
 //fix sapling in liquidalienjuice-- sapling is a generic item, not a specific tree... hmm. Just fibre?
-//Light sources on all crafting tables; resource lightPosition in each sepearte imageLayer section
-//create two more crafting stations; one for weapons, other for armor
-//both slab 1 x 5; weapon lower of two, 2x tall, platform
+//create a crafting tree "licherebio" and loot tree for all lichere weapons: making monsters drop one item: "carcass fragments"
 //need to make a drop list from the lichere bow to include dropped leather / pixels / monster plate / bone / alien meat / liquidalienjuice
-//add redflashlight to quest update for flashlight quest .patch; not possible?
-//add second quest to followuplist in 2nd quest, or trigger 2nd or 3rd quest uniquely; could put the start of one quest idea on the end of an unrelated, and start that quest up when core is built
-//figure out a way to use lichereionicdrive and lichereslipdrive, as they're already in-game
+//this can then be made into all of the resource items that only drop: leather, bone, brains, monster plate, alien juice
+//Light sources on all crafting tables; resource lightPosition in each sepearte imageLayer section
 //double all tiered armors as vanity items selectable from start as starter clothes with all colors?
-//create lichereionicdrive & lichereslipdrive components; make it placable, like science and solarcore
 //finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
 //sensor unit is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //pick up with ai/shipupgrade3; fix missing door & plant in blockfiles (Why don't they vanish on t0-t1 but on later
-//list and pan out substitute quests, and eventually tie into others
 //completely bypass outpost quests...
 //modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
@@ -38,14 +30,7 @@
 //
 //notes
 //conform t4-8 lit ship.pngs to 95% opacity
-//ai.config.patch has //code that can be implimented to start the quest progression if custom questing is possible
-//upgradelichere1.aicommand.disabled can be implimented as first stage in quest progression
 //blinking 'e' over shiplocker is found in shiplockertier0 as the particle "emid.png"; pixel origin
 //lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
-//licheresolarcorelit not working; it should fullbright the difference; related to .animation file in use?
-//use "licheretech" for items related to ship rigging (upgradeship1-8)
-//questdialogue
-//Idea!  I might have enough core fragments for this
-//Called it-- re-entry chute failure alarm goes off now that I'm in teleportation range. Plan Now: Salvage this thruster-less escape module by jury-rigging an I-drive. An ^blue;ionic compression drive^white; variant should do, since I have the time-- since orbital decay wasn't an issue before the sensor array started malfunctioning. I need to access the ^green;emergency gear ^white;first, which could be problematic.
-//Called it-- re-entry chute failure alarm goes off now that I'm in teleportation range. Plan Now: Salvage this thruster-less escape module by jury-rigging some kind of engine. I could go the easy route or the hard route; I have the time, as orbital decay wasn't an issue before the sensor array started malfunctioning. Either way, accessing the ^green;emergency gear ^white;could be problematic.",
-//"completionText" : "Beamaxe! An old classic model is better than nothing I suppose.
+//lichereisolartopecorelit not working; it should fullbright the difference; related to .animation file in use?
+//to cold-ignite the ionic core, the quest starting it should require ionic drive and core cluster

@@ -8,14 +8,14 @@
         {
           "animation" : "unique",
           "text" : "SystemNotice: ^green;Reviewing log from parent vessel for user(^red;current^green;):                       ^white;* * * * * * * * * * * * * * * * * * ^orange;46:15 ^white;Autopilot failsafes purged. ^orange;48:10 ^white;Proximity alarm. ^orange;48:17 ^white;Collision alarm. ^orange;48:19 ^white;Hull breach alarm(7). ^orange;48:88 ^white;Collision alarm. ^orange;48:90 ^white;Decompression alarm. ^orange;48:93 ^white;Catasprophic system failure. ^orange;49:71 ^white;Escape module launch detected.                              * * * * * * * * * * * * * * * * * *",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Purging system. Unauthorized user privileges detected. ^orange;MindCoreFailsafe() ^white;executed.                                                 ^orange;SystemError: ^white;Cascading systems failure.",
-          "speedModifier" : 0.6
+          "text" : "SystemNotice: ^white;Purging system. Unauthorized user privileges detected. ^orange;MindCoreFailsafe() ^white;executed.                                                 ^orange;SystemError: ^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute.",
+          "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [

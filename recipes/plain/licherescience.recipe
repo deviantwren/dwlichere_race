@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "lichereisocore", "count" : 1 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "plantfibre", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "licherescience",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
+}

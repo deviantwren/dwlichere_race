@@ -4,7 +4,7 @@
   "rarity" : "Uncommon",
   "description" : "Engine parts.",
   "shortdescription" : "Ionic Compression Drive",
-  "race" : "generic",
+  "race" : "lichere",
   "category" : "furniture",
   "price" : 8500,
   "learnBlueprintsOnPickup" : [ "lichereslipdrive" ],

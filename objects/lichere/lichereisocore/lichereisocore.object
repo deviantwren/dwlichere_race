@@ -1,5 +1,5 @@
 {
-  "objectName" : "licheresolarcore",
+  "objectName" : "lichereisocore",
   "printable" : false,
   "rarity" : "Uncommon",
   "category" : "wire",
@@ -12,8 +12,8 @@
   "flickerPeriodVariance" : 0.075,
   "flickerIntensityVariance" : 0.025,
 
-  "description" : "A solar-energized core.",
-  "shortdescription" : "Lichere Solarcore",
+  "description" : "A kind of isotope core used in Lichere science.",
+  "shortdescription" : "Lichere Isolartope Core",
   "race" : "lichere",
   "learnBlueprintsOnPickup" : [ "licherescience" ],
 
@@ -24,10 +24,10 @@
   "humanDescription" : "Reminds me of a starship series I used to watch.",
   "hylotlDescription" : "This is technology in a sphere.",
 
-  "inventoryIcon" : "licheresolarcoreicon.png",
+  "inventoryIcon" : "lichereisocoreicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "licheresolarcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresolarcorelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereisocore.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereisocorelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
 
@@ -39,7 +39,7 @@
 
     },
     {
-      "imageLayers" : [ { "image" : "licheresolarcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresolarcorelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereisocore.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereisocorelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [-8, 0],
 
@@ -54,7 +54,7 @@
   "scripts" : [ "/objects/wired/switch/switch.lua" ],
   "scriptDelta" : 5,
 
-  "animation" : "/objects/lichere/licheresolarcore/licheresolarcore.animation",
+  "animation" : "/objects/lichere/lichereisocore/lichereisocore.animation",
   "animationCustom" : {
     "sounds" : {
       "on" : [ "/sfx/objects/console_generic_switchon.wav" ],
@@ -62,7 +62,7 @@
     }
   },
   "animationParts" : {
-    "switch" : "licheresolarcore.png"
+    "switch" : "lichereisocore.png"
   },
   "animationPosition" : [-8, 0],
 
