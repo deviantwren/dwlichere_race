@@ -1,6 +1,6 @@
 {
   "id" : "tutorial4lichere.gearup",
-  "title" : "^blue;Fresh Reaper III: Teleportation",
+  "title" : "^blue;Fresh Reaper IV: Upgrade",
   "text" : "^blue;SynapticID0: ^white;Confirmed, to fabricate a faster-than-light drive upgrade to a legitimate ^orange;Artifice Fane ^white;is necessary; schematic has already been loaded into the Simple Artifice Fane mindcore.",
   "completionText" : "^blue;SynapticID0: ^white;Quoting thought, 'True science and artificery is at my fingertips!'. Note that you will still need the ^blue;Simple Artifice Fane ^white;for all of your smelting needs.",
   "conditions" : [
