@@ -1,8 +1,8 @@
 {
   "id" : "tutorial5lichere.gearup",
   "title" : "^blue;Fresh Reaper IV: Masterpiece",
-  "text" : "^blue;SynapticID0: ^white;WarKey validated. Loading ^orange;Slip Drive into Artifice Fane's mindcore.",
-  "completionText" : "^blue;SynapticID0; ^white;Processing recorded fabrication of the Slip Drive for future stream-lining.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Analyzing ^orange;Slip Drive ^white;schematic for errors. None found. Commence building with discretion, Reaper.",
+  "completionText" : "^blue;NeuralDeviceID0; ^white;Processing recorded fabrication of the Slip Drive for future stream-lining.",
   "conditions" : [
     { "kind" : "gather", "item" : [ "lichereslipdrive", 1] }
   ],

@@ -1,8 +1,8 @@
 {
   "objectName" : "licherefuelhatchtier0silent",
   "rarity" : "Common",
-  "description" : "It's a systems access hatch.",
-  "shortdescription" : "Systems Access Hatch",
+  "description" : "It's a systems access panel.",
+  "shortdescription" : "Systems Access Panel",
   "race" : "lichere",
   "lightColor" : [213, 115, 115],
 
@@ -12,7 +12,7 @@
   "flickerPeriodVariance" : 0,
   "flickerIntensityVariance" : 0,
 
-  "apexDescription" : "An access hatch.",
+  "apexDescription" : "An access panel.",
   "avianDescription" : "That looks like an access panel.",
   "floranDescription" : "Blinking light. Glitch do that.",
   "glitchDescription" : "Analyzing. Light sequence suggests distress.",

@@ -8,17 +8,17 @@
   "defaultBlueprints" : {
     "tier1" : [
       { "item" : "lichereartificefane" },
-      { "item" : "licheresmallfane" },
+//      { "item" : "licheresmallfane" },
       { "item" : "licherearmorforge" },
       { "item" : "lichereweaponforge" },
-      { "item" : "liquidalienjuice" },
-      { "item" : "licherecerebralweave" },
-      { "item" : "licheremindcore" },
-      { "item" : "lichereisocore" },
-      { "item" : "licherecorecluster" },
+//      { "item" : "liquidalienjuice" },
+//      { "item" : "licherecerebralweave" },
+//      { "item" : "licheremindcore" },
+//      { "item" : "lichereisocore" },
+//      { "item" : "licherecorecluster" },
       { "item" : "lichereionicdrive" },
       { "item" : "lichereslipdrive" },
-      { "item" : "licherebandage" },
+//      { "item" : "licherebandage" },
 
       { "item" : "licheretier1bow" },
       { "item" : "licheretier1shortsword" },
@@ -43,6 +43,16 @@
       { "item" : "lichereragcape" },
       
       { "item" : "flaglichere" }
+    ],
+
+    "licherewarkey" : [
+      { "item" : "licherebandage" },
+      { "item" : "licherecorecluster" },
+      { "item" : "licheremindcore" },
+      { "item" : "liquidalienjuice" },
+      { "item" : "licherecerebralweave" },
+      { "item" : "lichereisocore" },
+      { "item" : "licheresmallfane" }
     ]
   },
   "altOptionAsUndyColor" : true,

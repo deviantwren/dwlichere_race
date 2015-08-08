@@ -8,7 +8,6 @@
   "shortdescription" : "Flashlight",
   "largeImage" : "licherelightlarge.png",
   "tooltipKind" : "tool",
-  "tierRecipesUnlock" : "licherelowtech",
 
   "image" : "licherelight.png",
   "handPosition" : [-2, 0],

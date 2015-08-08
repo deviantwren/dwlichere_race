@@ -5,9 +5,10 @@
   "value" : [
       [0, {
       "fill" : [
-        {"item" : [ "licherestarter", 1]},
+        {"item" : [ "licherewarkey", 1]},
         {"item" : [ "licherelight", 1]},
         {"item" : [ "licherebrokeaxe", 1]},
+        {"item" : [ "licherestarter", 1]},
         {"item" : [ "licheretent", 1]},
         {"item" : [ "sapling", 1]},
         {"item" : [ "corefragmentore", 20]},

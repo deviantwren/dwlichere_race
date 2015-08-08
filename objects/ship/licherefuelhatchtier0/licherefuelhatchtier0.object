@@ -2,8 +2,8 @@
   "objectName" : "licherefuelhatchtier0",
   "rarity" : "Common",
   "objecttype" : "noisy",
-  "description" : "It's the fuel hatch. It's malfunctioning.",
-  "shortdescription" : "Broken Fuel Hatch",
+  "description" : "It's the access panel. It's alerting me to the malfunctioning systems.",
+  "shortdescription" : "Beeping Systems Access Panel",
   "race" : "lichere",
   "lightColor" : [213, 115, 115],
 
@@ -14,11 +14,11 @@
   "flickerIntensityVariance" : 0,
 
   "apexDescription" : "Hah. Sabotaged. Augh! Flees!",
-  "avianDescription" : "That should slow the ship down!",
+  "avianDescription" : "That is annoying.",
   "floranDescription" : "Flicker-flicker! Bzz-bzz. Like dying glitch. Glitch-glitch.",
-  "glitchDescription" : "Excited. It's busted!",
-  "humanDescription" : "A fuel panel. It's broken.",
-  "hylotlDescription" : "Fuel is the lifeblood of exploration, so now they cannot go anywhere.",
+  "glitchDescription" : "Excited. Near-sentient...no, nevermind.",
+  "humanDescription" : "An access panel. It's alerting issues apparently.",
+  "hylotlDescription" : "That's the source of the noise it would seem.",
   
   "breakDropOptions" : [],
 

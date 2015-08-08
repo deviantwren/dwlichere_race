@@ -1,8 +1,8 @@
 {
   "id" : "tutorial4lichere.gearup",
   "title" : "^blue;Fresh Reaper IV: Upgrade",
-  "text" : "^blue;SynapticID0: ^white;Confirmed, to fabricate a faster-than-light drive upgrade to a legitimate ^orange;Artifice Fane ^white;is necessary; schematic has already been loaded into the Simple Artifice Fane mindcore.",
-  "completionText" : "^blue;SynapticID0: ^white;Quoting thought, 'True science and artificery is at my fingertips!'. Note that you will still need the ^blue;Simple Artifice Fane ^white;for all of your smelting needs.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Correct, fabrication of a faster-than-light drive is impossible without upgrading to a legitimate ^orange;Artifice Fane^white;; to build one, use a ^green;Simple Artifice Fane. ^white;The schematic is automatically loaded into said mindcores and already at your disposal.",
+  "completionText" : "^blue;SynapticID0: ^white;Note, Reaper, that you will ^orange;still need ^white;the ^green;Simple Artifice Fane ^white;for all of your ^orange;smelting needs^white;, should you consider destroying it.",
   "conditions" : [
     { "kind" : "gather", "item" : [ "lichereartificefane", 1] }
   ],
