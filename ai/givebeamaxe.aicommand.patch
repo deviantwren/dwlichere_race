@@ -8,21 +8,21 @@
         {
           "animation" : "talk",
           "text" : "DeviceWarning: ^white;Severe harm and death are probable with unsafe and even safe use of any beam-axe device. Before use check all safety sensors and always use precaution around biological matter, even with fully functional beam-axe sensor array.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Emergency gear released. Use beam-axe tools at own peril.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Failure to release ^green;emergency gear.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ]
     }

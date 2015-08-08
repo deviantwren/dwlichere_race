@@ -4,10 +4,12 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Uncommon",
   "maxStack" : 1,
-  "description" : "A red flashlight! Everything looks hot and filled with rage.",
+  "description" : "Red is the way of the Lichere.",
   "shortdescription" : "Flashlight",
   "largeImage" : "licherelightlarge.png",
   "tooltipKind" : "tool",
+  "tierRecipesUnlock" : "licherelowtech",
+
   "image" : "licherelight.png",
   "handPosition" : [-2, 0],
   "lightPosition" : [4, 0],

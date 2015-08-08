@@ -22,7 +22,7 @@
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Invalid WarKey. Please check and re-enter code.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ]
     }

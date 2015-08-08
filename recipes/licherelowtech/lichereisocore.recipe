@@ -7,5 +7,5 @@
     "item" : "lichereisocore",
     "count" : 1
   },
-  "groups" : [ "all", "plain", "licheretech", "licherefane" ]
+  "groups" : [ "all", "licherelowtech", "licheretech", "licherefane" ]
 }

@@ -8,21 +8,21 @@
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Interference detected on optimal teleportation bandwidths. ^green;Teleportation node ^white;not advised in sub-optimal conditions.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;^green;Teleportation node ^white;initialized.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Manfunction occurred during initialization of ^green;teleportation nodes^white;.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ]
     }

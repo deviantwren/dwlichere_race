@@ -10,28 +10,28 @@
           {
             "animation" : "unique",
             "text" : "SystemNotice: ^orange;Access denied ^white;due to user(^red;current^white;) matching logicFailsafe() IDstring in ParentLog as cause of catastrophic system failure in parent vessel.",
-            "speedModifier" : 0.6
+            "speedModifier" : 0.8
           }
         ],
         "1" : [
           {
             "animation" : "talk",
-            "text" : "^orange;SystemError: ^white;Cascading systems failure.",
-            "speedModifier" : 0.6
+            "text" : "^orange;SystemError: ^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute.",
+            "speedModifier" : 0.8
           }
         ],
         "2" : [
           {
             "animation" : "talk",
             "text" : "SystemNotice: ^white;Core temperature fluctuations detected in ionic compression drive.",
-            "speedModifier" : 0.6
+            "speedModifier" : 0.8
           }
         ],
         "3" : [
           {
             "animation" : "talk",
             "text" : "SystemNotice: ^white;Abrasion detected in slip cylinders of slip-drive coil 1. Core temperature fluctuations detected in ionic compression drive.",
-            "speedModifier" : 0.6
+            "speedModifier" : 0.8
           }
         ]
       },
@@ -39,7 +39,7 @@
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Lifeform scanned. Genetic anomolies detected. Callibration set for Floran sub-species. Augmentation device standing by for ^orange;tech card ^white;and nano suit integration.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ]
     }

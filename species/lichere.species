@@ -17,6 +17,7 @@
       { "item" : "lichereisocore" },
       { "item" : "licherecorecluster" },
       { "item" : "lichereionicdrive" },
+      { "item" : "lichereslipdrive" },
       { "item" : "licherebandage" },
 
       { "item" : "licheretier1bow" },
@@ -84,6 +85,8 @@
     { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" },
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DESATURATED DEEP SLUDGE */
+    { "ffca8a" : "232113", "e0975c" : "1a180f", "a85636" : "100e08", "6f2919" : "060603" },
     /* DESATURATED VILE GUACAMOLE */
     { "ffca8a" : "5c5435", "e0975c" : "50492e", "a85636" : "3d3923", "6f2919" : "2e2c1c" },
     /* DESATURATED ARMY GREEN */
@@ -116,6 +119,10 @@
     { "f7e7b2" : "875d5d", "d9c189" : "6b4545", "a38d59" : "573b3b", "735e3a" : "472d2d" },
     /* DESATURATED BLOOD */
     { "f7e7b2" : "682a2a", "d9c189" : "4b1d1d", "a38d59" : "381818", "735e3a" : "2e1212" },
+    /* DARKENED BLOOD SUGAR */
+    { "f7e7b2" : "421010", "d9c189" : "310d0d", "a38d59" : "200a0a", "735e3a" : "180808" },
+    /* DARKENED BLOOD GLITTER */
+    { "f7e7b2" : "461111", "d9c189" : "310d0d", "a38d59" : "200a0a", "735e3a" : "180808" },
     /* DESATURATED ROSE */
     { "f7e7b2" : "5a3838", "d9c189" : "402828", "a38d59" : "302020", "735e3a" : "281818" },
     /* DESATURATED ORANGE */
@@ -128,6 +135,8 @@
     { "f7e7b2" : "ebe1bf", "d9c189" : "cabb98", "a38d59" : "958867", "735e3a" : "695c45" },
     /* CREAM BASE */
     { "f7e7b2" : "f7e7b2", "d9c189" : "d9c189", "a38d59" : "a38d59", "735e3a" : "735e3a" },
+    /* DARKENED ORANGE PEEL SUGAR */
+    { "f7e7b2" : "402b10", "d9c189" : "31220d", "a38d59" : "20180a", "735e3a" : "181208" },
     /* DESATURATED BARK */
     { "f7e7b2" : "65584d", "d9c189" : "4f3f33", "a38d59" : "302720", "735e3a" : "211a15" },
     /* DESATURATED BARK BROWN */
@@ -136,6 +145,8 @@
     { "f7e7b2" : "695f45", "d9c189" : "4f4733", "a38d59" : "393425", "735e3a" : "2c271c" },
     /* DESATURATED EXPOSED AVACADO */
     { "f7e7b2" : "7a6734", "d9c189" : "5b4d27", "a38d59" : "42391c", "735e3a" : "332a15" },
+    /* DARKENED ARMY SUGAR */
+    { "f7e7b2" : "3f4010", "d9c189" : "30310d", "a38d59" : "1e200a", "735e3a" : "171808" },
     /* DESATURATED FERN */
     { "f7e7b2" : "636151", "d9c189" : "4b4c42", "a38d59" : "36372f", "735e3a" : "24251f" },
     /* DESATURATED FERN GREEN */
@@ -144,75 +155,111 @@
     { "f7e7b2" : "2c392b", "d9c189" : "1e261e", "a38d59" : "171d17", "735e3a" : "111711" },
     /* DESATURATED FOREST GREEN */
     { "f7e7b2" : "263f25", "d9c189" : "1a2b19", "a38d59" : "152014", "735e3a" : "10190f" },
+    /* DARKENED FOREST SUGAR */
+    { "f7e7b2" : "104013", "d9c189" : "0d3110", "a38d59" : "0a200d", "735e3a" : "08180a" },
     /* DESATURATED STORM TEAL */
     { "f7e7b2" : "505c5c", "d9c189" : "3a4546", "a38d59" : "303838", "735e3a" : "262c2c" },
-    /* DESATURATED SUGAR TEAL */
+    /* DESATURATED SUGAR TEAL GLITTER */
     { "f7e7b2" : "567e77", "d9c189" : "275b51", "a38d59" : "183832", "735e3a" : "102621" },
-    /* DESATURATED TEAL */
+    /* DARKENED TORQUIOSE SUGAR */
+    { "f7e7b2" : "10403e", "d9c189" : "0d3130", "a38d59" : "0a2020", "735e3a" : "081818" },
+    /* DARKENED COBALT SUGAR */
+    { "f7e7b2" : "102c40", "d9c189" : "0d2231", "a38d59" : "0a1620", "735e3a" : "081118" },
+    /* DESATURATED TEAL GLITTER */
     { "f7e7b2" : "5f7571", "d9c189" : "334f49", "a38d59" : "20302d", "735e3a" : "15211e" },
-    /* DESATURATED BLUE TOY */
+    /* DESATURATED BLUE TOY GLITTER */
     { "f7e7b2" : "524f8f", "d9c189" : "363466", "a38d59" : "27264c", "735e3a" : "1c1a34" },
-    /* DESATURATED DARK LAVANDER DUST */
+    /* DESATURATED DARK LAVANDER GLITTER */
     { "f7e7b2" : "605e80", "d9c189" : "41405a", "a38d59" : "303042", "735e3a" : "21202e" },
-    /* DESATURATED BLUE DEEP */
+    /* DARKENED BLUE SUGAR */
+    { "f7e7b2" : "121040", "d9c189" : "0f0d31", "a38d59" : "0c0a20", "735e3a" : "090818" },
+    /* DESATURATED COBALT GLITTER */
     { "f7e7b2" : "32486a", "d9c189" : "1f2d43", "a38d59" : "16202e", "735e3a" : "0e141e" },
-    /* DESATURATED DEEP GREY-BLUE */
+    /* DESATURATED DEEP GREY-BLUE GLITTER */
     { "f7e7b2" : "404b5c", "d9c189" : "282f3a", "a38d59" : "1c2128", "735e3a" : "12151a" },
     /* DESATURATED FADED FUSCIA */
     { "f7e7b2" : "8a5a7d", "d9c189" : "6c4461", "a38d59" : "583a50", "735e3a" : "472d40" },
     /* DESATURATED FADED ROSE */
     { "f7e7b2" : "7e6678", "d9c189" : "624e5d", "a38d59" : "50424d", "735e3a" : "41333d" },
-    /* DESATURATED WINE PURPLE */
+    /* DESATURATED WINE PURPLE GLITTER */
     { "f7e7b2" : "682a57", "d9c189" : "4b1d3f", "a38d59" : "38182f", "735e3a" : "2e1226" },
+    /* DARKENED WINE SUGAR */
+    { "f7e7b2" : "40102a", "d9c189" : "310d20", "a38d59" : "200a16", "735e3a" : "180811" },
     /* DESATURATED DULL WINE */
     { "f7e7b2" : "5a3851", "d9c189" : "40283a", "a38d59" : "30202c", "735e3a" : "281823" },
     /* DESATURATED PURPLE */
     { "f7e7b2" : "472a68", "d9c189" : "331d4b", "a38d59" : "271838", "735e3a" : "1f122e" },
     /* DESATURATED PURPLE DUSK */
-    { "f7e7b2" : "48385a", "d9c189" : "332840", "a38d59" : "282030", "735e3a" : "1f1828" }
+    { "f7e7b2" : "48385a", "d9c189" : "332840", "a38d59" : "282030", "735e3a" : "1f1828" },
+    /* DARKENED PURPLE SUGAR */
+    { "f7e7b2" : "341040", "d9c189" : "280d31", "a38d59" : "1b0a20", "735e3a" : "140818" }
   ],
   "hairColor" : [
     /* DESATURATED ROSE FADE */
-    { "f32200" : "945d54", "dc1f00" : "754a43", "be1b00" : "523b35" },
+    { "ff4e33" : "a1655b", "f32200" : "945d54", "dc1f00" : "754a43", "be1b00" : "523b35" },
     /* DESATURATED AWESOME RED */
-    { "f32200" : "6f271b", "dc1f00" : "591f15", "be1b00" : "411610" },
+    { "ff4e33" : "7d2c1e", "f32200" : "6f271b", "dc1f00" : "591f15", "be1b00" : "411610" },
+    /* DESATURATED DUST ROSE */
+    { "ff4e33" : "361f1f", "f32200" : "2a1818", "dc1f00" : "1d1111", "be1b00" : "130c0b" },
     /* DESATURATED MAHOGANY */
-    { "f32200" : "561d14", "dc1f00" : "3f160f", "be1b00" : "30110c" },
+    { "ff4e33" : "632217", "f32200" : "561d14", "dc1f00" : "3f160f", "be1b00" : "30110c" },
   /*/* DESATURATED PUMPKIN ORANGE */
-    { "f32200" : "a56333", "dc1f00" : "86502a", "be1b00" : "724523" },
+    { "ff4e33" : "b36b37", "f32200" : "a56333", "dc1f00" : "86502a", "be1b00" : "724523" },
   /*/* DESATURATED BROWN SUGAR */
-    { "f32200" : "634f3b", "dc1f00" : "4b4036", "be1b00" : "3b322a" },
+    { "ff4e33" : "705a43", "f32200" : "634f3b", "dc1f00" : "4b4036", "be1b00" : "3b322a" },
     /* DESATURATED ROOT BEER */
-    { "f32200" : "5a3b36", "dc1f00" : "442d29", "be1b00" : "3a2723" },
+    { "ff4e33" : "66433d", "f32200" : "5a3b36", "dc1f00" : "442d29", "be1b00" : "3a2723" },
   /*/* DESATURATED MUSTARD */
-    { "f32200" : "ac853a", "dc1f00" : "8d6e30", "be1b00" : "6e5626" },
+    { "ff4e33" : "b88e3e", "f32200" : "ac853a", "dc1f00" : "8d6e30", "be1b00" : "6e5626" },
   /*/* DESATURATED AVACADO */
-    { "f32200" : "83854d", "dc1f00" : "747645", "be1b00" : "62633b" },
+    { "ff4e33" : "8f9154", "f32200" : "83854d", "dc1f00" : "747645", "be1b00" : "62633b" },
+  /*/* DESATURATED ROTTED AVACADO */
+    { "ff4e33" : "36321f", "f32200" : "2a2718", "dc1f00" : "1b1b11", "be1b00" : "13120b" },
+  /*/* DESATURATED BARK */
+    { "ff4e33" : "36291f", "f32200" : "2a2018", "dc1f00" : "1d1611", "be1b00" : "13100b" },
     /* DESATURATED SAGE */
-    { "f32200" : "605c4e", "dc1f00" : "49463a", "be1b00" : "39372f" },
+    { "ff4e33" : "6e6959", "f32200" : "605c4e", "dc1f00" : "49463a", "be1b00" : "39372f" },
+    /* DESATURATED SLUDGE NIGHT */
+    { "ff4e33" : "2e361f", "f32200" : "242a18", "dc1f00" : "191d11", "be1b00" : "10130b" },
   /*/* DESATURATED SUBDUED GREEN */
-    { "f32200" : "59664e", "dc1f00" : "4a5541", "be1b00" : "394131" },
+    { "ff4e33" : "647358", "f32200" : "59664e", "dc1f00" : "4a5541", "be1b00" : "394131" },
+  /*/* DESATURATED CHARCOAL GREEN */
+    { "ff4e33" : "2f3323", "f32200" : "24271b", "dc1f00" : "1a1a12", "be1b00" : "11130d" },
+  /*/* DESATURATED GREEN NIGHT */
+    { "ff4e33" : "20361f", "f32200" : "192a18", "dc1f00" : "111d11", "be1b00" : "0b130b" },
     /* DESATURATED OCEAN TEAL */
-    { "f32200" : "324e42", "dc1f00" : "223e32", "be1b00" : "1f352b" },
+    { "ff4e33" : "3b5c4e", "f32200" : "324e42", "dc1f00" : "223e32", "be1b00" : "1f352b" },
     /* DESATURATED FOREST DUSK */
-    { "f32200" : "38402e", "dc1f00" : "2d3325", "be1b00" : "21261c" },
+    { "ff4e33" : "434d37", "f32200" : "38402e", "dc1f00" : "2d3325", "be1b00" : "21261c" },
+    /* DESATURATED TOURQUISE NIGHT */
+    { "ff4e33" : "1f3632", "f32200" : "182a27", "dc1f00" : "111d1c", "be1b00" : "0b1312" },
   /*/* DESATURATED BLUE DUSK */
-    { "f32200" : "595c75", "dc1f00" : "404253", "be1b00" : "30313e" },
+    { "ff4e33" : "636682", "f32200" : "595c75", "dc1f00" : "404253", "be1b00" : "30313e" },
   /*/* DESATURATED FADED COBALT */
-    { "f32200" : "384d70", "dc1f00" : "293850", "be1b00" : "222c3e" },
+    { "ff4e33" : "3e567d", "f32200" : "384d70", "dc1f00" : "293850", "be1b00" : "222c3e" },
+  /*/* DESATURATED COBALT NIGHT */
+    { "ff4e33" : "1f2b36", "f32200" : "18222a", "dc1f00" : "11171d", "be1b00" : "0b0f13" },
     /* DESATURATED BLUE MIDNIGHT */
-    { "f32200" : "2f3345", "dc1f00" : "262936", "be1b00" : "1c1e26" },
+    { "ff4e33" : "383c52", "f32200" : "2f3345", "dc1f00" : "262936", "be1b00" : "1c1e26" },
+    /* DESATURATED BLUE VELVET */
+    { "ff4e33" : "1f2136", "f32200" : "181a2a", "dc1f00" : "11121d", "be1b00" : "0b0c13" },
   /*/* DESATURATED PURPLE DUSK */
-    { "f32200" : "523c5a", "dc1f00" : "3b2b41", "be1b00" : "2f2233" },
+    { "ff4e33" : "5d4466", "f32200" : "523c5a", "dc1f00" : "3b2b41", "be1b00" : "2f2233" },
   /*/* DESATURATED PURPLE VELVET */
-    { "f32200" : "67274b", "dc1f00" : "4b1c36", "be1b00" : "37182a" },
+    { "ff4e33" : "732b54", "f32200" : "67274b", "dc1f00" : "4b1c36", "be1b00" : "37182a" },
     /* DESATURATED PURPLE SHADOWS */
-    { "f32200" : "433f45", "dc1f00" : "3a353b", "be1b00" : "2e2b2f" },
+    { "ff4e33" : "4f4b52", "f32200" : "433f45", "dc1f00" : "3a353b", "be1b00" : "2e2b2f" },
+    /* DESATURATED PURPLE NIGHT */
+    { "ff4e33" : "2a1f36", "f32200" : "21182a", "dc1f00" : "17111d", "be1b00" : "0f0b13" },
+    /* DESATURATED VIOLET NIGHT */
+    { "ff4e33" : "331e30", "f32200" : "271725", "dc1f00" : "1d111c", "be1b00" : "130b12" },
     /* DESATURATED BONE */
-    { "f32200" : "beb6a4", "dc1f00" : "898373", "be1b00" : "60594e" },
+    { "ff4e33" : "ccc3b0", "f32200" : "beb6a4", "dc1f00" : "898373", "be1b00" : "60594e" },
     /* DESATURATED SLATE */
-    { "f32200" : "464640", "dc1f00" : "363632", "be1b00" : "2a2a26" },
+    { "ff4e33" : "52524b", "f32200" : "464640", "dc1f00" : "363632", "be1b00" : "2a2a26" },
     /* DESATURATED CHARCOAL */
-    { "f32200" : "413e34", "dc1f00" : "2e2c25", "be1b00" : "23211c" }
+    { "ff4e33" : "4d493d", "f32200" : "413e34", "dc1f00" : "2e2c25", "be1b00" : "23211c" },
+    /* DESATURATED DEEP CHARCOAL */
+    { "ff4e33" : "38352c", "f32200" : "2b2922", "dc1f00" : "1e1c17", "be1b00" : "161511" }
   ]
 }

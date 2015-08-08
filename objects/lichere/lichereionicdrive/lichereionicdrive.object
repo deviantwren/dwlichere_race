@@ -7,7 +7,6 @@
   "race" : "lichere",
   "category" : "furniture",
   "price" : 8500,
-  "learnBlueprintsOnPickup" : [ "lichereslipdrive" ],
 
   "apexDescription" : "Enginge scrap, yes?",
   "avianDescription" : "Looks like an unused engine.",

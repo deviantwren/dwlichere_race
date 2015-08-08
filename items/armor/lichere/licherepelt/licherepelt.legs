@@ -19,21 +19,7 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED SIERRA RED */
-    { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
-  /*/* DESATURATED DUSTY ROSE */
-    { "ffca8a" : "91493d", "e0975c" : "723930", "a85636" : "552b24", "6f2919" : "3d1f1a" },
-    /* DESATURATED CHALLENGE RED */
-    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
-    /* DESATURATED SHADOWED BRICK */
-    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
-    /* DESATURATED ORANGE SUNBURN */
-    { "dc7d5b" : "b06a53", "e0975c" : "a2624c", "a85636" : "864a3a", "6f2919" : "66382c" },
-    /* DESATURATED CAKED MUSTARD */
-    { "ffca8a" : "62573a", "e0975c" : "524930", "a85636" : "443d28", "6f2919" : "3a3322" },
-    /* DESATURATED YELLOW-GREEN */
-    { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" },
-    /* DESATURATED SLUDGE */
+   /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED VILE GUACAMOLE */
     { "ffca8a" : "5c5435", "e0975c" : "50492e", "a85636" : "3d3923", "6f2919" : "2e2c1c" },
@@ -58,7 +44,21 @@
     /* DESATURATED SUGAR PURPLE */
     { "ffca8a" : "603653", "e0975c" : "532f48", "a85636" : "331d2d", "6f2919" : "23131e" },
     /* DESATURATED BLACKBERRY */
-    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" }
-  ]
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
+    /* DESATURATED SIERRA RED */
+    { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
+  /*/* DESATURATED DUSTY ROSE */
+    { "ffca8a" : "91493d", "e0975c" : "723930", "a85636" : "552b24", "6f2919" : "3d1f1a" },
+    /* DESATURATED CHALLENGE RED */
+    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
+    /* DESATURATED ORANGE SUNBURN */
+    { "dc7d5b" : "b06a53", "e0975c" : "a2624c", "a85636" : "864a3a", "6f2919" : "66382c" },
+    /* DESATURATED CAKED MUSTARD */
+    { "ffca8a" : "62573a", "e0975c" : "524930", "a85636" : "443d28", "6f2919" : "3a3322" },
+    /* DESATURATED YELLOW-GREEN */
+    { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" }
+   ]
 }
 

@@ -8,21 +8,21 @@
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Orbital decay detected. Unable to estimate time until complete orbital decay.                                                     ^orange;SystemError: ^white;Unable to ready deployment of atmospheric re-entry chute.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Unrecognized propulsion device detected. Loading custom configuration. Ionic compression drive spooling. Core temperature fluctuations detected.",
-          "speedModifier" : 0.6
+          "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;core fragments^white;) detected in substratum layers.               All required compounds found for custom blueprint: ^green;ionic compression drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
-          "speedModifier" : 0.6
+          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;core fragments^white;) detected in substratum layers.                                  All required compounds found for custom blueprint: ^green;ionic compression drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
+          "speedModifier" : 0.8
         }
       ]
     }
