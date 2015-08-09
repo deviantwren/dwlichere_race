@@ -11,7 +11,7 @@
 }
 
 //todolist
-//make first tier armor and weapons craftable out of the small fane?
+//make first tier armor and weapons craftable out of the small fane or even plain?
 //maybe the small fane needs to be able to be made without core fragment ore
 //quests should carry on into weapons and armor perhaps...
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
@@ -40,7 +40,6 @@
 //figure out .lua triggers for ceiling plant
 //adjust lichere spawn images to ceiling-hanging plant
 //
-snag, sting -black, umber, leaf, frond, Abyss, leech, rake
 //notes
 //temporary licheredoor.animation added to compensate for door always being closed
 //conform t4-8 lit ship.pngs to 95% opacity & in lit.pngs delete control console lights
