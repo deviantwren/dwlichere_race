@@ -14,7 +14,6 @@
   "price" : 7000,
   
   "lightColor" : [203, 255, 178],
-  "lightposition" : [20, 20],
 
   "flickerPeriod" : 0.3,
   "flickerMinIntensity" : 0.2,
@@ -41,7 +40,7 @@
       "direction" : "left",
       "flipImages" : true,
       
-      "lightPosition" : [ -1, 1],
+      "lightPosition" : [ 1, 3],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
@@ -56,7 +55,7 @@
       
       "direction" : "right",
       
-      "lightPosition" : [ 0, 1],
+      "lightPosition" : [ 2, 3],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

@@ -7,22 +7,22 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;FTL spooled down due to ^red;catastrophic malfunction ^white;in FTL core. Abrasion detected in slip cylinders. ^orange;Erchius core ^white;missing.",
-          "speedModifier" : 0.4
+          "text" : "SystemNotice: ^white;Teleportation module standing by for remote fabrication.",
+          "speedModifier" : 0.8
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Cold ignition of slip-drive coils complete. Ionic compression drive cooling off. Abrasion detected in slip cylinders. Safety governor set to seventy-percent.",
-          "speedModifier" : 0.4
+          "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "SystemNotice: ^white;Processing Slip-Drive Coils v34I blueprint:                      * * * * * * * * * * * * * * * * * * Slip-Drive Coils (2): ^orange;4 ^green;Slip Cylinders; ^orange;20 ^green;Erchius Crystals. ^white;Required Tools: ^orange;1 ^green;Synthesizer Bench^white;.                              * * * * * * * * * * * * * * * * * *",
-          "speedModifier" : 0.4
+          "text" : "SystemNotice: Uploading configuration file 'slipdrive_v34i'. Remote fabrication sequence standing by for presence of ^orange;Slip Drive ^white;.",
+          "speedModifier" : 0.8
         }
       ]
     }

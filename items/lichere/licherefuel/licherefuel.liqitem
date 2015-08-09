@@ -1,0 +1,12 @@
+{
+  "itemName" : "licherefuel",
+  "rarity" : "Rare",
+  "inventoryIcon" : "licherefuelicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Ishurion 332",
+  "description" : "A stable, plant-friendly isotope used in some starships as fuel.",
+
+  "liquid" : "alienjuice",
+  
+  "fuelAmount" : 10
+}

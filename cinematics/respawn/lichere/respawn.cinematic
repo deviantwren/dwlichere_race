@@ -150,7 +150,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/floran/layer1.png:{frame}"
+          "image" : "/cinematics/respawn/lichere/layer1.png:{frame}"
         }
       ],
       "keyframes" : [
@@ -210,7 +210,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/floran/layer2.png:{frame}"
+          "image" : "/cinematics/respawn/lichere/layer2.png:{frame}"
         }
       ],
       "keyframes" : [

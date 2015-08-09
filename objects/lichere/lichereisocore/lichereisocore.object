@@ -13,7 +13,7 @@
   "flickerIntensityVariance" : 0.025,
 
   "description" : "A kind of isotope core used in Lichere science.",
-  "shortdescription" : "Lichere Isolartope Core",
+  "shortdescription" : "Isolartope Core",
   "race" : "lichere",
   "learnBlueprintsOnPickup" : [ "licherescience" ],
 

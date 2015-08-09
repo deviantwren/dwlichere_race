@@ -37,7 +37,7 @@
   "scripts" : [ "/objects/wired/door/door.lua" ],
   "scriptDelta" : 5,
 
-  "animation" : "/objects/wired/door/door.animation",
+  "animation" : "/objects/wired/door/licheredoor.animation",
   "animationCustom" : {
     "sounds" : {
       "open" : [ "/sfx/projectiles/goo_spit2.wav" ],

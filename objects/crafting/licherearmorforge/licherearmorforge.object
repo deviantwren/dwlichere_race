@@ -40,7 +40,7 @@
       "direction" : "left",
       "flipImages" : true,
       
-      "lightPosition" : [ -1, 1],
+      "lightPosition" : [ 1, 1],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
@@ -55,7 +55,7 @@
       
       "direction" : "right",
       
-      "lightPosition" : [ 0, 1],
+      "lightPosition" : [ 1, 1],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

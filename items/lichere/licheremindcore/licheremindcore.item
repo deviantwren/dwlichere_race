@@ -2,6 +2,6 @@
   "itemName" : "licheremindcore",
   "rarity" : "Rare",
   "inventoryIcon" : "licheremindcore.png",
-  "description" : "Technology useful in primarily in high-speed deductive analysis and response.",
-  "shortdescription" : "Lichere Mind Core"
+  "description" : "Technology primarily used in high-speed deductive analysis and response.",
+  "shortdescription" : "Mind Core"
 }

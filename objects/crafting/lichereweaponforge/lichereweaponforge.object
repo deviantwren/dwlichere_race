@@ -13,12 +13,12 @@
   "category" : "crafting",
   "price" : 7000,
   
-  "lightColor" : [203, 255, 178],
+  "lightColor" : [94, 171, 56],
 
-  "flickerPeriod" : 0.3,
+  "flickerPeriod" : 0.7,
   "flickerMinIntensity" : 0.2,
   "flickerMaxIntensity" : 0.25,
-  "flickerPeriodVariance" : 0.1,
+  "flickerPeriodVariance" : 0.05,
   "flickerIntensityVariance" : 0.025,
 
   "apexDescription" : "Some kind of oven.",
@@ -40,7 +40,7 @@
       "direction" : "left",
       "flipImages" : true,
       
-      "lightPosition" : [ -1, 1],
+      "lightPosition" : [ 1, 1],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
@@ -56,7 +56,7 @@
       
       "direction" : "right",
       
-      "lightPosition" : [ 0, 1],
+      "lightPosition" : [ 1, 1],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],

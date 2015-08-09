@@ -6,5 +6,5 @@
     "item" : "liquidalienjuice",
     "count" : 10
   },
-  "groups" : [ "all", "licherelowtech", "licheretech", "licherefane" ]
+  "groups" : [ "all", "plain", "licherelowtech", "licheretech", "licherefane" ]
 }

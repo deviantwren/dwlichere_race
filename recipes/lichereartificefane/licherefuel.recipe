@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "liquidalienjuice", "count" : 10 },
+    { "item" : "silverore", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "licherefuel",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherehightech", "licherefane" ]
+}

@@ -1,12 +1,13 @@
 {
   "id" : "tutorial1lichere.gearup",
   "title" : "^blue;Fresh Reaper I: Science",
-  "text" : "^blue;NeuralDeviceID0: ^orange;Use your WarKey ^white;to re-authorize priveleged access to the ID0 ^green;blueprint database [C]^white;. Do this to access the schematic '^orange;Simple Artifice Fane^white;', which is necessary in the fabrication of Lichere technology. As such you should prioritize ^orange;construction of it^white;, Reaper.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Correct, this escape module's core systems could support a jury-rigged engine, Reaper. The ID0 ^green;blueprint database [C] ^white;contains the schematic for a '^orange;Simple Artifice Fane^white;', which is necessary in the fabrication of Lichere technology. As such you should prioritize ^orange;construction of it^white;.",
   "completionText" : "^blue;NeuralDeviceID0: ^white;Quoting, 'May the science and artificery of great minds commence!' Namely yours, Reaper. Your IQ suggests you will manage.",
   "conditions" : [
     { "kind" : "gather", "item" : [ "licheresmallfane", 1], "consume" : false }
   ],
   "moneyRange" : [100, 100],
+  "enableAICommands" : [ "upgradeBeamaxe1" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "tutorial2lichere.gearup",
