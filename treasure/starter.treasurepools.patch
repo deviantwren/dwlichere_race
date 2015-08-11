@@ -8,7 +8,8 @@
         {"item" : [ "licherelight", 1]},
         {"item" : [ "licherebrokeaxe", 1]},
         {"item" : [ "licherestarter", 1]},
-        {"item" : [ "licheretent", 1]}
+        {"item" : [ "licheretent", 1]},
+        {"item" : [ "miningchest", 1]}
 
       ]
     } ]

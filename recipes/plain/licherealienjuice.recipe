@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 35 }
+    { "item" : "plantfibre", "count" : 35 },
+    { "item" : "fullwood1", "count" : 3 }
   ],
   "output" : {
     "item" : "liquidalienjuice",

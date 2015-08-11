@@ -21,6 +21,10 @@
       { "item" : "licherefuel" },
       { "item" : "licherefuel2" },
 
+      { "item" : "licherewoodhead" },
+      { "item" : "licherewoodchest" },
+      { "item" : "licherewoodpants" },
+
       { "item" : "licheretier1bow" },
       { "item" : "licheretier1shortsword" },
       { "item" : "licheretier1broadsword" },
