@@ -9,7 +9,13 @@
         {"item" : [ "licherebrokeaxe", 1]},
         {"item" : [ "licherestarter", 1]},
         {"item" : [ "licheretent", 1]},
-        {"item" : [ "miningchest", 1]}
+        {"item" : [ "miningchest", 1]},
+        {"item" : [ "inkbulbseed", 2]},
+        {"item" : [ "driporbseed", 1]},
+        {"item" : [ "neonmelonseed", 2]},
+        {"item" : [ "pussplumseed", 2]},
+        {"item" : [ "kiwiseed", 2]},
+        {"item" : [ "oculemonseed", 2]}
 
       ]
     } ]
