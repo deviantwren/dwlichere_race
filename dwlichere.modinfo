@@ -2,7 +2,7 @@
   "name" : "dwlichere_race",
   "version" : "Beta v. Upbeat Giraffe - Update 2",
   "path" : ".",
-  "requires" : [ "dwccextender", "dwgrowlad" ],
+  "requires" : [ "dwccextender", "dwgrowlab" ],
   "metadata": {
     "author" : "deviantWren",
     "description" : "Adds a full-fledged race, the Lichere species, a genetic cousin of the Floran.",
@@ -11,8 +11,6 @@
 }
 
 //todolist
-//make first tier armor and weapons craftable out of the small fane or even plain?
-//maybe the small fane needs to be able to be made without core fragment ore
 //quests should carry on into weapons and armor perhaps...
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
 //quests continue into liquidfuel ; moon fuel mining for slip drive
@@ -28,8 +26,7 @@
 //but how does the floran ship convert its spawned objects into those saved as player-placed
 //does this occur in the ship file based on some object id? probably not, but why?
 //add sparking, electric, arcing atmosphere around slip drive halo
-//sapling still not working; don't change out for brain
-//fix sapling in liquidalienjuice-- sapling is a generic item, not a specific tree... hmm. Just fibre?
+//replaced sapling for fullwood1 in liquidalienjuice-- would still prefer sapling
 //create a crafting tree "licherebio" and loot tree for all lichere weapons: making monsters drop one item: "carcass fragments"
 //need to make a drop list from the lichere bow to include dropped leather / pixels / monster plate / bone / alien meat / liquidalienjuice
 //this can then be made into all of the resource items that only drop: leather, bone, brains, monster plate, alien juice
@@ -38,7 +35,6 @@
 //pick up with ai/shipupgrade3
 //modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
-//adjust lichere spawn images to ceiling-hanging plant
 //
 //notes
 //temporary licheredoor.animation added to compensate for door always being closed

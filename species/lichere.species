@@ -51,7 +51,9 @@
     ],
 
     "licherewarkey" : [
-      { "item" : "licherebandage" }
+      { "item" : "licherebandage" },
+      { "item" : "licheredrip" },
+      { "item" : "licheredripmature" }
     ]
   },
   "altOptionAsUndyColor" : true,
