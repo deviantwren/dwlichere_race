@@ -9,7 +9,7 @@
         "0" : [
           {
             "animation" : "unique",
-            "text" : "SystemNotice: ^orange;Access denied ^white;due to user(^red;current^white;) matching logicFailsafe() IDstring in ParentLog as cause of catastrophic system failure in parent vessel.",
+            "text" : "SystemNotice: ^orange;Access denied ^white;logicFailsafe.IDstring matches user(current) in /var/log/system.log as cause of catastrophic system failure in parent vessel.",
             "speedModifier" : 0.8
           }
         ],
