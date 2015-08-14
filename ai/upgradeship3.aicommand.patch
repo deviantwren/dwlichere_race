@@ -15,7 +15,6 @@
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Cold ignition of slip-drive coils complete. Ionic compression drive cooling off. Abrasion detected in slip cylinders. Safety governor set to seventy-percent.",
           "text" : "root@toeclass# ^white;slip start 0 
 ...                        
 Cold ignition of slip-drive coils complete. Ionic compression drive cooling off.
