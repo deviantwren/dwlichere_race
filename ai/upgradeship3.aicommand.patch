@@ -7,9 +7,12 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^orangeTeleporter 
-^white;Teleportation module standing by for remote fabrication.",
-          "speedModifier" : 0.8
+          "text" : "root@toeclass# ^white;stat /dev/tpm1 | grep Config | awk {'print $2'}
+'id0_modulationv5.cfg' 
+^#aee1ee;root@toeclass# ^white;stat /dev/tpm1 | grep -A1 Config 
+Config: 'id0_modulationv5.cfg'
+Status: Standby",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [

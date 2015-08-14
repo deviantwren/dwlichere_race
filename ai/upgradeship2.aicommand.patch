@@ -25,10 +25,10 @@ Checking status of primary reaction control system
 ^#aee1ee;root@toeclass# ^white;init_icd -f idcv34.cfg 
 ...                        
 ^#aee1ee;SystemNotice: ^orange;Propulsion 
-Loading custom configuration. Ionic compression drive spooling.
+^white;Loading custom configuration. Ionic compression drive spooling.
 ^#aee1ee;SystemAlert: ^orange;Core 
 ^white;Core temperature fluctuations detected.",
-          "speedModifier" : 0.8
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
