@@ -7,11 +7,12 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "root@toeclass# ^orange;init_sd1 --file slipdrive_v34i.cfg
-^#aee1ee;SystemWarning: ^orange;Slip Drive
-^white;Initialization may cause overload in ship systems.
+          "text" : "root@toeclass# ^white;init_sd1 
+^white;--file slipdrive_v34i.cfg 
+^#aee1ee;SystemWarning: ^orange;Slip-Drive 
+^white;Initialization may cause overload in ship systems. 
 
-Do you wish to upload file? (yes/[no])",
+Do you wish to initialize the Slip-drive? (yes/[no])?",
           "speedModifier" : 0.4
         }
       ],
@@ -20,7 +21,7 @@ Do you wish to upload file? (yes/[no])",
           "animation" : "talk",
           "text" : "root@toeclass# ^white;slip start 0 
 ...                        
-Cold ignition of slip-drive coils complete. Ionic compression drive cooling off.
+Cold ignition of Slip-drive coils complete. Ionic compression drive cooling off. 
 ...                        
 ^#aee1ee;SystemAlert: ^orange;Slip Cylinder 
 ^white;Abrasion detected in slip cylinders. Safety governor set to seventy percent.",
@@ -31,7 +32,7 @@ Cold ignition of slip-drive coils complete. Ionic compression drive cooling off.
         {
           "animation" : "refuse",
           "text" : "SystemNotice: ^orange;Configuration 
-^white;Uploading file 'slipdrive_v34i.cfg'. Remote fabrication sequence standing by for presence of ^orange;Slip Drive ^white;.",
+^white;Uploading file 'slipdrive_v34i.cfg'. Remote fabrication sequence standing by for presence of ^orange;Slip-drive^white;.",
           "speedModifier" : 0.8
         }
       ]

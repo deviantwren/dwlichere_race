@@ -9,7 +9,7 @@
           "animation" : "talk",
           "text" : "root@toeclass# ^white;release 
 ^white;--overide /dev/mntp4 
-^white;Overriding lockout by ^red;admin.aicore
+^white;Overriding lockout by ^red;admin.aicore 
 ^#aee1ee;DeviceAlert: ^orange;Maintenance 
 ^white;Do not inhale paint fumes. Device should only be used in well ventilated areas. 
 

@@ -2,7 +2,7 @@
   "id" : "tutorial6lichere.gearup",
   "title" : "^blue;Fresh Reaper IV: Slip-drive Halo",
   "text" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Linking to escape module AI. ^white;Teleportation module standing by for remote fabrication. Reaper, ^orange;access escape module AI ^white;to initiate ^orange;jury-rigging of Slip Drive to escape module's hull.",
-  "completionText" : "^blue;SynapticID0: ^white;Achievement recorded. Comparing mental reaction to, 'Now again the perpetual hunt! And the pure evolution of the Lichere Reapers!'.",
+  "completionText" : "^blue;SynapticID0: ^white;Achievement recorded. Comparing mental reaction to, 'Now again the perpetual hunt! And the pure evolution of the Lichere Reapers!'. Intriguing... logging reaction.",
   "conditions" : [
     { "kind" : "trigger", "trigger" : "ai.repairftl" }
   ],
