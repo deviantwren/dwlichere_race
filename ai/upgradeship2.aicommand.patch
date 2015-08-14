@@ -7,22 +7,33 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Orbital decay detected. Unable to estimate time until complete orbital decay.                                                     ^orange;SystemError: ^white;Unable to ready deployment of atmospheric re-entry chute.",
-          "speedModifier" : 0.8
+          "text" : "root@toeclass# ^white;stat /dev/rcs1 
+Checking status of primary reaction control system 
+...                         
+^#aee1ee;SystemAlert: ^orange;Orbit 
+^white;Orbital decay detected. Unable to estimate time until complete orbital decay. 
+^#aee1ee;SystemFailure: ^orange;Chute 
+^white;Unable to ready deployment of atmospheric re-entry chute.",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Unrecognized propulsion device detected. Loading custom configuration. Ionic compression drive spooling. Core temperature fluctuations detected.",
+          "text" : "SystemNotice: ^orange;Propulsion 
+^white;Unrecognized propulsion device detected. Loading custom configuration. Ionic compression drive spooling.
+^#aee1ee;SystemAlert: ^orange;Core 
+^white;Core temperature fluctuations detected.",
           "speedModifier" : 0.8
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "warkey@toeclass: ^white;scan -r ./planet | filter customlist_1                                  ./planet/(^green;core fragments^white;) detected in substratum layers.                                  All required compounds found for custom blueprint: ^green;Ionic Compression Drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
-          "speedModifier" : 0.8
+          "text" : "root@toeclass# ^white;scan -r ./planet | filter customlist_1 
+./planet/(^green;core fragments^white;) detected in substratum layers. 
+All required compounds found for custom blueprint: ^green;Ionic Compression Drive^white;. ^orange;Release emergency tools ^white;to harvest necessary components for material synthesis with an ^green;artifice fane^white;.",
+          "speedModifier" : 0.4
         }
       ]
     }

@@ -7,21 +7,32 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^green;Maintenance tools ^white;locked by user(adimin.aicore).",
+          "text" : "root@toeclass# ^white;release 
+^white;--overide /dev/mntp4 
+^white;Overriding lockout by ^red;admin.aicore
+^#aee1ee;DeviceAlert: ^orange;Maintenance 
+^white;Do not inhale paint fumes. Device should only be used in well ventilated areas. 
+
+Do you wish to release maintenance gear? (yes/[no])?",
           "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^green;Maintenance tools ^white;released. Failure to load manual.cdn. File missing.",
+          "text" : "DeviceNotice: ^orange;Maintenance 
+^green;Maintenance tools ^white;released. 
+
+^#aee1ee;SystemFailure: ReadError
+Failure to load manual.cdn. File missing.",
           "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Failure to release ^green;maintenance tools. ^white;User access denied by user(admin.aicore).",
+          "text" : "DeviceAlert: ^orange;Maintenance 
+^white;Failure to release ^green;maintenance tools. ^white;User access denied by ^red;admin.aicore^white;.",
           "speedModifier" : 0.4
         }
       ]

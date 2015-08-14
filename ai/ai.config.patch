@@ -9,28 +9,32 @@
         "0" : [
           {
             "animation" : "unique",
-            "text" : "SystemNotice: ^orange;Access denied ^white;logicFailsafe.IDstring matches user(current) in /var/log/system.log as cause of catastrophic system failure in parent vessel.",
+            "text" : "SystemNotice: ^orange;Access Denied 
+^white;logicFailsafe.IDstring in /var/log/system.log matches ^red;$USER ^white;as cause of catastrophic system failure in parent vessel.",
             "speedModifier" : 0.8
           }
         ],
         "1" : [
           {
             "animation" : "talk",
-            "text" : "^orange;SystemError: ^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute.",
+            "text" : "SystemFailure: ^orange;CascadeEvent 
+^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute.",
             "speedModifier" : 0.8
           }
         ],
         "2" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: ^white;Core temperature fluctuations detected in ionic harnessing chamber.",
+            "text" : "SystemAlert: ^orange;Core 
+^white;Core temperature fluctuations detected in ionic harnessing chamber.",
             "speedModifier" : 0.8
           }
         ],
         "3" : [
           {
             "animation" : "talk",
-            "text" : "SystemNotice: ^white;Abrasion detected in slip cylinder coil 1. Core temperature fluctuations detected in ionic harnessing chamber.",
+            "text" : "SystemAlert: ^orange;Slip Cylinder 
+^white;Abrasion detected in slip cylinder coil 1. Core temperature fluctuations detected in ionic harnessing chamber.",
             "speedModifier" : 0.8
           }
         ]
@@ -38,7 +42,8 @@
       "techIntro" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Lifeform scanned. Genetic anomolies detected. Callibration set for Floran sub-species. Augmentation device standing by for ^orange;tech card ^white;and nano suit integration.",
+          "text" : "SystemNotice: ^orange;Scanner 
+^white;Lifeform scanned. Genetic anomolies detected. Callibration set for Floran sub-species. Augmentation device standing by for ^orange;tech card ^white;and nano suit integration.",
           "speedModifier" : 0.8
         }
       ]

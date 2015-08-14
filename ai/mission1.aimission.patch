@@ -9,6 +9,8 @@
         {
           "animation" : "talk",
           "text" : "We've received a distress signal from a lunar outpost identifying itself as the EMF (Erchius Mining Facility). Erchius Ore is used to build and repair FTL drives. I think we should investigate. I recommend you craft steel equipment before setting out.",
+          "text" : "SystemNotice: ^orange;Scanner 
+^white;Distress Signal detected. Message reads, 'Everything is fine here, just a weapons malfunction. We're good! <muffled voice>How d.. y.. turn th.. ...ng off?'",
           "speedModifier" : 1.0
         }
       ]

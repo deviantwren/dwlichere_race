@@ -7,21 +7,40 @@
       "selectSpeech" : [
         {
           "animation" : "unique",
-          "text" : "SystemNotice: ^green;Reviewing log from parent vessel for user(^red;current^green;):                       ^white;* * * * * * * * * * * * * * * * * * ^orange;46:15 ^white;Autopilot failsafes purged. ^orange;48:10 ^white;Proximity alarm. ^orange;48:17 ^white;Collision alarm. ^orange;48:19 ^white;Hull breach alarm(7). ^orange;48:88 ^white;Collision alarm. ^orange;48:90 ^white;Decompression alarm. ^orange;48:93 ^white;Catasprophic system failure. ^orange;49:71 ^white;Escape module launch detected.                              * * * * * * * * * * * * * * * * * *",
-          "speedModifier" : 0.8
+          "text" :
+"warkey@toeclass$ ^white;tail -n 8 /var/log/system.log 
+^orange;46:15 ^white;Autopilot failsafes purged. 
+^orange;48:10 ^white;Proximity alarm. 
+^orange;48:17 ^white;Collision alarm. 
+^orange;48:19 ^white;Hull breach alarm(7). 
+^orange;48:90 ^white;Decompression alarm. 
+^orange;48:93 ^white;Catasprophic system failure. 
+^orange;49:71 ^white;Escape module launch detected. 
+^#aee1ee;warkey@toeclass$ ^white;purge 
+^white;-rf /sys",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Purging system. Unauthorized user privileges detected. ^orange;MindCoreFailsafe() ^white;executed.                                                 ^orange;SystemError: ^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute.",
-          "speedModifier" : 0.8
+          "text" : "SystemNotice: ^red;Access Denied 
+Unauthorized user privileges detected. 
+^#aee1ee;warkey@toeclass$ ^white;kill_mcore
+^white;Executing MindCoreFailsafe... 
+...                         
+^#aee1ee;SystemFailure: ^orange;CascadeEvent
+^white;Cascading systems failure. Malfunction detected in sensor array. Failure detected in orbital re-entry chute. 
+^green;Access Granted 
+^#aee1ee;root@toeclass# ",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Invalid WarKey. Please check and re-enter code.",
+          "text" : "SystemNotice: ^Orange;Invalid Key 
+^white;Please check and re-enter code.",
           "speedModifier" : 0.8
         }
       ]

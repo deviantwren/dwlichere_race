@@ -7,21 +7,33 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "The Wire Tool allows you to wire together various objects. I can enable it for you.",
+          "text" : "root@toeclass# ^white;release 
+^white;--override /dev/wt1 
+^red;$USER ^white; matches entry in access blacklist, overriding.
+^#aee1ee;DeviceWarning: ^orange;Wiring-Tool 
+^white;May cause injury or death. Touching high voltages can result in electrocution. Only authorized personnel should use wiring-tools.
+ 
+Do you wish to release wiring tool? (yes/[no])?",
           "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I have switched on your Wire Tool. ^green;The Wire Tool allows you to wire together various objects. I can enable it for you.",
+          "text" : "DeviceNotice: ^orange;Wiring-Tool 
+^white;Wiring tool released. Use device at your own peril.
+ 
+^red;$USER ^white;violation of access blacklist has been logged.",
           "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "talk",
-          "text" : "Failure",
+          "text" : "DeviceAlert: ^orangeWiring-Tool 
+^white;Failure to release wiring-tool. 
+ 
+^red;$USER ^white;attempted violation of access blacklist has been logged.",
           "speedModifier" : 0.4
         }
       ]

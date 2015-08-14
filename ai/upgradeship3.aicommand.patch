@@ -7,7 +7,8 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;Teleportation module standing by for remote fabrication.",
+          "text" : "SystemNotice: ^orangeTeleporter 
+^white;Teleportation module standing by for remote fabrication.",
           "speedModifier" : 0.8
         }
       ],
@@ -15,13 +16,20 @@
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^white;Cold ignition of slip-drive coils complete. Ionic compression drive cooling off. Abrasion detected in slip cylinders. Safety governor set to seventy-percent.",
-          "speedModifier" : 0.8
+          "text" : "root@toeclass# ^white;slip start 0 
+...                        
+Cold ignition of slip-drive coils complete. Ionic compression drive cooling off.
+...                        
+^#aee1ee;SystemAlert: ^orange;Slip Cylinder 
+^white; Abrasion detected in slip cylinders. Safety governor set to seventy percent.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "SystemNotice: Uploading configuration file 'slipdrive_v34i'. Remote fabrication sequence standing by for presence of ^orange;Slip Drive ^white;.",
+          "text" : "SystemNotice: ^orange;Configuration 
+^white;Uploading configuration file 'slipdrive_v34i'. Remote fabrication sequence standing by for presence of ^orange;Slip Drive ^white;.",
           "speedModifier" : 0.8
         }
       ]
