@@ -21,7 +21,11 @@ Checking status of primary reaction control system
         {
           "animation" : "talk",
           "text" : "SystemNotice: ^orange;Propulsion 
-^white;Unrecognized propulsion device detected. Loading custom configuration. Ionic compression drive spooling.
+^white;Unrecognized propulsion device detected. 
+^#aee1ee;root@toeclass# ^white;init_icd -f idcv34.cfg 
+...                        
+^#aee1ee;SystemNotice: ^orange;Propulsion 
+Loading custom configuration. Ionic compression drive spooling.
 ^#aee1ee;SystemAlert: ^orange;Core 
 ^white;Core temperature fluctuations detected.",
           "speedModifier" : 0.8

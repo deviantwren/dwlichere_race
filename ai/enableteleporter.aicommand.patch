@@ -7,10 +7,10 @@
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "SystemNotice: ^white;stat /dev/tpm1
-Checking status of teleportation module
+          "text" : "root@toeclass# ^white;stat /dev/tpm1 
+Checking status of teleportation module 
 ...                         
-^#aee1ee;SystemAlert: ^orange;Teleporter
+^#aee1ee;SystemAlert: ^orange;Teleporter 
 ^white;Interference detected on optimal teleportation bandwidths. ^green;Teleportation node ^white;not advised in sub-optimal conditions.",
           "speedModifier" : 0.4
         }
