@@ -1,8 +1,8 @@
 {
-  "objectName" : "licherelightning3",
+  "objectName" : "licheresparking4",
   "rarity" : "Common",
   "description" : "If only I could harness that.",
-  "shortdescription" : "Lightning",
+  "shortdescription" : "Sparking Energy",
   "race" : "lichere",
 
   "apexDescription" : "That could melt my fur off.",
@@ -17,15 +17,15 @@
   "pointLight" : true,
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
-  "flickerTiming" : 4,
+  "flickerTiming" : 0.11,
 
-  "inventoryIcon" : "licherelightning3icon.png",
+  "inventoryIcon" : "licheresparkingicon.png",
   "orientations" : [
     {
-      "image" : "licherelightning3.png:<color>.<frame>",
+      "image" : "licheresparking4.png:<color>.<frame>",
       "imagePosition" : [0, 0],
-      "frames" : 10,
-      "animationCycle" : 0.4,
+      "frames" : 9,
+      "animationCycle" : 0.33,
 	  "fullbright" : true,
 
       "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
@@ -35,17 +35,14 @@
 
   "engineOnOrientations" : [
     {
-      "image" : "licherelightning3.png:<color>.<frame>",
+      "image" : "licheresparking4.png:<color>.<frame>",
       "imagePosition" : [0, 0],
-      "frames" : 10,
-      "animationCycle" : 0.3,
+      "frames" : 9,
+      "animationCycle" : 0.33,
 	  "fullbright" : true,
 
       "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
       "anchors" : [ "top" ]
     }
-  ],
-
-  "soundEffect" : "/sfx/objects/teslaspike.wav"
-
+  ]
 }
