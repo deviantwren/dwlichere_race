@@ -11,11 +11,15 @@
 }
 
 //todolist
-//epiccape of billowing should require some string
-//change reaperbow icon
-//lichereteleportercore
-//rename licherescience to something more descriptive; cascading knowledge core
-//remove corecluster from quest
+//addflying monstertype damage / treasurepool link / addpoultry; copy out treasurepool from hunting.treasurepool
+//recipes for licherecarcass: leather, alienmeat, brains, rawribmeat
+//consider adding a custom droptable to the flies / bugs that lets you hunt odd things
+//add the same to fish
+//it needs to be clear that you need a bow to harvest necessary lichere items
+//bowtier weapon damage sucks ; it's still only 25 damage ...
+//make it so that the mindcore isn't required for the science, but rather the secondaryseed / fibre from plants
+//lichereteleportercore; what about it?
+//remove corecluster from quest; related to quest bypass-- figure out the bypass route
 //shiplocker and ai may be too close in appearance & proximity
 //there needs to a gate / check prior to building the artifice fane // durasteel
 //quests should carry on into weapons and armor perhaps...

@@ -14,7 +14,7 @@
   "imageFrameSelector" : "bowImageSelector",
   "handPosition" : [0, -0.5],
   "firePosition" : [12, 1.5],
-  "baseDps" : [3, 3],
+  "baseDps" : [3.75, 3.75],
   "level" : 3,
   "fireTime" : 0.65,
   "inaccuracy" : 0.009,

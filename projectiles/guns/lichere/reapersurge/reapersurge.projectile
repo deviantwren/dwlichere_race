@@ -15,5 +15,5 @@
     }
   ],
   "power" : 20,
-  "damageKind" : "plasma"
+  "damageKind" : "lichereplasma"
 }

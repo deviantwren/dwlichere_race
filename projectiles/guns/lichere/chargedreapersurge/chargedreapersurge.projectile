@@ -18,5 +18,5 @@
   "power" : 20,
   "bounces" : 1,
   "piercing" : true,
-  "damageKind" : "plasma"
+  "damageKind" : "lichereplasma"
 }
