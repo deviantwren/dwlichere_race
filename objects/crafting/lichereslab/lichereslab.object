@@ -1,0 +1,68 @@
+{
+  "objectName" : "lichereslab",
+  "printable" : false,
+  "price" : 1000,
+  "rarity" : "Uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/lichereslab.config",
+    "filter" : [ "licherebio", "licherefood" ]
+  },
+
+  "lightColor" : [94, 171, 56],
+
+  "flickerPeriod" : 0.7,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.25,
+  "flickerPeriodVariance" : 0.05,
+  "flickerIntensityVariance" : 0.025,
+
+  "description" : "For preparing carcasses for other purposes, and creating culinary delights.",
+  "shortdescription" : "^orange;Stone Preparation Slab^white;",
+  "race" : "lichere",
+  "category" : "crafting",
+
+  "apexDescription" : "I don't know if I should use this. I'm thinking: Goldyfur and the three apes?",
+  "avianDescription" : "I smell fish and poultry.",
+  "floranDescription" : "Floran prepare food with bare handsss. But table ussseful.",
+  "glitchDescription" : "Uninspired. Stone table for food?",
+  "humanDescription" : "A caveman's table? For food maybe.",
+  "hylotlDescription" : "I'm not cooking on that!",
+
+  "inventoryIcon" : "lichereslabicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "lichereslab.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereslablit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 5, 
+      "animationCycle" : 0.7,
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "lightPosition" : [ 1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+      
+    },
+    {
+      "imageLayers" : [ { "image" : "lichereslab.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereslablit.png:<color>.<frame>" } ],
+      
+      "imagePosition" : [-8, 0],
+      "frames" : 5,
+      "animationCycle" : 0.7,
+
+      "direction" : "right",
+
+      "lightPosition" : [ 1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

@@ -2,26 +2,31 @@
   "lichereplasma" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : [ "licherecarcass" ]}
-      ]
-    } ],
-    [2, {
-      "pool" : [
-        {"weight" : 0.8, "item" : [ "licherecarcass" ]},
-        {"weight" : 0.2, "item" : [ "liquidpoison" ]}
+        {"weight" : 0.2, "item" : [ "licherecarcass" ]},
+        {"weight" : 0.1, "item" : [ "alienmeat" ]},
+        {"weight" : 0.05, "item" : [ "rawribmeat" ]},
+        {"weight" : 0.1, "item" : [ "leather" ]},
+        {"weight" : 0.1, "item" : [ "bone" ]},
+        {"weight" : 0.1, "item" : [ "inferiorbrain" ]},
+        {"weight" : 0.05, "item" : [ "brain" ]},
+        {"weight" : 0.1, "item" : [ "fleshstrand" ]},
+        {"weight" : 0.1, "item" : [ "liquidpoison" ]},
+        {"weight" : 0.1, "item" : [ "liquidalienjuice" ]}
       ]
     } ]
   ],
   "licherebirdplasma" : [
     [1, {
       "pool" : [
-        {"weight" : 1.0, "item" : [ "licherebirdcarcass" ]}
-      ]
-    } ],
-    [2, {
-      "pool" : [
-        {"weight" : 0.8, "item" : [ "licherebirdcarcass" ]},
-        {"weight" : 0.2, "item" : [ "liquidpoison" ]}
+        {"weight" : 0.2, "item" : [ "licherecarcass" ]},
+        {"weight" : 0.15, "item" : [ "rawpoultry" ]},
+        {"weight" : 0.1, "item" : [ "bone" ]},
+        {"weight" : 0.1, "item" : [ "leather" ]},
+        {"weight" : 0.1, "item" : [ "inferiorbrain" ]},
+        {"weight" : 0.05, "item" : [ "brain" ]},
+        {"weight" : 0.1, "item" : [ "fleshstrand" ]},
+        {"weight" : 0.1, "item" : [ "liquidpoison" ]},
+        {"weight" : 0.1, "item" : [ "liquidalienjuice" ]}
       ]
     } ]
   ]

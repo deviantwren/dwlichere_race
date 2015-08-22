@@ -28,7 +28,7 @@
   "projectile" : {
     "speed" : 115,
     "speedCurve" : "drawTimeMultiplier",
-    "power" : 1,
+    "power" : 2,
     "powerCurve" : "drawTimeMultiplier",
     "color" : [220, 10, 10]
   },

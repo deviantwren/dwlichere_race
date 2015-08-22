@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 35 }
+    { "item" : "inferiorbrain", "count" : 5 }
   ],
   "output" : {
-    "item" : "liquidalienjuice",
-    "count" : 10
+    "item" : "brain",
+    "count" : 1
   },
   "groups" : [ "all", "plain", "licherebio", "licherefane" ]
 }

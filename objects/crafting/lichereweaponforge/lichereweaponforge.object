@@ -15,7 +15,7 @@
   
   "lightColor" : [94, 171, 56],
 
-  "flickerPeriod" : 0.7,
+  "flickerPeriod" : 0.6,
   "flickerMinIntensity" : 0.2,
   "flickerMaxIntensity" : 0.25,
   "flickerPeriodVariance" : 0.05,

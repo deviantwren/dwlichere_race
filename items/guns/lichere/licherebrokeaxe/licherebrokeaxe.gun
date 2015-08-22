@@ -17,7 +17,7 @@
   "twoHanded" : false,
   "level" : 1,
 
-  "projectileType" : "brainshock",
+  "projectileType" : "lichereshock",
   "projectile" : { "speed" : 5,
     "power" : 1,
     "color" : [10, 255, 10]
