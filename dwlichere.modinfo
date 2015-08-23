@@ -11,6 +11,9 @@
 }
 
 //todolist
+//fix licheresparking; correct spaces to spacescan, and anchor to background?
+//fix lack of energy usage with lichereshock vs brainshock
+//make sure all old varients of railgun & brokebeam axe are removed; as they crash servres now, due to having new updated projectiles
 //adjust lichere reapershot; it looks ugly red and black
 //add config filters to filter specifically lichere items?
 //consider adding a custom droptable to the flies / bugs that lets you hunt odd things

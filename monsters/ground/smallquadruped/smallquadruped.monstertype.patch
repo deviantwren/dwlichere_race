@@ -1,9 +1,7 @@
 [
   {
   "op" : "add",
-  "path" : "/dropPools/-",
-  "value" : {
-    "lichereplasma" : "lichereplasma"
-    }
+  "path" : "/dropPools/0/lichereplasma",
+  "value" : "lichereplasma" 
   }
 ]

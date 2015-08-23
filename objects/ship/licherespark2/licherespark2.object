@@ -1,0 +1,34 @@
+{
+  "objectName" : "licherespark2",
+  "rarity" : "Common",
+  "description" : "If only I could harness that.",
+  "shortdescription" : "Sparking Energy",
+  "race" : "lichere",
+
+  "apexDescription" : "That could melt my fur off.",
+  "avianDescription" : "A booster, the wings of a ship.",
+  "floranDescription" : "Ssscary zap-zaps!",
+  "glitchDescription" : "Analyse. That could fry my circuits.",
+  "humanDescription" : "I bet that's not good.",
+  "hylotlDescription" : "Curious design or malfunction.",
+
+  "category" : "light",
+  "lightColor" : [255, 255, 255],
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 0.2,
+
+  "inventoryIcon" : "licherespark2icon.png",
+  "orientations" : [
+    {
+      "image" : "licherespark2.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 8,
+      "animationCycle" : 0.4,
+	  "fullbright" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

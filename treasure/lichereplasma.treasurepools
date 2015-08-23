@@ -6,12 +6,12 @@
         {"weight" : 0.1, "item" : [ "alienmeat" ]},
         {"weight" : 0.05, "item" : [ "rawribmeat" ]},
         {"weight" : 0.1, "item" : [ "leather" ]},
-        {"weight" : 0.1, "item" : [ "bone" ]},
+        {"weight" : 0.1, "item" : [ "bone", 3]},
         {"weight" : 0.1, "item" : [ "inferiorbrain" ]},
         {"weight" : 0.05, "item" : [ "brain" ]},
-        {"weight" : 0.1, "item" : [ "fleshstrand" ]},
-        {"weight" : 0.1, "item" : [ "liquidpoison" ]},
-        {"weight" : 0.1, "item" : [ "liquidalienjuice" ]}
+        {"weight" : 0.1, "item" : [ "fleshstrand", 5]},
+        {"weight" : 0.1, "item" : [ "liquidpoison", 5]},
+        {"weight" : 0.1, "item" : [ "liquidalienjuice", 5]}
       ]
     } ]
   ],
@@ -20,13 +20,13 @@
       "pool" : [
         {"weight" : 0.2, "item" : [ "licherecarcass" ]},
         {"weight" : 0.15, "item" : [ "rawpoultry" ]},
-        {"weight" : 0.1, "item" : [ "bone" ]},
+        {"weight" : 0.1, "item" : [ "bone", 2]},
         {"weight" : 0.1, "item" : [ "leather" ]},
         {"weight" : 0.1, "item" : [ "inferiorbrain" ]},
         {"weight" : 0.05, "item" : [ "brain" ]},
-        {"weight" : 0.1, "item" : [ "fleshstrand" ]},
-        {"weight" : 0.1, "item" : [ "liquidpoison" ]},
-        {"weight" : 0.1, "item" : [ "liquidalienjuice" ]}
+        {"weight" : 0.1, "item" : [ "fleshstrand", 3]},
+        {"weight" : 0.1, "item" : [ "liquidpoison", 3]},
+        {"weight" : 0.1, "item" : [ "liquidalienjuice", 3]}
       ]
     } ]
   ]

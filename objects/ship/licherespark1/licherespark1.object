@@ -1,5 +1,5 @@
 {
-  "objectName" : "licheresparking1",
+  "objectName" : "licherespark1",
   "rarity" : "Common",
   "description" : "If only I could harness that.",
   "shortdescription" : "Sparking Energy",
@@ -14,35 +14,21 @@
 
   "category" : "light",
   "lightColor" : [255, 255, 255],
-  "pointLight" : true,
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
   "flickerTiming" : 0.2,
 
-  "inventoryIcon" : "licheresparkingicon.png",
+  "inventoryIcon" : "licherespark1icon.png",
   "orientations" : [
     {
-      "image" : "licheresparking1.png:<color>.<frame>",
+      "image" : "licherespark1.png:<color>.<frame>",
       "imagePosition" : [0, 0],
       "frames" : 8,
       "animationCycle" : 0.4,
 	  "fullbright" : true,
 
-      "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
-      "anchors" : [ "top" ]
-    }
-  ],
-
-  "engineOnOrientations" : [
-    {
-      "image" : "licheresparking1.png:<color>.<frame>",
-      "imagePosition" : [0, 0],
-      "frames" : 8,
-      "animationCycle" : 0.4,
-	  "fullbright" : true,
-
-      "spaces" : [ [-2, 1], [-2, 0], [-2, -1], [-1, 1], [-1, 0], [-1, -1], [0, 1], [0, 0], [0, -1], [1, 1], [1, 0], [1, -1] ],
-      "anchors" : [ "top" ]
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
     }
   ]
 }
