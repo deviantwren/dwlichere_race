@@ -1,6 +1,8 @@
 {
   "input" : [
     { "item" : "plantfibre", "count" : 3 },
+    { "item" : "glowfibregreen", "count" : 3 },
+    { "item" : "glowfibrered", "count" : 3 },
     { "item" : "liquidalienjuice", "count" : 10 }
   ],
   "output" : {

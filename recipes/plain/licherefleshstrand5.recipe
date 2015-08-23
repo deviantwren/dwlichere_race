@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rawribmeat", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fleshstrand",
+    "count" : 2
+  },
+  "groups" : [ "all", "plain", "licherebio", "licherefane" ]
+}

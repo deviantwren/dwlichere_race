@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "liquidalienjuice", "count" : 10 },
+    { "item" : "liquidalienjuice", "count" : 5 },
+    { "item" : "glowfibrepurple", "count" : 7 },
     { "item" : "violiumore", "count" : 3 }
   ],
   "output" : {

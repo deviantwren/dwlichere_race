@@ -4,6 +4,8 @@
     { "item" : "monsterplating", "count" : 1 },
     { "item" : "leather", "count" : 1 },
     { "item" : "liquidhealing", "count" : 2 },
+    { "item" : "glowfibreorange", "count" : 20 },
+    { "item" : "glowfibreblue", "count" : 10 },
     { "item" : "licheretier7pants", "count" : 1 }
   ],
   "output" : { "item" : "licheretier10pants", "count" : 1 },

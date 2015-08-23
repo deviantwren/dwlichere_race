@@ -4,6 +4,8 @@
     { "item" : "monsterplating", "count" : 1 },
     { "item" : "liquidhealing", "count" : 2 },
     { "item" : "fleshstrand", "count" : 3 },
+    { "item" : "glowfibreorange", "count" : 10 },
+    { "item" : "glowfibreblue", "count" : 20 },
     { "item" : "licheretier7head", "count" : 1 }
   ],
   "output" : { "item" : "licheretier10head", "count" : 1 },

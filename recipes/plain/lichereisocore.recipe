@@ -1,6 +1,8 @@
 {
   "input" : [
     { "item" : "corefragmentore", "count" : 2 },
+    { "item" : "glowfibreyellow", "count" : 6 },
+    { "item" : "liquidpoison", "count" : 1 },
     { "item" : "liquidalienjuice", "count" : 10 }
   ],
   "output" : {
