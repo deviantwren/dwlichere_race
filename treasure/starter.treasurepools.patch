@@ -12,10 +12,10 @@
         {"item" : [ "miningchest", 1]},
         {"item" : [ "inkbulbseed", 2]},
         {"item" : [ "driporbseed", 1]},
-        {"item" : [ "neonmelonseed", 2]},
-        {"item" : [ "pussplumseed", 2]},
-        {"item" : [ "kiwiseed", 2]},
-        {"item" : [ "oculemonseed", 2]}
+        {"item" : [ "wallclingseed_dk", 2]},
+        {"item" : [ "wallclingseed_lt", 2]},
+        {"item" : [ "stickpulpseed", 2]},
+        {"item" : [ "rainbowgourd", 2]}
 
       ]
     } ]
