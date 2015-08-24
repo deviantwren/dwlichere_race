@@ -1,21 +1,22 @@
 {
-  "itemName" : "licheretier10bow",
+  "itemName" : "licheretier1bow",
   "inventoryIcon" : "licheretier10bowicon.png",
   "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Legendary",
+  "rarity" : "Common",
   "tooltipKind" : "bow",
   "weaponType" : "Bow",
+
   "description" : "For precision slaughter on the perpetual hunt.",
   "shortdescription" : "Reaper Bow",
   "image" : "licheretier10bow.png:<frame>",
-  "imageFrameSelector" : "bowImageSelector",
-  "handPosition" : [0, -0.5],
-  "firePosition" : [12, 1.5],
+  "imageFrameSelector" : "bowImageSelectorLichere",
+  "handPosition" : [-8, -1.5],
+  "firePosition" : [20, -0.5],
   "baseDps" : [10, 10],
   "level" : 10,
   "fireTime" : 0.65,
-  "inaccuracy" : 0.002,
+  "inaccuracy" : 0.011,
   "twoHanded" : true,
 
   "fireOnRelease" : true,
@@ -26,9 +27,9 @@
   "powerProjectileTime" : [0.9, 1.1],
   "projectile" : {
     "speed" : 115,
-    "speedCurve" : "drawTimeMultiplier",
+    "speedCurve" : "drawTimeMultiplierLichere",
     "power" : 10,
-    "powerCurve" : "drawTimeMultiplier",
+    "powerCurve" : "drawTimeMultiplierLichere",
     "color" : [220, 10, 10]
   },
 

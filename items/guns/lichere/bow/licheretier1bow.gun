@@ -10,9 +10,9 @@
   "description" : "For precision slaughter on the perpetual hunt.",
   "shortdescription" : "Reaper Bow",
   "image" : "licheretier10bow.png:<frame>",
-  "imageFrameSelector" : "bowImageSelector",
-  "handPosition" : [0, -0.5],
-  "firePosition" : [12, 1.5],
+  "imageFrameSelector" : "bowImageSelectorLichere",
+  "handPosition" : [-8, -1.5],
+  "firePosition" : [20, -0.5],
   "baseDps" : [2, 2],
   "level" : 2,
   "fireTime" : 0.65,
@@ -27,9 +27,9 @@
   "powerProjectileTime" : [0.9, 1.1],
   "projectile" : {
     "speed" : 115,
-    "speedCurve" : "drawTimeMultiplier",
+    "speedCurve" : "drawTimeMultiplierLichere",
     "power" : 2,
-    "powerCurve" : "drawTimeMultiplier",
+    "powerCurve" : "drawTimeMultiplierLichere",
     "color" : [220, 10, 10]
   },
 
