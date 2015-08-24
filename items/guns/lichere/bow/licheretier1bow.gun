@@ -11,7 +11,7 @@
   "image" : "licheretier10bow.png:<frame>",
   "imageFrameSelector" : "bowImageSelectorLichere",
   "handPosition" : [-8, -1.5],
-  "firePosition" : [20, -0.5],
+  "firePosition" : [20, -1.5],
   "baseDps" : [2, 2],
   "level" : 2,
   "fireTime" : 0.65,
