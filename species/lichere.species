@@ -21,7 +21,7 @@
       { "item" : "licherefuel" },
       { "item" : "licherefuel2" },
 
-      { "item" : "liquidalienjuice" },
+      { "item" : "liquidmilk" },
       { "item" : "bone" },
       { "item" : "brain" },
       { "item" : "inferiorbrain" },
@@ -139,8 +139,6 @@
     { "f7e7b2" : "875d5d", "d9c189" : "6b4545", "a38d59" : "573b3b", "735e3a" : "472d2d" },
     /* DESATURATED BLOOD */
     { "f7e7b2" : "682a2a", "d9c189" : "4b1d1d", "a38d59" : "381818", "735e3a" : "2e1212" },
-    /* DARKENED BLOOD SUGAR */
-    { "f7e7b2" : "421010", "d9c189" : "310d0d", "a38d59" : "200a0a", "735e3a" : "180808" },
     /* DARKENED BLOOD GLITTER */
     { "f7e7b2" : "461111", "d9c189" : "310d0d", "a38d59" : "200a0a", "735e3a" : "180808" },
     /* DESATURATED ROSE */

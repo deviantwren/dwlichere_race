@@ -3,8 +3,8 @@
     { "item" : "imperviumcompound", "count" : 6 },
     { "item" : "monsterplating", "count" : 1 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "glowfibreorange", "count" : 10 },
-    { "item" : "glowfibreblue", "count" : 20 },
+    { "item" : "glowfibreorange_gl", "count" : 10 },
+    { "item" : "glowfibreblue_gl", "count" : 20 },
     { "item" : "fleshstrand", "count" : 3 },
     { "item" : "licheretier7head", "count" : 1 }
   ],

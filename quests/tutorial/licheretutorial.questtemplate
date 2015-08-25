@@ -1,10 +1,10 @@
 {
   "id" : "licheretutorial.gearup",
-  "title" : "^blue;Toe-class Escape Module",
+  "title" : "^red;Toe-class Escape Module",
   "text" : "^blue;NeuralDeviceID0: ^white;You are within teleportation range. ^orange;Gear up ^white;prior to ^orange;disembarking ^white;this derelict, thruster-less escape module. Disembarkment is still advised.",
   "completionText" : "^blue;NerualDeviceID0: ^white;Quoting, 'Nothing stops the Lichere Reapers.'. ID0 advises that you should not advertise this at present. The current state of your gear is... Confirmed. Limiting ID0 advisory settings.",
-  "conditions" : [
-    { "kind" : "gather", "item" : [ "licherelight", 1], "consume" : false }
+  "completionConditions" : [
+    { "type" : "gather", "item" : "licherelight", "count" : 1, "consume" : false }
   ],
   "moneyRange" : [0, 0],
   "rewards" : [

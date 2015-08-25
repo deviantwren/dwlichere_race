@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquidlicherejuice",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "licherejuiceicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "shortdescription" : "Lichere Juice",
+  "description" : "A measure of alien juice.",
+
+  "liquid" : "licherejuice"
+}

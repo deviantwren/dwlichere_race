@@ -1,9 +1,9 @@
 {
   "input" : [
     { "item" : "plantfibre", "count" : 3 },
-    { "item" : "glowfibregreen", "count" : 3 },
-    { "item" : "glowfibrered", "count" : 3 },
-    { "item" : "liquidalienjuice", "count" : 10 }
+    { "item" : "glowfibregreen_gl", "count" : 3 },
+    { "item" : "glowfibrered_gl", "count" : 3 },
+    { "item" : "liquidmilk", "count" : 10 }
   ],
   "output" : {
     "item" : "licherebandage",

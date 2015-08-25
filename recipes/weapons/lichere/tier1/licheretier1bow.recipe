@@ -1,8 +1,8 @@
 {
   "input" : [
     { "item" : "darkwoodmaterial", "count" : 5 },
-    { "item" : "glowfibrered", "count" : 6 },
-    { "item" : "glowfibreblue", "count" : 3 },
+    { "item" : "glowfibrered_gl", "count" : 6 },
+    { "item" : "glowfibreblue_gl", "count" : 3 },
     { "item" : "lichereisocore", "count" : 1 },
     { "item" : "licheremindcore", "count" : 1 }
   ],

@@ -1,7 +1,6 @@
 {
   "objectName" : "lichereshiplockerTier0",
   "rarity" : "Common",
-  "objectType" : "noisy",
   "category" : "decorative",
   "description" : "Store some stuff, why don't you?",
   "shortdescription" : "Shiplocker",
@@ -37,7 +36,7 @@
   "inventoryIcon" : "lichereshiplockericonTier0.png",
   "orientations" : [
     {
-	  "image" : "lichereshiplockerTier0.png:<color>.<frame>",
+      "image" : "lichereshiplockerTier0.png:<color>.<frame>",
       "imagePosition" : [-8, -8],
       "frames" : 22,
       "animationCycle" : 2,
@@ -45,7 +44,13 @@
       "anchors" : [ "background" ]
     }
   ],
-  
+
+  "animation" : "/objects/noisy/noisy.animation",
+
+  "scripts" : [
+    "/objects/noisy/noisy.lua"
+  ],
+   
   "sounds" : [ "/sfx/interface/ship_error1.wav" ]
   
 }

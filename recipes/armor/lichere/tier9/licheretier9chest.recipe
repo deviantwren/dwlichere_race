@@ -2,10 +2,10 @@
   "input" : [
     { "item" : "ceruliumcompound", "count" : 10 },
     { "item" : "plantfibre", "count" : 45 },
-    { "item" : "glowfibreyellow", "count" : 25 },
-    { "item" : "glowfibregreen", "count" : 25 },
+    { "item" : "glowfibreyellow_gl", "count" : 25 },
+    { "item" : "glowfibregreen_gl", "count" : 25 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidalienjuice", "count" : 2 },
+    { "item" : "liquidmilk", "count" : 2 },
     { "item" : "licheretier7chest", "count" : 1 }
   ],
   "output" : { "item" : "licheretier9chest", "count" : 1 },

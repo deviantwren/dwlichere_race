@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "liquidalienjuice", "count" : 5 },
-    { "item" : "glowfibreorange", "count" : 7 },
+    { "item" : "liquidmilk", "count" : 5 },
+    { "item" : "glowfibreorange_gl", "count" : 7 },
     { "item" : "silverore", "count" : 3 }
   ],
   "output" : {

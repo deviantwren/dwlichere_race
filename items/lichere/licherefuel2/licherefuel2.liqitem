@@ -6,7 +6,7 @@
   "shortdescription" : "Ishurion 336",
   "description" : "A stable, extremely effiecient, plant-friendly isotope used in some starships as fuel.",
 
-  "liquid" : "alienjuice",
+  "liquid" : "milk",
   
   "fuelAmount" : 20
 }

@@ -1,9 +1,9 @@
   {
   "id" : "2_options.gearup",
-  "title" : "^orange;Psuedo-Genius versus The Brute",
+  "title" : "^red;Psuedo-Genius versus The Brute",
   "text" : "I could just jury-rig a matter-drive engine with about ^blue;20 core fragments ^white;and the time to reallocate parts from various capsule functions, but I could also take the time to fabricate an I-drive planet-side, probably an ^blue;ionic compression drive ^white;. That'll take a lot of time but it'd be worth the effort; I'd have everything I need to get my custom matter manipulator functioning again.",
   "completionText" : "I've started the drill and I finally have what I need to fix the ship's FTL drive.",
-  "conditions" : [ ],
+  "completionConditions" : [ ],
   "requireTurnIn" : true,
   "moneyRange" : [0, 0],
   "rewards" : [ 

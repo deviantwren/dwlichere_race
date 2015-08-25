@@ -29,7 +29,7 @@
   "scripts" : [ "/objects/wired/door/door.lua" ],
   "scriptDelta" : 5,
 
-  "animation" : "/objects/wired/door/licheredoor.animation",
+  "animation" : "/objects/wired/door/door.animation",
   "animationCustom" : {
     "sounds" : {
       "open" : [ "/sfx/objects/apexstatue3_switchon.wav" ],

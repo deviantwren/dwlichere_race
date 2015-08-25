@@ -3,7 +3,7 @@
     { "item" : "inferiorbrain", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquidalienjuice",
+    "item" : "liquidmilk",
     "count" : 5
   },
   "groups" : [ "all", "plain", "licherebio", "licherefane" ]

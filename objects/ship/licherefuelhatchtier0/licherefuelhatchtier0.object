@@ -1,7 +1,6 @@
 {
   "objectName" : "licherefuelhatchtier0",
   "rarity" : "Common",
-  "objecttype" : "noisy",
   "description" : "It's the access panel. It's alerting me to the malfunctioning systems.",
   "shortdescription" : "Beeping Systems Access Panel",
   "race" : "lichere",
@@ -34,6 +33,12 @@
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
     }
+  ],
+
+  "animation" : "/objects/noisy/noisy.animation",
+
+  "scripts" : [
+    "/objects/noisy/noisy.lua"
   ],
 
   "soundEffect" : "/sfx/instruments/bones/a6.ogg",

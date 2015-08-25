@@ -1,10 +1,10 @@
 {
   "id" : "lichere1reaper.gearup",
-  "title" : "^blue;Reaper I: Bodysuits",
+  "title" : "^red;Reaper I: Bodysuits",
   "text" : "^blue;NeuralDeviceID0: ^white;Suits! These quests will circumvent the outpost quests entirely, by providing their results.",
   "completionText" : "^blue;SynapticID0: ^white;Something about evolving? No.",
-  "conditions" : [
-    { "kind" : "trigger", "trigger" : "ai.repairftl" }
+  "completionConditions" : [
+    { "type" : "shiplevel", "level" : 4 }
   ],
   "moneyRange" : [0, 0],
   "rewards" : [

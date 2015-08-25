@@ -4,6 +4,7 @@
   "path" : "/species/lichere",
   "value" : {
       "aiFrames" : "lichereai.png",
+      "portraitFrames" : "portraits/lichereportrait.png",
       "staticFrames" : "staticavian.png",
       "openSpeech" : {
         "0" : [

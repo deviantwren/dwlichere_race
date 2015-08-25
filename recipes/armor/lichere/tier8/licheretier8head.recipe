@@ -1,10 +1,10 @@
 {
   "input" : [
     { "item" : "feroziumcompound", "count" : 6 },
-    { "item" : "glowfibrered", "count" : 20 },
-    { "item" : "glowfibrepurple", "count" : 10 },
+    { "item" : "glowfibrered_gl", "count" : 20 },
+    { "item" : "glowfibrepurple_gl", "count" : 10 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidalienjuice", "count" : 2 },
+    { "item" : "liquidmilk", "count" : 2 },
     { "item" : "licheretier7head", "count" : 1 }
   ],
   "output" : { "item" : "licheretier8head", "count" : 1 },

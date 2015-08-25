@@ -1,6 +1,6 @@
 {
   "name" : "dwlichere_race",
-  "version" : "Beta v. Upbeat Giraffe - Update 2",
+  "version" : "Beta v. Pleased Giraffe - Update 1",
   "path" : ".",
   "requires" : [ "dwccextender", "dwgrowlab" ],
   "metadata": {
@@ -12,6 +12,7 @@
 
 //todolist
 //add config filters to filter specifically lichere items?
+//replace licherespark with an ember styled after the lichereplasma particle
 //consider adding a custom droptable to the flies / bugs that lets you hunt odd things
 //add the same to fish
 //it needs to be clear that you need a bow to harvest necessary lichere items
@@ -46,7 +47,6 @@
 //figure out .lua triggers for ceiling plant
 //
 //notes
-//temporary licheredoor.animation added to compensate for door always being closed
 //conform t4-8 lit ship.pngs to 95% opacity & in lit.pngs delete control console lights
 //blinking 'e' over shiplocker is found in shiplockertier0 as the particle "emid.png"; pixel origin
 //lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
