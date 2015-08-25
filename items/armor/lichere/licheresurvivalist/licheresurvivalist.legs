@@ -19,6 +19,8 @@
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED SIERRA RED */
     { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
   /*/* DESATURATED DUSTY ROSE */
@@ -33,8 +35,6 @@
     { "ffca8a" : "62573a", "e0975c" : "524930", "a85636" : "443d28", "6f2919" : "3a3322" },
     /* DESATURATED YELLOW-GREEN */
     { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" },
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED VILE GUACAMOLE */
     { "ffca8a" : "5c5435", "e0975c" : "50492e", "a85636" : "3d3923", "6f2919" : "2e2c1c" },
     /* DESATURATED ARMY GREEN */

@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
+  "level" : 2,
   "description" : "Solid steel augmented by a resilient vine mesh and insulated with soft fabric.",
   "shortdescription" : "Predator's Chestguard",
   "tooltipKind" : "armor",

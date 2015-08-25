@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Common",
+  "level" : 1,
   "description" : "Solid iron face plate, not very vogue.",
   "shortdescription" : "Scavenger's Face Plate",
   "tooltipKind" : "armor",

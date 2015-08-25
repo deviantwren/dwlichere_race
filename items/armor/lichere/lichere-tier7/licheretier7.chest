@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
+  "level" : 7,
   "description" : "Minimalistic violium-nanoweave design with heat shunting, protected vitals, body support, and sustaining nano-flora gel.",
   "shortdescription" : "Spectre's Chestrig",
   "tooltipKind" : "armor",

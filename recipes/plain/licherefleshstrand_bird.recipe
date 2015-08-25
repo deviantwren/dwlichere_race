@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "licherecarcass", "count" : 1 }
+    { "item" : "licherebirdcarcass", "count" : 1 }
   ],
   "output" : {
-    "item" : "liquidpoison",
-    "count" : 1
+    "item" : "fleshstrand",
+    "count" : 6
   },
   "groups" : [ "all", "plain", "licherebio", "licherefane" ]
 }

@@ -1,6 +1,8 @@
 {
   "input" : [
     { "item" : "refinedaegisalt", "count" : 6 },
+    { "item" : "liquidalienjuice", "count" : 15 },
+    { "item" : "brain", "count" : 1 },
     { "item" : "plantfibre", "count" : 7 }
   ],
   "output" : { "item" : "licheretier6head", "count" : 1 },

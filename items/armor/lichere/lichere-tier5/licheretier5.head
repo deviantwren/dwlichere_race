@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
+  "level" : 5,
   "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design premise.",
   "shortdescription" : "Carnivore's Mask",
   "tooltipKind" : "armor",

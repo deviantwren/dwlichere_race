@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
+  "level" : 6,
   "description" : "Lightweight, aegisalt-woven, and a perfect blend of support and protection.",
   "shortdescription" : "Sprinter's Chestguard",
   "tooltipKind" : "armor",

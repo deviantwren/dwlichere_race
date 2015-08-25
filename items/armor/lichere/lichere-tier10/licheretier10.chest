@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
+  "level" : 10,
   "description" : "The life-sustaining, genetic nurturing, and anatomical support of a Ripper's pure impervium hardshell prove removal to be retrogressive.",
   "shortdescription" : "Ripper's Hardshell",
   "tooltipKind" : "armor",

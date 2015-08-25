@@ -4,8 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
+  "level" : 3,
   "description" : "Intricate titanium-and-bone mesh scarf worn with the raised hud: Lichere vanity?",
-  "shortdescription" : "Possessor's Specs and Wrap",
+  "shortdescription" : "Possessor's Vanity",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "licheretier4head" ],
 

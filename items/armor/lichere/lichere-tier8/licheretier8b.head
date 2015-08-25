@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
+  "level" : 8,
   "description" : "The nano-biotic fluid of the ferozium biotic helm allows a Griever to leech power and physical hardening from sentient life sources.",
   "shortdescription" : "Griever's Biotic Helm",
   "tooltipKind" : "armor",

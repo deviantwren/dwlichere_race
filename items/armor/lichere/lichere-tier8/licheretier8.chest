@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
+  "level" : 8,
   "description" : "A Griever's ferozium breastplate grants no hindrances, flawless situational awareness, and thus Griever superiority.",
   "shortdescription" : "Griever's Breastplate",
   "tooltipKind" : "armor",

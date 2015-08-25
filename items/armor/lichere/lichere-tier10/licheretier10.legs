@@ -4,7 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "Fur-lined, heat-shunting, moisture-controlled, pure impervium flex-shell boots ensure face-to-face slaughter is a Ripper's natural activity.",
+  "level" : 10,
+  "description" : "Fur-lined, heat-shunting, moisture-controlled, pure impervium flex-shell boots ensure face-to-face slaughter is natural activity.",
   "shortdescription" : "Ripper's Stomps",
   "tooltipKind" : "armor",
 

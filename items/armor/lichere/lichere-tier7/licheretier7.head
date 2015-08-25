@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
+  "level" : 7,
   "description" : "Violium lens, single-eye hud for maximum visual acuity, and natural-eye view-scape.",
   "shortdescription" : "Spectre's Eye",
   "tooltipKind" : "armor",

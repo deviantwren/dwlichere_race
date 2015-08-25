@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
+  "level" : 3,
   "description" : "It needs to be worn in front of the eyes to serve its purpose.",
   "shortdescription" : "Possessor's Spectacles",
   "tooltipKind" : "armor",

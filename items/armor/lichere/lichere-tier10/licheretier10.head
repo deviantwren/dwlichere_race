@@ -4,7 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "A Ripper's pure impervium skull helmet makes ascension to the forefront of the perpetual hunt natural through anabiotic, neural hardening.",
+  "level" : 10,
+  "description" : "A pure impervium helmet allowing natural ascension to the forefront of the perpetual hunt through anabiotic, neural hardening.",
   "shortdescription" : "Ripper's Skull",
   "tooltipKind" : "armor",
 

@@ -4,6 +4,7 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
+  "level" : 3,
   "description" : "Optimizes protection and flexibility; a mix of solid titanium plating, bone mesh and insulating, soft fabric.",
   "shortdescription" : "Possessor's Chestguard",
   "tooltipKind" : "armor",

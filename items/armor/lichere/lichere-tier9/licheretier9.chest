@@ -4,7 +4,8 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "A Reaver's cerulium, nano-flora gel-augmented chestguard provides every advantage to unleashing unrestrained surges of power.",
+  "level" : 9,
+  "description" : "A cerulium, nano-flora gel-augmented chestguard provides every advantage to unleashing unrestrained surges of power.",
   "shortdescription" : "Reaver's Chestguard",
   "tooltipKind" : "armor",
 

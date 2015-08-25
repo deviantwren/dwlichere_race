@@ -4,8 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
+  "level" : 3,
   "description" : "Intricate titanium-and-bone mesh scarf with hud for situational awareness, neck protection, and warmth.",
-  "shortdescription" : "Possessor's Hud and Wrap",
+  "shortdescription" : "Possessor's Hud-Wrap",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "licheretier4head" ],
 
