@@ -7,7 +7,7 @@
   "lightColor" : [220, 50, 50],
   "frameNumber" : 16,
   "damageKindImage" : "reapersurgeicon.png",
-  "timeToLive" : 2,
+  "timeToLive" : 3,
   "actionOnReap" : [
     {
       "action" : "config",
@@ -15,5 +15,6 @@
     }
   ],
   "power" : 20,
+  "speed" : 133,
   "damageKind" : "lichereplasma"
 }

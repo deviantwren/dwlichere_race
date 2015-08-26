@@ -8,7 +8,7 @@
   "frameNumber" : 16,
   "emitters" : [ "electricplasma" ],
   "damageKindImage" : "chargedreapersurgeicon.png",
-  "timeToLive" : 2,
+  "timeToLive" : 3,
   "actionOnReap" : [
     {
       "action" : "config",
@@ -17,6 +17,7 @@
   ],
   "power" : 20,
   "bounces" : 1,
+  "speed" : 133,
   "piercing" : true,
   "damageKind" : "lichereplasma"
 }

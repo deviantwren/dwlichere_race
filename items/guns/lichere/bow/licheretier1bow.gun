@@ -1,5 +1,6 @@
 {
   "itemName" : "licheretier1bow",
+  "price" : 4500,
   "inventoryIcon" : "licheretier10bowicon.png",
   "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
   "maxStack" : 1,
@@ -24,11 +25,11 @@
   "projectileType" : "reapersurge",
   "powerProjectileType" : "chargedreapersurge",
   "powerProjectileTime" : [0.9, 1.1],
+  "drawSpeedCurve" : "drawTimeMultiplierLichere",
+  "drawPowerCurve" : "drawTimeMultiplierLichere",
   "projectile" : {
     "speed" : 115,
-    "speedCurve" : "drawTimeMultiplierLichere",
     "power" : 2,
-    "powerCurve" : "drawTimeMultiplierLichere",
     "color" : [220, 10, 10]
   },
 
