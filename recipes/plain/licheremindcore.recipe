@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "brain", "count" : 1 },
-    { "item" : "liquidmilk", "count" : 10 },
+    { "item" : "liquidlicherejuice", "count" : 10 },
     { "item" : "fleshstrand", "count" : 10 },
     { "item" : "glowfibregreen_gl", "count" : 6 },
     { "item" : "licherecerebralweave", "count" : 1 }

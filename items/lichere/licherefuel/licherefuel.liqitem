@@ -6,6 +6,6 @@
   "shortdescription" : "Ishurion 332",
   "description" : "A stable, plant-friendly isotope used in some starships as fuel.",
 
-  "liquid" : "milk",  
+  "liquid" : "licherejuice",  
   "fuelAmount" : 10
 }

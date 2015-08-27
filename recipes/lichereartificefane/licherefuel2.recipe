@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "liquidmilk", "count" : 5 },
+    { "item" : "liquidlicherejuice", "count" : 5 },
     { "item" : "glowfibrepurple_gl", "count" : 7 },
     { "item" : "violiumore", "count" : 3 }
   ],

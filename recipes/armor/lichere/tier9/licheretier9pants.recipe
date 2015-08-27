@@ -5,7 +5,7 @@
     { "item" : "glowfibreyellow_gl", "count" : 20 },
     { "item" : "glowfibreorange_gl", "count" : 10 },
     { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidmilk", "count" : 2 },
+    { "item" : "liquidlicherejuice", "count" : 2 },
     { "item" : "licheretier7pants", "count" : 1 }
   ],
   "output" : { "item" : "licheretier9pants", "count" : 1 },

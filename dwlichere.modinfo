@@ -11,6 +11,11 @@
 }
 
 //todolist
+//change weapon formats
+//tier 1 tier 2 (2,3,4 divergent), tier3 (5,6,7), tier4 (8,9,10)
+//each does something a little different
+//change spear into launching a projectile
+//try to make as many (if not all) of lichere weapons capable of dropping lichere droplists
 //move away from railgun design of licherebow
 //create replacement for liquidalienjuice as licherealienjuice
 //add config filters to filter specifically lichere items?
@@ -19,30 +24,15 @@
 //add the same to fish
 //it needs to be clear that you need a bow to harvest necessary lichere items
 //make it so that the mindcore isn't required for the science, but rather the secondaryseed / fibre from plants
-//lichereteleportercore; what about it?
-//remove corecluster from quest; related to quest bypass-- figure out the bypass route
+//corecluster removed from quest; related to quest bypass-- figure out the bypass route that doesn't break quest
 //shiplocker and ai may be too close in appearance & proximity
 //there needs to a gate / check prior to building the artifice fane // durasteel
 //quests should carry on into weapons and armor perhaps...
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
 //quests continue into liquidfuel ; moon fuel mining for slip drive
-//from here it's onto outpost replacement quests
-//slipdrive coils; slip cylinders; required in slip drive?
-//Quest dialoque for sensor array ship upgrade: 4?"Calibration failure in sensor array. Unable to rouse multispectral sequencer."
-//figure out why shipdoor spawning does not function like floran door does
-//if door id is not present in ship.blockfile door does not spawn in lichere ships
-//despawns all prior objects
-//in floran ships, prior-spawned objects do not despawn, but remain
-//this is necessary in the situation that a spawned object is replaced by another by the player
-//and then the ship is upgraded; to respawn an old door over the object deletes it
-//but how does the floran ship convert its spawned objects into those saved as player-placed
-//does this occur in the ship file based on some object id? probably not, but why?
-//add sparking, electric, arcing atmosphere around slip drive halo
-//replaced sapling for fullwood1 in liquidalienjuice-- would still prefer sapling
-//create a crafting tree "licherebio" and loot tree for all lichere weapons: making monsters drop one item: "carcass fragments"
-//need to make a drop list from the lichere bow to include dropped leather / pixels / monster plate / bone / alien meat / liquidalienjuice
-//this can then be made into all of the resource items that only drop: leather, bone, brains, monster plate, alien juice
-//finish tier4-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
+//outpost replacement quests can be circumvented much easier now, with upgrade modules; maybe they can already be bypassed as it is
+//add sparking, electric, arcing atmosphere around slip drive halo; emitters [ "eletricplasma" ]
+//finish tier6-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
 //interior sensor panel is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //pick up with ai/shipupgrade3
 //modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals

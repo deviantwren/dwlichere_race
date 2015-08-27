@@ -13,21 +13,27 @@
       { "item" : "lichereweaponforge" },
       { "item" : "lichereionicdrive" },
       { "item" : "lichereslipdrive" },
+      { "item" : "licherebandage" },
 
       { "item" : "licheremindcore" },
       { "item" : "lichereisocore" },
       { "item" : "licherecerebralweave" },
-      { "item" : "licherecorecluster" },
       { "item" : "licherefuel" },
       { "item" : "licherefuel2" },
 
-      { "item" : "liquidmilk" },
+      { "item" : "liquidlicherejuice" },
       { "item" : "bone" },
       { "item" : "brain" },
       { "item" : "inferiorbrain" },
       { "item" : "fleshstrand" },
       { "item" : "leather" },
       { "item" : "poison" },
+      { "item" : "glowfibrered_gl" },
+      { "item" : "glowfibrepurple_gl" },
+      { "item" : "glowfibreblue_gl" },
+      { "item" : "glowfibregreen_gl" },
+      { "item" : "glowfibreyellow_gl" },
+      { "item" : "glowfibreorange_gl" },
 
       { "item" : "licherewoodhead" },
       { "item" : "licherewoodchest" },
@@ -60,7 +66,6 @@
     ],
 
     "licherewarkey" : [
-      { "item" : "licherebandage" },
       { "item" : "licheredrip" },
       { "item" : "licheredripmature" }
     ]

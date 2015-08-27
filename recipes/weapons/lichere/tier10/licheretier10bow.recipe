@@ -6,7 +6,7 @@
     { "item" : "licheretelcore", "count" : 1 },
     { "item" : "diamond", "count" : 15 },
     { "item" : "plutoniumrod", "count" : 7 },
-    { "item" : "liquidmilk", "count" : 3 }
+    { "item" : "liquidlicherejuice", "count" : 3 }
   ],
   "output" : { "item" : "licheretier10bow", "count" : 1 },
   "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]

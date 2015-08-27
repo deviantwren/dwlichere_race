@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "lichereundigested", "count" : 1 }
+
+  ],
+  "output" : {
+    "item" : "glowfibreorange_gl",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licherebio", "licherefane" ]
+}
