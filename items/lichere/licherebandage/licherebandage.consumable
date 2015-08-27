@@ -1,6 +1,6 @@
 {
   "itemName" : "licherebandage",
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "price" : 325,
   "inventoryIcon" : "licherebandage.png",
   "description" : "A liquid bandage for healing wounds. Using it restores 100 health.",
