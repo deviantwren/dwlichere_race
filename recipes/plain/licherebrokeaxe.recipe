@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "dirtmaterial", "count" : 10 },
+    { "item" : "licherebeamaxe", "count" : 1 }
+
+  ],
+  "output" : {
+    "item" : "licherebrokeaxe",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licherelowtech", "licheretech", "licherefane" ]
+}

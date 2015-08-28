@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "licherebrokeaxe", "count" : 1 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "licherejuice", "count" : 50 },
+    { "item" : "glowfibreblue_gl", "count" : 10 }
+
+  ],
+  "output" : {
+    "item" : "licherebeamaxe",
+    "count" : 1
+  },
+  "groups" : [ "all", "plain", "licherelowtech", "licheretech", "licherefane" ]
+}
