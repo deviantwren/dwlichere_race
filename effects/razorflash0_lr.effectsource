@@ -1,25 +1,25 @@
 {
-  "kind" : "razorflash1_lr",
+  "kind" : "razorflash0_lr",
   "definition" : {
     "duration" : 0.05,
     "loops" : true,
     "start" : {
       "particles" : [
-        [ ]
+        [ "razorburn1_lr" ]
       ],
       "sounds" : [
         [ ]
       ]
     },
     "particles" : [
-      [ "razorburn1_lr" ], [ "razorburn2_lr" ], [ "razorswoosh1_lr" ], [ "razorburn2_lr" ], [ "razorswoosh2_lr" ], [ "razorswoosh3_lr" ], [ "razorburn1_lr" ], [ "razorswoosh4_lr" ], [ "razorburn1_lr" ] 
+      [ "razorburn1_lr" ], [ "razorburn2_lr" ]
     ],
     "sounds" : [
       [ ]
     ],
     "stop" : {
       "particles" : [
-        [ ]
+        [ "razorburn2_lr" ]
       ],
       "sounds" : [
         [ ]

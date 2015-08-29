@@ -11,6 +11,8 @@
 }
 
 //todolist
+//consider adding three pathways to armor early on-- energy, armor, both
+//use invisiblesparker's emissionRate to boost particles off of slipdrive
 //change weapon formats
 //tier 1 tier 2 (2,3,4 divergent), tier3 (5,6,7), tier4 (8,9,10)
 //each does something a little different
