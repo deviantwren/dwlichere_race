@@ -1,0 +1,15 @@
+{
+  "projectileName" : "licherewidebeam",
+  "frames" : "licherewidebeam.png",
+  "animationCycle" : 0.15,
+  "frameNumber" : 4,
+  "speed" : 250,
+  "orientationLocked" : false,
+  "damagePoly" : [ [0, 1], [120, 1], [120, -1], [0, -1] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "emitters" : [ "razorflash2_lr" ],
+  "damageKind" : "lichereplasma",
+  "lightColor" : [100, 128, 9]
+}

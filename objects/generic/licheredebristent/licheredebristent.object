@@ -1,0 +1,58 @@
+{
+  "objectName" : "licheredebristent",
+  "rarity" : "Uncommon",
+  "description" : "Squat here for a day's rest.",
+  "shortdescription" : "Squatter's Tent",
+  "race" : "lichere",
+  "category" : "furniture",
+  "price" : 7325,
+  "health" : 20,
+
+  "apexDescription" : "Humans.",
+  "avianDescription" : "I don't want to get in there. I'll smell like human.",
+  "floranDescription" : "Sparkly, broken glass.",
+  "glitchDescription" : "Irritated. There isn't much room.",
+  "humanDescription" : "Perfect for a lab of some kind! Excellent!",
+  "hylotlDescription" : "That's unsightly.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-6, 7],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/generic/licheredebristent/licheredebristentlit.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "regeneration1",
+    "nude",
+    "intents"
+  ],
+
+  "inventoryIcon" : "licheredebristenticon.png",
+  "orientations" : [
+    {
+      "image" : "licheredebristent.png:<color>",
+
+      "imagePosition" : [-40, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-5, 1], [-4, 2], [-3, 3], [-2, 4], [-1, 4], [0, 4], [1, 4], [2, 4], [3, 4] ]
+    },
+    {
+      "image" : "licheredebristent.png",
+      "imagePosition" : [-40, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [4, 1], [3, 2], [2, 3], [1, 4], [0, 4], [-1, 4], [-2, 4], [-3, 4], [-4, 4] ]
+    }
+  ]
+}

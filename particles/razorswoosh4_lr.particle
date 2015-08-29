@@ -1,0 +1,21 @@
+{
+  "kind" : "razorswoosh4_lr",
+  "definition" : {
+    "type" : "animated",
+    "looping" : true,
+    "animation" : "/animations/razorbolt4_lr/razorbolt4_lr.animation",
+    "position" : [-1, 0],
+    "finalVelocity" : [2.5, -3.5],
+    "approach" : [50, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.425,
+    "fade" : 1,
+    "light" : [92, 90, 50],
+    "size" : 0.5,
+    "layer" : "middle",
+    "timeToLive" : 0.425,
+    "variance" : {
+      "finalVelocity" : [-2.5, 3.5]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind" : "razorswoosh6_lr",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [100, 242, 100, 255],
+    "fade" : 0.3,
+    "position" : [0, 0],
+    "initialVelocity" : [4, 3],
+    "finalVelocity" : [2, 4.0],
+    "approach" : [0, 20],
+    "light" : [88, 204, 84],
+    "timeToLive" : 0.3,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [-1, 2.0],
+      "size" : 0.5
+    }
+  }
+}

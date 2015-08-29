@@ -1,0 +1,20 @@
+{
+  "kind" : "razorburn2_lr",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [255, 177, 139, 255],
+    "fade" : 1.1,
+    "position" : [0, 0],
+    "initialVelocity" : [2, 4],
+    "finalVelocity" : [-3, -3.0],
+    "approach" : [0, 20],
+    "light" : [164, 113, 89],
+    "timeToLive" : 1.1,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [3, 1.0],
+      "size" : 0.2
+    }
+  }
+}

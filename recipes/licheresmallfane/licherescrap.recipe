@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "upgrademodule", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "licherescrap",
+    "count" : 5
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

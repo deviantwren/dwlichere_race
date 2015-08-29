@@ -1,0 +1,24 @@
+{
+  "kind" : "razorflash2_lr",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "razorswoosh4_lr" ], [ "razorswoosh5_lr" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "razorswoosh6_lr" ], [ "razorswoosh2_lr" ], [ "razorswoosh7_lr" ], [ "razorswoosh3_lr" ], [ "razorswoosh5_lr" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "razorswoosh5_lr" ], [ "razorswoosh6_lr" ], [ "razorswoosh7_lr" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

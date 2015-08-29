@@ -1,6 +1,7 @@
 {
   "input" : [
     { "item" : "licherebrokeaxe", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 1 },
     { "item" : "licheremindcore", "count" : 1 },
     { "item" : "licherejuice", "count" : 50 },
     { "item" : "glowfibreblue_gl", "count" : 10 }

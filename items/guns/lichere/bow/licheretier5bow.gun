@@ -11,8 +11,8 @@
   "shortdescription" : "Actinide Raildriver",
   "image" : "licheretier10bow.png:<frame>",
   "imageFrameSelector" : "bowImageSelectorLichere",
-  "handPosition" : [-8, -1.5],
-  "firePosition" : [20, -1.5],
+  "handPosition" : [0, -0.5],
+  "firePosition" : [12, 1.5],
   "baseDps" : [5, 5],
   "level" : 5,
   "fireTime" : 0.65,
@@ -24,7 +24,7 @@
 
   "projectileType" : "reapersurge",
   "powerProjectileType" : "chargedreapersurge",
-  "powerProjectileTime" : [0.9, 1.1],
+  "powerProjectileTime" : [0.3, 0.5],
   "drawSpeedCurve" : "drawTimeMultiplierLichere",
   "drawPowerCurve" : "drawTimeMultiplierLichere",
   "projectile" : {

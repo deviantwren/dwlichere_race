@@ -1,0 +1,27 @@
+{
+  "projectileName" : "lichereprebeam",
+  "frames" : "lichereprebeam.png",
+  "animationCycle" : 0.15,
+  "timeToLive" : 0.15,
+  "frameNumber" : 6,
+  "speed" : 250,
+  "orientationLocked" : false,
+  "damagePoly" : [  ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "emitters" : [ "razorflash1_lr" ],
+  "damageKind" : "lichereplasma",
+  "lightColor" : [60, 99, 66],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "licherewidebeam",
+      "inheritDamageFactor" : 1
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/instruments/musicbox/a0.ogg" ]
+    }
+  ]
+}

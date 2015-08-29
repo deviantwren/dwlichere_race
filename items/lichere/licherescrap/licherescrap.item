@@ -1,0 +1,8 @@
+{
+  "itemName" : "licherescrap",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "licherescrap.png",
+  "description" : "Scrap, debris.  A bunch of junk.",
+  "shortdescription" : "Scrab and Debris",
+  "learnBlueprintsOnPickeup" : [ "licheredebristent" ]
+}
