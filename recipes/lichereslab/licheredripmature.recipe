@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "licheredripseed", "count" : 1 },
+    { "item" : "brain", "count" : 1 },
+    { "item" : "bone", "count" : 7 },
+    { "item" : "plantfibre", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licheredripmature",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherebio", "licherefane" ]
+}

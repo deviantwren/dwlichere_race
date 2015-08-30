@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "campfire", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "lichereequipmentforge",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

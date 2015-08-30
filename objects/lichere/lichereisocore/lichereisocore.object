@@ -15,7 +15,6 @@
   "description" : "A kind of isotope core used in Lichere science.",
   "shortdescription" : "Isolartope Core",
   "race" : "lichere",
-  "learnBlueprintsOnPickup" : [ "licherescience" ],
 
   "apexDescription" : "A curious light-source.",
   "avianDescription" : "Dangerous technology.",

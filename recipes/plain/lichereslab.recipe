@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 10 }
-
+    { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "campfire", "count" : 2 }
   ],
   "output" : {
-    "item" : "licherecerebralweave",
+    "item" : "lichereslab",
     "count" : 1
   },
   "groups" : [ "all", "plain", "licherelowtech", "licherefane" ]

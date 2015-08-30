@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licherecarcass", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "leather",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherebio", "licherefane" ]
+}

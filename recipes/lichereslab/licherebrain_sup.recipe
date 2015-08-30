@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "inferiorbrain", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "brain",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherebio", "licherefane" ]
+}

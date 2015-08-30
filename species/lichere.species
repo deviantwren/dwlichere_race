@@ -9,17 +9,16 @@
     "tier1" : [
       { "item" : "lichereartificefane" },
       { "item" : "licheresmallfane" },
-      { "item" : "licherearmorforge" },
-      { "item" : "lichereweaponforge" },
+      { "item" : "lichereslab" },
+      { "item" : "licherematerialforge" },
+      { "item" : "lichereequipmentforge" },
       { "item" : "lichereionicdrive" },
       { "item" : "lichereslipdrive" },
-      { "item" : "licherebandage" },
+      { "item" : "licherechampionflag" },
 
-      { "item" : "licheremindcore" },
+      { "item" : "licherebeamaxe" },
       { "item" : "lichereisocore" },
       { "item" : "licherecerebralweave" },
-      { "item" : "licherefuel" },
-      { "item" : "licherefuel2" },
 
       { "item" : "liquidlicherejuice" },
       { "item" : "bone" },
@@ -34,6 +33,10 @@
       { "item" : "glowfibregreen_gl" },
       { "item" : "glowfibreyellow_gl" },
       { "item" : "glowfibreorange_gl" },
+
+      { "item" : "licheremindcore" },
+      { "item" : "licherefuel" },
+      { "item" : "licherewarkey" },
 
       { "item" : "licherewoodhead" },
       { "item" : "licherewoodchest" },
@@ -61,11 +64,14 @@
       { "item" : "licheresurvivalistchest" },
       { "item" : "licheresurvivalistlegs" },
       { "item" : "lichereragcape" },
-      
-      { "item" : "flaglichere" }
     ],
 
     "licherewarkey" : [
+      { "item" : "licherefuel2" },
+      { "item" : "licheretelcore" },
+      { "item" : "lichereremotetel" },
+      { "item" : "licherebeamaxe2" },
+      { "item" : "licherebandage" },
       { "item" : "licheredrip" },
       { "item" : "licheredripmature" }
     ]

@@ -4,11 +4,11 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/lichereartificefane.config",
-    "filter" : [ "stonefurnace", "alloyfurnace", "scififurnace", "licherelowtech", "licheretech", "licherebio" ]
+    "filter" : [ "licherelowtech", "licheretech", "licherehightech" ]
   },
   "printable" : false,
   "description" : "This table has magic! Unexplained science is magic!",
-  "shortdescription" : "^orange;Simple Artifice Fane^white;",
+  "shortdescription" : "^orange;Small Artifice Fane^white;",
   "race" : "lichere",
   "category" : "crafting",
   "price" : 7000,

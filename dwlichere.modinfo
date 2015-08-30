@@ -11,8 +11,24 @@
 }
 
 //todolist
+//fix all recipes based off a recipe tier tree
+//artifice fanes = licherelowtech, licheretech, licherehightech
+//equipment forge = lichereweapon, licherearmor, licherecloth, licheretool
+//material synthesis forge = stonefurnace, alloyfurnace, scififurnace, licheremat
+//biomass slab = licherebio, licherefood
+//licherelowtech = plain items; but I don't want "plain" in licherefanes; use 'c' to get to them
+//licheretech = licherefane items; use fanes to access these
+//licherehightech = licherewarkey to unlock; use fanes after unlock to use these
+//severaltiers of warkeys that unlock a series of blueprints
+//licherebio = lichereslab, animal remains implimentation
+//licherefood = culinary delights
+//licheremat = bar / fibre synthesis
+//licherearmor & lichereweapon = equipment forge
+//licherefane = all lichere items
+//convert blue forge into weapon & armor forge, implimenting config tabs for organization
+//convert weaponforge into material synthesis forge
+//make smallartificefane and largeartificefane identical items; interchangable with each other; recipes require only each other
 //consider adding three pathways to armor early on-- energy, armor, both
-//use invisiblesparker's emissionRate to boost particles off of slipdrive
 //change weapon formats
 //tier 1 tier 2 (2,3,4 divergent), tier3 (5,6,7), tier4 (8,9,10)
 //each does something a little different
@@ -27,16 +43,14 @@
 //make it so that the mindcore isn't required for the science, but rather the secondaryseed / fibre from plants
 //corecluster removed from quest; related to quest bypass-- figure out the bypass route that doesn't break quest
 //shiplocker and ai may be too close in appearance & proximity
-//there needs to a gate / check prior to building the artifice fane // durasteel
+//there needs to a gate / check prior to building the artifice fane // bars combined with fibres
 //quests should carry on into weapons and armor perhaps...
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
 //quests continue into liquidfuel ; moon fuel mining for slip drive
 //outpost replacement quests can be circumvented much easier now, with upgrade modules; maybe they can already be bypassed as it is
-//add sparking, electric, arcing atmosphere around slip drive halo; emitters [ "eletricplasma" ]
 //finish tier6-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
 //interior sensor panel is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //pick up with ai/shipupgrade3
-//modify recipe & flaglichere in /recipes/plain/ - make it huge & require red petals
 //figure out .lua triggers for ceiling plant
 //
 //notes

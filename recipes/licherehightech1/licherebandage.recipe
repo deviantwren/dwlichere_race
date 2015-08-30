@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 3 },
+    { "item" : "glowfibregreen_gl", "count" : 3 },
+    { "item" : "glowfibrered_gl", "count" : 3 },
+    { "item" : "liquidlicherejuice", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licherebandage",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherehightech", "licherefane" ]
+}

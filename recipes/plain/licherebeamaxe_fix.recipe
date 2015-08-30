@@ -11,5 +11,5 @@
     "item" : "licherebeamaxe",
     "count" : 1
   },
-  "groups" : [ "all", "plain", "licherelowtech", "licheretech", "licherefane" ]
+  "groups" : [ "all", "plain", "licherelowtech", "licherefane" ]
 }

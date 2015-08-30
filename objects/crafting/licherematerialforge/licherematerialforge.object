@@ -1,0 +1,67 @@
+{
+  "objectName" : "licherematerialforge",
+  "rarity" : "legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "filter" : [ "stonefurnace", "alloyfurnace", "scififurnace", "licheremat" ]
+  },
+  "printable" : false,
+  "description" : "This table has magic! Unexplained science is magic!",
+  "shortdescription" : "^orange;Material Synthesis Forge^white;",
+  "race" : "lichere",
+  "category" : "crafting",
+  "price" : 7000,
+  
+  "lightColor" : [94, 171, 56],
+
+  "flickerPeriod" : 0.6,
+  "flickerMinIntensity" : 0.2,
+  "flickerMaxIntensity" : 0.25,
+  "flickerPeriodVariance" : 0.05,
+  "flickerIntensityVariance" : 0.025,
+
+  "apexDescription" : "Some kind of oven.",
+  "avianDescription" : "What do you think goes inside the oven? Mmhmm.",
+  "floranDescription" : "Meet slabs in there.",
+  "glitchDescription" : "Analyzing. Rock modified by sub-intelligent sentient life.",
+  "humanDescription" : "Caveman designs look scrawled all over this table.",
+  "hylotlDescription" : "Do I smell fish? No.",
+
+  "inventoryIcon" : "licherematerialforgeicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licherematerialforge.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherematerialforgelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 5,
+      "animationCycle" : 0.6,
+      
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "lightPosition" : [ 1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    },
+    {
+      "imageLayers" : [ { "image" : "licherematerialforge.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherematerialforgelit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-8, 0],
+      "frames" : 5,
+      "animationCycle" : 0.6,
+      
+      "direction" : "right",
+      
+      "lightPosition" : [ 1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

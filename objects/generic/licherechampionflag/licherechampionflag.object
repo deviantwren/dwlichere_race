@@ -1,0 +1,54 @@
+{
+  "objectName" : "licherechampionflag",
+  "tags" : ["lichere"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 3000,
+  "description" : "A statue of a Lichere. It looks like a great hunter.",
+  "shortdescription" : "Lichere Champion Statue",
+  "race" : "lichere",
+  "health" : 50,
+
+  "apexDescription" : "I'd say a Floran, but there's slight differences.",
+  "avianDescription" : "This isn't a Floran flag. So is it a Floran?",
+  "floranDescription" : "Sssuccessful Floran hunters get big statuesss. But what flag is that?",
+  "glitchDescription" : "Hypothesis. This is not a Floran, since that is not a Floran flag that I know of.",
+  "humanDescription" : "This statue would look better if it was me instead.",
+  "hylotlDescription" : "Is this some kind of worship?",
+
+  "lightColor" : [44, 131, 108],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "licherechampionflagicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "licherechampionflag.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherechampionflaglit.png:<color>.<frame>" } ],      
+      "imagePosition" : [-40, 0],
+      "lightPosition" : [-3, 8],
+      "frames" : 6,
+      "animationCycle" : 0.35,
+      "direction" : "left",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "licherechampionflag.png:<color>.<frame>", "fullbright" : true }, { "image" : "licherechampionflaglit.png:<color>.<frame>" } ],      
+      "imagePosition" : [-40, 0],
+      "lightPosition" : [2, 8],
+      "frames" : 6,
+      "animationCycle" : 0.35,
+      "direction" : "right",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/torch.wav"
+  
+}

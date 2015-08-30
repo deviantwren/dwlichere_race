@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "licherebrokeaxe", "count" : 1 },
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "liquidoil", "count" : 5 },
+    { "item" : "liquidlicherejuice", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licherebeamaxe",
+    "count" : 1
+  },
+  "groups" : [ "tools", "all", "licheretool", "licherefane" ]
+}

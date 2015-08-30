@@ -7,7 +7,6 @@
   "race" : "lichere",
   "category" : "furniture",
   "price" : 9900,
-  "learnBlueprintsOnPickup" : [ "licheretelcore", "lichereremotetel" ],
 
   "apexDescription" : "Unorganized scrap.",
   "avianDescription" : "Looks like garbage.",

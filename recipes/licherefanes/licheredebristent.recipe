@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licherescrap", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licheredebristent",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

@@ -17,8 +17,8 @@
   "flickerPeriodVariance" : 0.05,
   "flickerIntensityVariance" : 0.025,
 
-  "description" : "For preparing carcasses for other purposes, and creating culinary delights.",
-  "shortdescription" : "^orange;Stone Preparation Slab^white;",
+  "description" : "For preparing carcasses, and creating culinary delights.",
+  "shortdescription" : "^orange;Biomass Preparation Slab^white;",
   "race" : "lichere",
   "category" : "crafting",
 

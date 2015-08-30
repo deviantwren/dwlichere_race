@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "licherebirdcarcass", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fleshstrand",
+    "count" : 6
+  },
+  "groups" : [ "all", "licherebio", "licherefane" ]
+}

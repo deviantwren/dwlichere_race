@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "ironbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "lichereslipdrive",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

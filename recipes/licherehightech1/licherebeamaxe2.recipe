@@ -1,0 +1,17 @@
+{
+  "input" : [
+    { "item" : "licherebeamaxe", "count" : 10 },
+    { "item" : "licheretelcore", "count" : 10 },
+    { "item" : "refinedrubium", "count" : 15 },
+    { "item" : "licherescience", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 5 },
+    { "item" : "glowfibreblue_gl", "count" : 50 },
+    { "item" : "glowfibrered_gl", "count" : 65 }
+
+  ],
+  "output" : {
+    "item" : "licherebeamaxe2",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherehightech", "licherefane" ]
+}

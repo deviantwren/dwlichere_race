@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "brain", "count" : 1 },
+    { "item" : "liquidlicherejuice", "count" : 10 },
+    { "item" : "fleshstrand", "count" : 10 },
+    { "item" : "glowfibregreen_gl", "count" : 6 },
+    { "item" : "licherecerebralweave", "count" : 1 }
+
+  ],
+  "output" : {
+    "item" : "licheremindcore",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}
