@@ -52,6 +52,333 @@
     }
   ],
 
-  "soundEffect" : "/sfx/cinematics/teleporting_loop.ogg"
+  "soundEffect" : "/sfx/cinematics/teleporting_loop.ogg",
 
+  "particleEmitters" : [
+    {
+      "emissionRate" : 1.0,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "ember",
+        "size" : 1.5,
+        "position" : [0, 0],
+        "color" : [255, 255, 255, 255],
+        "light" : [200, 200, 200],
+        "fade" : 0.9,
+        "initialVelocity" : [-10.0, 5.0],
+        "finalVelocity" : [-20.0, -10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.2,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, 2],
+        "finalVelocity" : [0, 2],
+        "initialVelocity" : [-5, 10]
+      }
+    },
+    {
+      "emissionRate" : 1.0,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "ember",
+        "size" : 1.25,
+        "position" : [0, 0],
+        "color" : [255, 255, 255, 255],
+        "light" : [175, 175, 175],
+        "fade" : 0.9,
+        "initialVelocity" : [-10.0, 5.0],
+        "finalVelocity" : [-20.0, -10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.2,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, 2],
+        "finalVelocity" : [0, 2],
+        "initialVelocity" : [-5, 10]
+      }
+    },
+    {
+      "emissionRate" : 1.0,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "ember",
+        "size" : 1.0,
+        "position" : [0, 0],
+        "color" : [255, 255, 255, 255],
+        "light" : [150, 150, 150],
+        "fade" : 0.9,
+        "initialVelocity" : [-10.0, 5.0],
+        "finalVelocity" : [-20.0, -10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.2,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, 2],
+        "finalVelocity" : [0, 2],
+        "initialVelocity" : [-5, 10]
+      }
+    },
+    {
+      "emissionRate" : 1.0,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "ember",
+        "size" : 0.75,
+        "position" : [0, 0],
+        "color" : [255, 255, 255, 255],
+        "light" : [125, 125, 125],
+        "fade" : 0.9,
+        "initialVelocity" : [-10.0, 5.0],
+        "finalVelocity" : [-20.0, -10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.2,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, 2],
+        "finalVelocity" : [0, 2],
+        "initialVelocity" : [-5, 10]
+      }
+    },
+    {
+      "emissionRate" : 1.0,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "ember",
+        "size" : 0.75,
+        "position" : [0, 0],
+        "color" : [255, 255, 255, 255],
+        "light" : [125, 125, 125],
+        "fade" : 0.9,
+        "initialVelocity" : [-5.0, -15.0],
+        "finalVelocity" : [-15.0, -30.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.2,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, 2],
+        "finalVelocity" : [0, 2],
+        "initialVelocity" : [-5, 10]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-16, 16],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge1_lr/slipcharge1_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [1.0, 0.0],
+        "finalVelocity" : [27.0, 0.5],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [-2, -2],
+        "initialVelocity" : [2.0, 0.5],
+        "finalVelocity" : [17.0, 1.0]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-16, 16],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge2_lr/slipcharge2_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [0.0, 2.0],
+        "finalVelocity" : [0.0, 28.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [-2, -2],
+        "initialVelocity" : [-1.0, 4.0],
+        "finalVelocity" : [-3.0, 22.0]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-16, 8],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge3_lr/slipcharge3_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [0.5, -1.0],
+        "finalVelocity" : [33, 0.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [-2, 2],
+        "initialVelocity" : [1.0, 0.0],
+        "finalVelocity" : [23.0, -0.5]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-16, 8],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge4_lr/slipcharge4_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [3.5, -0.5],
+        "finalVelocity" : [28.0, 1.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [2, -2],
+        "initialVelocity" : [7.0, 0.0],
+        "finalVelocity" : [19.0, 0.0]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-26, 8],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge5_lr/slipcharge5_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [-0.5, -1.0],
+        "finalVelocity" : [-33.0, 1.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [0, 0],
+        "initialVelocity" : [0.5, -0.5],
+        "finalVelocity" : [-18.0, 0.5]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-26, 8],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge6_lr/slipcharge6_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [-0.5, -3.5],
+        "finalVelocity" : [-1.5, -31.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [0, 2],
+        "initialVelocity" : [-0.5, -2.0],
+        "finalVelocity" : [-0.5, -21.0]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-26, 16],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge7_lr/slipcharge7_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [-2.5, 2.5],
+        "finalVelocity" : [-29.0, -1.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [0, -2],
+        "initialVelocity" : [-0.5, 0.5],
+        "finalVelocity" : [-19.0, -0.5]
+      }
+    },
+    {
+      "emissionRate" : 0.3,
+      "emissionVariance" : 0.2,
+      "pixelOrigin" : [-26, 16],
+ 
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge8_lr/slipcharge8_lr.animation",
+        "size" : 0.5,
+        "position" : [0, 0],
+        "light" : [166, 206, 122],
+        "fade" : 0.9,
+        "initialVelocity" : [-2.5, 0.5],
+        "finalVelocity" : [-27.0, -1.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [0, 0],
+        "initialVelocity" : [-0.5, -0.5],
+        "finalVelocity" : [-17.0, 1.0]
+      }
+    } 
+  ] 
 }
