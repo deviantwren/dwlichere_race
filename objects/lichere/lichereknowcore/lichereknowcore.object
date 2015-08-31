@@ -1,5 +1,5 @@
 {
-  "objectName" : "licherescience",
+  "objectName" : "lichereknowcore",
   "printable" : false,
   "rarity" : "Uncommon",
   "category" : "decorative",
@@ -14,7 +14,7 @@
   "flickerPeriodVariance" : 0.1,
   "flickerIntensityVariance" : 0.025,
 
-  "description" : "Dazzling Lichere science! Knowledge is awesome.",
+  "description" : "Technology capable of cascading logic and functional awareness.",
   "shortdescription" : "Cascading Knowledge Core",
   "race" : "lichere",
 
@@ -27,10 +27,10 @@
 
   "statusEffects" : [ ],
 
-  "inventoryIcon" : "licherescienceicon.png",
+  "inventoryIcon" : "lichereknowcoreicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "licherescience.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresciencelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereknowcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereknowcorelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [0, 0],
       "frames" : 6,
@@ -47,7 +47,7 @@
 
     },
     {
-      "imageLayers" : [ { "image" : "licherescience.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresciencelit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "lichereknowcore.png:<color>.<frame>", "fullbright" : true }, { "image" : "lichereknowcorelit.png:<color>.<frame>" } ],
 
       "imagePosition" : [0, 0],
       "frames" : 6,

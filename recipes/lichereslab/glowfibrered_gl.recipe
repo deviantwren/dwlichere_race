@@ -4,8 +4,8 @@
 
   ],
   "output" : {
-    "item" : "glowfibreyellow_gl",
+    "item" : "glowfibrered_gl",
     "count" : 10
   },
-  "groups" : [ "all", "plain", "licherebio", "licherefane" ]
+  "groups" : [ "all", "licherebio", "licherefane" ]
 }

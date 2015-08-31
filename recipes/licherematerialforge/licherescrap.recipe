@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 5 },
+    { "item" : "glowfibrered_lr", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "licherescrap",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheremat", "licherefane" ]
+}

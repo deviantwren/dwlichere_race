@@ -1,0 +1,12 @@
+{
+  "itemName" : "licherewarkey2",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "licherewarkey.png",
+  "image" : "licherewarkey.png",
+
+  "shortdescription" : "^red;Tech-2 War Key^white;",
+  "description" : "Use to access restricted Lichere schematics.",
+
+  "tierRecipesUnlock" : "licherewarkey2",
+  "unlockMessage" : "^red;WarKey accepted. ^white;You now have access to Lichere tech-2 schematics."
+}

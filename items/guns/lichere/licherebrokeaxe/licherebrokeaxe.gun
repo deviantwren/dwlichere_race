@@ -10,10 +10,10 @@
 
   "image" : "licherebrokeaxe.png",
   "handPosition" : [-1, 0],
-  "firePosition" : [20, 1],
+  "firePosition" : [18, 0],
 
   "fireTime" : 0.05,
-  "inaccuracy" : 0.1,
+  "inaccuracy" : 0.05,
   "twoHanded" : false,
   "level" : 1,
 

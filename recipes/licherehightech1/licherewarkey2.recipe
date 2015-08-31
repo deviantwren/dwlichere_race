@@ -2,11 +2,11 @@
   "input" : [
     { "item" : "lichereknowcore", "count" : 1 },
     { "item" : "imperviumcompound", "count" : 2 },
-    { "item" : "refinedrubium", "count" : 1 },
-    { "item" : "solariumstar", "count" : 3 }
+    { "item" : "coreisotope_lr", "count" : 2 },
+    { "item" : "solariumstar", "count" : 1 }
   ],
   "output" : {
-    "item" : "licheretelcore",
+    "item" : "licherewarkey2",
     "count" : 1
   },
   "groups" : [ "all", "licherehightech", "licherefane" ]

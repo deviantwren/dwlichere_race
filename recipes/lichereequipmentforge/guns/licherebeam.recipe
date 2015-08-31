@@ -1,13 +1,13 @@
 {
   "input" : [
     { "item" : "licherescrap", "count" : 10 },
-    { "item" : "licherescience", "count" : 1 },
-    { "item" : "lichereisocore", "count" : 2 },
-    { "item" : "liquidlicherejuice", "count" : 10 }
+    { "item" : "coreisotope", "count" : 20 },
+    { "item" : "lichereisocore", "count" : 1 },
+    { "item" : "liquidlicherejuice", "count" : 50 }
   ],
   "output" : {
     "item" : "licherebeam",
     "count" : 1
   },
-  "groups" : [ "tools", "all", "licheretool", "licherefane" ]
+  "groups" : [ "tools", "all", "lichereweapon", "licherefane" ]
 }

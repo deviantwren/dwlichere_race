@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "licherescience", "count" : 1 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "lichereisocore", "count" : 1 },
     { "item" : "ironbar", "count" : 5 }
   ],
   "output" : { 

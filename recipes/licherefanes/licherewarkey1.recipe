@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "durasteelbar", "count" : 2 },
+    { "item" : "coreisotope_lr", "count" : 2 },
+    { "item" : "licherefuel", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "licherewarkey1",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

@@ -1,7 +1,10 @@
 {
   "input" : [
-    { "item" : "cobblestonematerial", "count" : 10 },
-    { "item" : "licherescience", "count" : 1 }
+    { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "torch", "count" : 2 },
+    { "item" : "campfire", "count" : 1 }
   ],
   "output" : {
     "item" : "lichereartificefane",

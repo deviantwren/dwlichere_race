@@ -1,11 +1,11 @@
 {
   "input" : [
-    { "item" : "licherescience", "count" : 1 },
-    { "item" : "durasteelbar", "count" : 15 },
-    { "item" : "refinedaegisalt", "count" : 5 },
-    { "item" : "plutoniumrod", "count" : 5 },
-    { "item" : "licheretelcore", "count" : 1 },
-    { "item" : "corefragmentore", "count" : 15 }
+    { "item" : "imperviumcompound", "count" : 15 },
+    { "item" : "coreisotope_lr", "count" : 5 },
+    { "item" : "plutoniumrod", "count" : 15 },
+    { "item" : "glowfibregreen_gl", "count" : 25 },
+    { "item" : "glowfibreyellow_gl", "count" : 25 },
+    { "item" : "licheretelcore", "count" : 1 }
   ],
   "output" : {
     "item" : "lichereremotetel",

@@ -11,23 +11,7 @@
 }
 
 //todolist
-//fix all recipes based off a recipe tier tree
-//artifice fanes = licherelowtech, licheretech, licherehightech
-//equipment forge = lichereweapon, licherearmor, licherecloth, licheretool
-//material synthesis forge = stonefurnace, alloyfurnace, scififurnace, licheremat
-//biomass slab = licherebio, licherefood
-//licherelowtech = plain items; but I don't want "plain" in licherefanes; use 'c' to get to them
-//licheretech = licherefane items; use fanes to access these
-//licherehightech = licherewarkey to unlock; use fanes after unlock to use these
 //severaltiers of warkeys that unlock a series of blueprints
-//licherebio = lichereslab, animal remains implimentation
-//licherefood = culinary delights
-//licheremat = bar / fibre synthesis
-//licherearmor & lichereweapon = equipment forge
-//licherefane = all lichere items
-//convert blue forge into weapon & armor forge, implimenting config tabs for organization
-//convert weaponforge into material synthesis forge
-//make smallartificefane and largeartificefane identical items; interchangable with each other; recipes require only each other
 //consider adding three pathways to armor early on-- energy, armor, both
 //change weapon formats
 //tier 1 tier 2 (2,3,4 divergent), tier3 (5,6,7), tier4 (8,9,10)

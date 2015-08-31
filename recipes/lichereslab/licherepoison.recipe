@@ -4,7 +4,7 @@
   ],
   "output" : {
     "item" : "liquidpoison",
-    "count" : 1
+    "count" : 3
   },
   "groups" : [ "all", "licherebio", "licherefane" ]
 }

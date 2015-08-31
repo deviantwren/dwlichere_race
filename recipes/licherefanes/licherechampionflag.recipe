@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "corefragmentore", "count" : 100 }
+    { "item" : "corefragmentore", "count" : 20 },
+    { "item" : "durasteelbar", "count" : 20 }
   ],
   "output" : {
     "item" : "licherechampionflag",

@@ -8,5 +8,5 @@
     "item" : "licherebrokeaxe",
     "count" : 1
   },
-  "groups" : [ "all", "plain", "licherelowtech", "licherefane" ]
+  "groups" : [ "all", "plain", "licherelowtech", "licheretool", "licherefane" ]
 }

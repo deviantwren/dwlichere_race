@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "imperviumcompound", "count" : 5 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "coreisotope_lr", "count" : 1 },
+    { "item" : "fleshstrand", "count" : 10 },
+    { "item" : "glowfibrepurple_gl", "count" : 10 },
+    { "item" : "glowfibregreen_gl", "count" : 5 }
+
+  ],
+  "output" : {
+    "item" : "lichereknowcore",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherehightech", "licherefane" ]
+}

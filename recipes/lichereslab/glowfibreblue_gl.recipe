@@ -1,9 +1,10 @@
 {
   "input" : [
-    { "item" : "plantfibre", "count" : 35 }
+    { "item" : "lichereundigested", "count" : 1 }
+
   ],
   "output" : {
-    "item" : "liquidlicherejuice",
+    "item" : "glowfibreblue_gl",
     "count" : 10
   },
   "groups" : [ "all", "licherebio", "licherefane" ]

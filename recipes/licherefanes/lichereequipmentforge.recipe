@@ -1,8 +1,7 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 20 },
-    { "item" : "licherescience", "count" : 1 },
-    { "item" : "campfire", "count" : 2 }
+    { "item" : "licheremindcore", "count" : 1 }
   ],
   "output" : {
     "item" : "lichereequipmentforge",

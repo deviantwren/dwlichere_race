@@ -12,14 +12,21 @@
       { "item" : "lichereslab" },
       { "item" : "licherematerialforge" },
       { "item" : "lichereequipmentforge" },
+
+      { "item" : "licherebeam" },
+      { "item" : "licherebeamaxe" },
+      { "item" : "licherebrokeaxe" },
+
       { "item" : "lichereionicdrive" },
       { "item" : "lichereslipdrive" },
       { "item" : "licherechampionflag" },
 
-      { "item" : "licherebeamaxe" },
       { "item" : "lichereisocore" },
-      { "item" : "licherecerebralweave" },
+      { "item" : "licheremindcore" },
+      { "item" : "licherefuel" },
+      { "item" : "licherewarkey" },
 
+      { "item" : "licherescrap" },
       { "item" : "liquidlicherejuice" },
       { "item" : "bone" },
       { "item" : "brain" },
@@ -33,10 +40,6 @@
       { "item" : "glowfibregreen_gl" },
       { "item" : "glowfibreyellow_gl" },
       { "item" : "glowfibreorange_gl" },
-
-      { "item" : "licheremindcore" },
-      { "item" : "licherefuel" },
-      { "item" : "licherewarkey" },
 
       { "item" : "licherewoodhead" },
       { "item" : "licherewoodchest" },
@@ -66,12 +69,15 @@
       { "item" : "lichereragcape" }
     ],
 
-    "licherewarkey" : [
+    "licherewarkey1" : [
+      { "item" : "lichereknowcore" },
       { "item" : "licherefuel2" },
       { "item" : "licheretelcore" },
       { "item" : "lichereremotetel" },
       { "item" : "licherebeamaxe2" },
-      { "item" : "licherebandage" },
+      { "item" : "licherebandage" }
+    ],
+    "licherewarkey2" : [
       { "item" : "licheredrip" },
       { "item" : "licheredripmature" }
     ]

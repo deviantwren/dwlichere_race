@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "inferiorbrain", "count" : 1 }
+    { "item" : "inferiorbrain", "count" : 2 }
   ],
   "output" : {
     "item" : "liquidlicherejuice",

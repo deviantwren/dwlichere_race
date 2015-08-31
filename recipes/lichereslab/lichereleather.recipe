@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "licherecarcass", "count" : 10 }
+    { "item" : "licherecarcass", "count" : 3 }
   ],
   "output" : {
     "item" : "leather",

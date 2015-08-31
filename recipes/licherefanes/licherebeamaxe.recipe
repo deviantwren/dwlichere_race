@@ -1,12 +1,12 @@
 {
   "input" : [
-    { "item" : "corefragmentore", "count" : 10 },
-    { "item" : "titaniumbar", "count" : 5 },
-    { "item" : "copperbar", "count" : 2 },
+    { "item" : "licherescrap", "count" : 5 },
+    { "item" : "coreisotope_lr", "count" : 10 },
+    { "item" : "titaniumbar", "count" : 2 },
     { "item" : "licheremindcore", "count" : 1 },
-    { "item" : "licherejuice", "count" : 50 },
+    { "item" : "liquidlicherejuice", "count" : 25 },
     { "item" : "glowfibreblue_gl", "count" : 10 },
-    { "item" : "glowfibrered_gl", "count" : 15 }
+    { "item" : "glowfibrered_gl", "count" : 5 }
 
   ],
   "output" : {
