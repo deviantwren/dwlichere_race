@@ -33,7 +33,7 @@
       { "item" : "inferiorbrain" },
       { "item" : "fleshstrand" },
       { "item" : "leather" },
-      { "item" : "poison" },
+      { "item" : "liquidpoison" },
       { "item" : "glowfibrered_gl" },
       { "item" : "glowfibrepurple_gl" },
       { "item" : "glowfibreblue_gl" },
