@@ -3,6 +3,6 @@
   "rarity" : "Uncommon",
   "inventoryIcon" : "licherescrap.png",
   "description" : "Scrap, debris.  A bunch of junk.",
-  "shortdescription" : "Scrab and Debris",
+  "shortdescription" : "Scrap Parts",
   "learnBlueprintsOnPickeup" : [ "licheredebristent" ]
 }
