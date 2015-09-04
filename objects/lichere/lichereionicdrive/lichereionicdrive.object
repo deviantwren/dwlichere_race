@@ -4,6 +4,7 @@
   "rarity" : "Uncommon",
   "description" : "Engine parts of Lichere design.",
   "shortdescription" : "Ionic Compression Drive",
+  "pickupQuestTemplates" : [ "tutorial2blichere.gearup" ],
   "race" : "lichere",
   "category" : "furniture",
   "price" : 8500,

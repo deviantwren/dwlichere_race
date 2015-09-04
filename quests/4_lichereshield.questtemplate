@@ -1,0 +1,17 @@
+{
+  "id" : "4_lichereshield.gearup",
+  "requiredShipLevel" : 6,
+  "title" : "^red;Reaper IV: Shield Node",
+  "text" : "This is the fabricate-a-ship-gun quest. So fabricate one.",
+  "completionText" : "You fabricated a gun.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "lichereshipshield", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "enableAiCommands" : [ "upgradeShip7" ], 
+  "completionCinema" : "/cinematics/licenses/license4.cinematic",
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "5_licherefinal.gearup",
+  "canBeAbandoned" : false
+}

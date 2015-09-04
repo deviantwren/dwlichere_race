@@ -4,6 +4,7 @@
   "rarity" : "Uncommon",
   "description" : "High-Tech engine parts of Lichere design.",
   "shortdescription" : "Slip Drive",
+  "learnBlueprintsOnPickup" : [ "lichereshipsensor" ],
   "race" : "lichere",
   "category" : "furniture",
   "price" : 9900,

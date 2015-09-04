@@ -1,0 +1,8 @@
+{
+  "itemName" : "lichereshiparmor",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "lichereshiparmor.png",
+  "description" : "Reinforced Armor Plating.",
+  "shortdescription" : "203.95cn Reactive Plating",
+  "learnBlueprintsOnPickup" : [ "lichereshipshield" ]
+}

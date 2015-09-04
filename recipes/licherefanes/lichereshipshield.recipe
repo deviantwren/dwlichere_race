@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "upgrademodule", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "lichereshipshield",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

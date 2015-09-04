@@ -1,0 +1,8 @@
+{
+  "itemName" : "lichereshipsensor",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "lichereshipsensor.png",
+  "description" : "A ship sensor.",
+  "shortdescription" : "L10 Enigma Sensor Array",
+  "learnBlueprintsOnPickup" : [ "lichereshipgun" ]
+}

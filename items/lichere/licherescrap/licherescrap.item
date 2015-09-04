@@ -4,5 +4,5 @@
   "inventoryIcon" : "licherescrap.png",
   "description" : "Scrap, debris.  A bunch of junk.",
   "shortdescription" : "Scrap Parts",
-  "learnBlueprintsOnPickeup" : [ "licheredebristent" ]
+  "learnBlueprintsOnPickup" : [ "licheredebristent" ]
 }

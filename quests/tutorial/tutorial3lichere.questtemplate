@@ -1,8 +1,8 @@
 {
   "id" : "tutorial3lichere.gearup",
   "title" : "^red;Fresh Reaper III: Teleportation",
-  "text" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Linking to escape module AI. Reporting successful modulation of teleportation mindcore for use in remote fabrication. Reaper, ^orange;access escape module AI ^white;to initiate ^orange;jury-rigging of Ionic Compression Drive ^white;to the escape module's hull.",
-  "completionText" : "^blue;NeuralDeviceID0: ^white;Attachment point fabrication complete. The Ionic Compression Drive has been successfully jury-rigged to the escape module's hull.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Reporting successful modulation of teleportation mindcore for use in remote fabrication. Reaper, ^orange;access escape module AI ^white;to initiate remote jury-rigging of issued schematic to the escape module's hull.",
+  "completionText" : "^blue;NeuralDeviceID0: ^white;Attachment point fabrication recorded. Monitoring stress tests of escape module systems.",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 2 }
   ],

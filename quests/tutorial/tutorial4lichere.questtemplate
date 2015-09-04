@@ -1,13 +1,14 @@
 {
   "id" : "tutorial4lichere.gearup",
-  "title" : "^red;Fresh Reaper IV: Upgrade",
-  "text" : "^blue;NeuralDeviceID0: ^white;Correct, fabrication of a faster-than-light drive will require an upgrade to a legitimate ^orange;Artifice Fane^white;; to build one, use a ^green;Simple Artifice Fane. ^white;The schematic is automatically loaded into the mindcores of ^green;Simple Artifice Fanes^white;, and already at your disposal.",
-  "completionText" : "^blue;SynapticID0: ^white;Note, Reaper, that you will ^orange;still need ^white;the ^green;Simple Artifice Fane ^white;for all of your ^orange;smelting needs^white;, should you consider destroying it.",
+  "title" : "^red;Fresh Reaper IV: Masterpiece",
+  "text" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Preparing escape module systems for integration with a faster-than-light drive. Analyzing ^orange;Slip Drive ^white;schematic for incompatibilities with ship systems. None found. Commence building with discretion, Reaper.",
+  "completionText" : "^blue;NeuralDeviceID0; ^white;Processing recorded fabrication of the Slip Drive for future stream-lining.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "lichereartificefane", "count" : 1, "consume" : false }
+    { "type" : "gather", "item" : "lichereslipdrive", "count" : 1, "consume" : true }
   ],
   "moneyRange" : [100, 100],
   "rewards" : [
+      [ [ "supermatter", 20 ] ]
     ],
   "planetMode" : "none",
   "questDungeons" : [ ],

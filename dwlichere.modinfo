@@ -11,6 +11,7 @@
 }
 
 //todolist
+//check licherematerialforge groups-- bars not showing up.
 //why don't birds drop the birdcarcass loottable?
 //consider adding three pathways to armor early on-- energy, armor, both
 //change weapon formats
@@ -18,21 +19,16 @@
 //each does something a little different
 //change spear into launching a projectile
 //try to make as many (if not all) of lichere weapons capable of dropping lichere droplists
-//move away from railgun design of licherebow
 //add config filters to filter specifically lichere items?
-//replace licherespark with an ember styled after the lichereplasma particle
 //consider adding a custom droptable to the flies / bugs that lets you hunt odd things
 //add the same to fish
 //it needs to be clear that you need a bow to harvest necessary lichere items
-//make it so that the mindcore isn't required for the science, but rather the secondaryseed / fibre from plants
-//corecluster removed from quest; related to quest bypass-- figure out the bypass route that doesn't break quest
 //shiplocker and ai may be too close in appearance & proximity
-//there needs to a gate / check prior to building the artifice fane // bars combined with fibres
 //quests should carry on into weapons and armor perhaps...
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
 //quests continue into liquidfuel ; moon fuel mining for slip drive
 //outpost replacement quests can be circumvented much easier now, with upgrade modules; maybe they can already be bypassed as it is
-//finish tier6-8 ship chassis: sensor array, armor hardening, shielding, gun mount, & ?
+//finish tier6-8 ship chassis: armor hardening, shielding & ?
 //interior sensor panel is presently unused, as well as lightning, and several boosters; look through blockkey.config
 //pick up with ai/shipupgrade3
 //figure out .lua triggers for ceiling plant

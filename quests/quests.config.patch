@@ -2,11 +2,6 @@
   {
   "op" : "add",
   "path" : "/initialquests/lichere",
-  "value" : [ "licheretutorial.gearup" ]
-  },
-  {
-  "op" : "test",
-  "path" : "/initialquests/lichere",
-  "value" : [ "licheretutorial.gearup" ]
+  "value" : [ "tutorial1lichere.gearup" ]
   }
 ]

@@ -9,12 +9,12 @@
   "backgroundOverlays" : [
     {
       "image" : "lichereT5.png",
-      "position" : [19, 33],
+      "position" : [8, 12],
 	  "fullbright" : true
     },
     {
       "image" : "lichereT5lit.png",
-      "position" : [19, 33]
+      "position" : [8, 12]
     }
   ],
 

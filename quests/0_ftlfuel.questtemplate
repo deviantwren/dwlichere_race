@@ -1,5 +1,5 @@
 {
-  "id" : "fuel222.gearup",
+  "id" : "0_ftlfuel.gearup",
   "title" : "^red;Fuel",
   "text" : "^green;To fuel an FTL drive you need ^orange;Liquid Erchius. ^green;This pink liquid can be found in pools underground on moon planets. I should pick up at least ^orange;20 units of Liquid Erchius ^green;to fuel my ship. ^white;It should enable me to travel to a nearby system.",
   "completionText" : "I've got the fuel I need! ^green;I can load it into the ship at the ships ^orange;fuel gauge. ^white;Then use the navigator to take me to another nearby star system.",

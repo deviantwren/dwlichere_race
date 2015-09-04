@@ -1,14 +1,13 @@
 {
   "id" : "tutorial2lichere.gearup",
   "title" : "^red;Fresh Reaper II: Artificery",
-  "text" : "^blue;NeuralDeviceID0: ^white;As fabrication of an ^orange;Ionic Compression Drive ^white;is now possible, I would advise it. A ^orange;Core Cluster ^white;is also necessary to cold start such an engine. ^orange;Build both, Reaper, before attempting the cold-ignition process.",
-  "completionText" : "^blue;NeuralDeviceID0: ^white;Registering successful cold-igntion of Ionic Compression Drive. Processing recorded fabrication and cold-ignition for future stream-lining.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Fabrication of an ^orange;Ionic Compression Drive,^white; Reaper, or mining ^orange;20 core fragments^white;, will be be necessary to attain space flight with the escape module.",
+  "completionText" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Linking to escape module AI.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "lichereionicdrive", "count" : 1, "consume" : true }
+    { "type" : "gather", "item" : "corefragmentore", "count" : 20, "consume" : false }
   ],
   "moneyRange" : [100, 100],
   "rewards" : [
-      [ [ "corefragmentore", 20 ] ]
     ],
   "planetMode" : "none",
   "questDungeons" : [ ],

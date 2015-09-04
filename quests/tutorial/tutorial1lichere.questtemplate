@@ -1,7 +1,7 @@
 {
   "id" : "tutorial1lichere.gearup",
   "title" : "^red;Fresh Reaper I: Science",
-  "text" : "^blue;NeuralDeviceID0: ^white;Correct, this escape module's core systems could support a jury-rigged engine, Reaper. The ID0 ^green;blueprint database [C] ^white;contains the schematic for a '^orange;Simple Artifice Fane^white;', which is necessary in the fabrication of Lichere technology. As such you should prioritize ^orange;construction of it^white;.",
+  "text" : "^blue;NeuralDeviceID0: ^white;Correct, this escape module's core systems could support a jury-rigged engine, Reaper. The ID0 ^green;blueprint database [C] ^white;contains the schematic for a '^orange;Simple Artifice Fane^white;', which is necessary in the fabrication of Lichere technology.",
   "completionText" : "^blue;NeuralDeviceID0: ^white;Quoting, 'May the science and artificery of great minds commence!' Namely yours, Reaper. Your IQ suggests you will manage.",
   "completionConditions" : [
     { "type" : "gather", "item" : "licheresmallfane", "count" : 1, "consume" : false }

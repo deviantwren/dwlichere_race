@@ -1,0 +1,8 @@
+{
+  "itemName" : "lichereshipgun",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "lichereshipgun.png",
+  "description" : "A huge weapon.",
+  "shortdescription" : "414 Teltastar Energy Array",
+  "learnBlueprintsOnPickup" : [ "lichereshiparmor" ]
+}
