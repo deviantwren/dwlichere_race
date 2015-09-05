@@ -1,15 +1,13 @@
 {
   "id" : "5_licherefinal.gearup",
-  "requiredShipLevel" : 7,
   "title" : "^red;Reaper V: Final",
-  "text" : "This is the fabricate-a-ship-gun quest. So fabricate one.",
-  "completionText" : "You fabricated a gun.",
+  "text" : "This is the fabricate-a-ship-final quest. So fabricate one.",
+  "completionText" : "You fabricated a final.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereshipshield", "count" : 1, "consume" : true }
   ],
   "moneyRange" : [100, 100],
-  "enableAiCommands" : [ "upgradeShip8" ], 
-  "completionCinema" : "/cinematics/licenses/license5.cinematic",
+  "enableAiCommands" : [ "upgradeShip8_lr" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "",

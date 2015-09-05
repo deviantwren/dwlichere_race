@@ -8,7 +8,7 @@
 
   "flickerPeriod" : 0.5,
   "flickerMinIntensity" : 0.0,
-  "flickerMaxIntensity" : 0.6,
+  "flickerMaxIntensity" : 0.4,
   "flickerPeriodVariance" : 0,
   "flickerIntensityVariance" : 0,
 
@@ -26,7 +26,7 @@
     {
 	  "imageLayers" : [ { "image" : "licheresensor.png:<color>.<frame>", "fullbright" : true }, { "image" : "licheresensorlit.png:<color>.<frame>" } ],
 
-      "imagePosition" : [-8, -8],
+      "imagePosition" : [-2, 0],
       "frames" : 32,
       "animationCycle" :2,
 

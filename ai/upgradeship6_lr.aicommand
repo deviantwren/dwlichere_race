@@ -1,0 +1,53 @@
+{
+  "commandName" : "upgradeShip6_lr",
+  "icon" : "thrusters.png",
+  "actions" : [
+    { 
+      "action" : "PlayCinematic",
+      "itemsRequired" : [ ["upgrademodule", 6] ],
+      "moneyRequired" : 0,
+      "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
+    },
+    { 
+      "action" : "UpgradeShip",
+      "shipParameters" : {
+        "shipLevel" : 6
+      }
+    },
+    { 
+      "action" : "DisableCommand",
+      "command" : "upgradeShip6_lr"
+    },
+    { 
+      "action" : "showTech",
+      "techName" : [ "targetblinktech", "ftlboostTech", "rocketbootsTech" ]  
+    }
+  ],
+  
+  "speciesText" : {
+    "lichere" : {
+      "buttonText" : "Upgrade Ship to Falcon Class",
+      "selectSpeech" : [
+        {
+          "animation" : "talk",
+          "text" : "I see you got your Falcon license! ^green;Now we can upgrade your ship. If you bring me ^orange;6 upgrade modules ^green;I'll initiate the upgrade procedure.",
+          "speedModifier" : 1.0
+        }
+      ],
+      "successSpeech" : [
+        {
+          "animation" : "yell",
+          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
+          "speedModifier" : 1.0
+        }
+      ],
+      "failSpeech" : [
+        {
+          "animation" : "refuse",
+          "text" : "Failure! ^green;You've not yet gathered the required materials.",
+          "speedModifier" : 1.0
+        }
+      ]
+    }
+  }
+}

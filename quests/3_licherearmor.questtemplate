@@ -1,15 +1,13 @@
 {
   "id" : "3_licherearmor.gearup",
-  "requiredShipLevel" : 5,
   "title" : "^red;Reaper III: Armor Hardening",
-  "text" : "This is the fabricate-a-ship-gun quest. So fabricate one.",
-  "completionText" : "You fabricated a gun.",
+  "text" : "This is the fabricate-ship-armor quest. So fabricate some.",
+  "completionText" : "You fabricated some armor.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereshiparmor", "count" : 1, "consume" : true }
   ],
   "moneyRange" : [100, 100],
-  "enableAiCommands" : [ "upgradeShip6" ], 
-  "completionCinema" : "/cinematics/licenses/license3.cinematic",
+  "enableAiCommands" : [ "upgradeShip6_lr" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "4_lichereshield.gearup",

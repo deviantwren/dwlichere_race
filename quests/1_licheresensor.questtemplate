@@ -1,6 +1,5 @@
 {
   "id" : "1_licheresensor.gearup",
-  "requiredShipLevel" : 3,
   "title" : "^red;Reaper I: Sensor",
   "text" : "This is the fabricate-a-ship-sensor quest. So fabricate one.",
   "completionText" : "You fabricated a sensor.",
@@ -8,8 +7,7 @@
     { "type" : "gather", "item" : "lichereshipsensor", "count" : 1, "consume" : true }
   ],
   "moneyRange" : [100, 100],
-  "enableAiCommands" : [ "upgradeShip4" ], 
-  "completionCinema" : "/cinematics/licenses/license1.cinematic",
+  "enableAiCommands" : [ "upgradeShip4_lr" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
   "followUp" : "2_licheregun.gearup",
