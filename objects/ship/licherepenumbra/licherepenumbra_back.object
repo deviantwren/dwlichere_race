@@ -1,0 +1,148 @@
+{
+  "objectName" : "licherepenumbra_back",
+  "rarity" : "Uncommon",
+  "description" : "Energy fields.",
+  "shortdescription" : "Energy Absorption Field",
+  "race" : "lichere",
+
+  "apexDescription" : "An energy field. These have been known to malfunction and warp time and space.",
+  "avianDescription" : "An energy field, the initial protection of a ship.",
+  "floranDescription" : "Pretty pulsations. Pulse. Throb. Beating. Waiting.",
+  "glitchDescription" : "Analyzing esoteric field complexities.",
+  "humanDescription" : "I bet this thing eats through energy.",
+  "hylotlDescription" : "Shields. I could use this technology on my ship.",
+
+  "category" : "light",
+  "lightColor" : [0, 160, 220],
+  "lightPosition" : [30, 80],
+  "flickerDistance" : 0.3,
+  "flickerStrength" : 0.4,
+  "flickerMinIntensity" : 0.3,
+  "flickerMaxIntensity" : 0.5,
+  "flickerIntensityVariance" : 0.035,
+
+  "flickerTiming" : 0.35,
+  "flickerPeriod" : 0.35,
+  "flickerPeriodVariance" : 0.2,
+
+  "inventoryIcon" : "licherepenumbraicon.png",
+  "orientations" : [
+    {
+      "image" : "licherepenumbra_back.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 7,
+      "animationCycle" : 0.35,
+	  "fullbright" : true,
+
+        "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "particleEmitters" : [
+    {
+      "emissionRate" : 0.1,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge5_lr/slipcharge5_lr.animation",
+        "size" : 0.5,
+        "position" : [3, 10],
+        "light" : [0, 160, 220],
+        "lightPosition" : [30, 80],
+        "fade" : 0.9,
+        "initialVelocity" : [1.0, 1.0],
+        "finalVelocity" : [10.0, 10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [3, 12],
+        "initialVelocity" : [-2.0, -2.0],
+        "finalVelocity" : [-10.0, -10.0]
+      }
+    }, 
+    {
+      "emissionRate" : 0.1,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge6_lr/slipcharge6_lr.animation",
+        "size" : 0.5,
+        "position" : [3, 10],
+        "light" : [0, 160, 220],
+        "lightPosition" : [30, 80],
+        "fade" : 0.9,
+        "initialVelocity" : [1.0, 1.0],
+        "finalVelocity" : [10.0, 10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [3, 12],
+        "initialVelocity" : [-2.0, -2.0],
+        "finalVelocity" : [-10.0, -10.0]
+      }
+    }, 
+    {
+      "emissionRate" : 0.1,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge7_lr/slipcharge7_lr.animation",
+        "size" : 0.5,
+        "position" : [3, 10],
+        "light" : [0, 160, 220],
+        "lightPosition" : [30, 80],
+        "fade" : 0.9,
+        "initialVelocity" : [1.0, 1.0],
+        "finalVelocity" : [10.0, 10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [3, 12],
+        "initialVelocity" : [-2.0, -2.0],
+        "finalVelocity" : [-10.0, -10.0]
+      }
+    }, 
+    {
+      "emissionRate" : 0.1,
+      "emissionVariance" : 0.7,
+      "pixelOrigin" : [-16, 16],
+
+      "particle" : {
+        "type" : "animated",
+        "animation" : "/animations/slipcharge8_lr/slipcharge8_lr.animation",
+        "size" : 0.5,
+        "position" : [3, 10],
+        "light" : [0, 160, 220],
+        "lightPosition" : [30, 80],
+        "fade" : 0.9,
+        "initialVelocity" : [1.0, 1.0],
+        "finalVelocity" : [10.0, 10.0],
+        "approach" : [0, 0],
+        "timeToLive" : 1.5,
+        "layer" : "front",
+        "fullbright" : true
+      },
+      "particleVariance" : {
+        "position" : [3, 12],
+        "initialVelocity" : [-2.0, -2.0],
+        "finalVelocity" : [-10.0, -10.0]
+      }
+    }
+  ] 
+}
