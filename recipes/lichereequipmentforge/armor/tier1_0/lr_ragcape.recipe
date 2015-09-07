@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "petalblue", "count" : 15 },
+    { "item" : "plantfibre", "count" : 4 },
+    { "item" : "fabric", "count" : 7 },
+    { "item" : "string", "count" : 5 }
+  ],
+  "output" : { "item" : "lr_ragcape", "count" : 1 },
+  "groups" : [ "armors", "back", "all", "licherecloth", "licherefane" ]
+}

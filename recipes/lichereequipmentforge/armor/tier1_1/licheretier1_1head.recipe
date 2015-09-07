@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "ironbar", "count" : 3 },
-    { "item" : "plantfibre", "count" : 1 }
-  ],
-  "output" : { "item" : "licheretier1_1head", "count" : 1 },
-  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
-}

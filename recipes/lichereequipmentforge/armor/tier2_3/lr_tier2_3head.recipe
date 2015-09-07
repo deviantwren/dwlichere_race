@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 6 },
+    { "item" : "liquidlicherejuice", "count" : 15 },
+    { "item" : "brain", "count" : 1 },
+    { "item" : "plantfibre", "count" : 7 }
+  ],
+  "output" : { "item" : "lr_tier2_3head", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

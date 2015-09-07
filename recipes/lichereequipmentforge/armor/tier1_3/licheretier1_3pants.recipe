@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 4 },
-    { "item" : "bone", "count" : 10 },
-    { "item" : "plantfibre", "count" : 2 }
-  ],
-  "output" : { "item" : "licheretier1_3pants", "count" : 1 },
-  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
-}

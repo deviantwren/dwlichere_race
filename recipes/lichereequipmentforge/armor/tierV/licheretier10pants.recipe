@@ -8,6 +8,6 @@
     { "item" : "glowfibreblue_gl", "count" : 10 },
     { "item" : "licheretier7pants", "count" : 1 }
   ],
-  "output" : { "item" : "licheretier3_3pants", "count" : 1 },
+  "output" : { "item" : "lr_tier3_3pants", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

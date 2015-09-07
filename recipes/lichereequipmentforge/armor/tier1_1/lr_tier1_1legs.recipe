@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "plantfibre", "count" : 2 },
+    { "item" : "fabric", "count" : 2 }
+  ],
+  "output" : { "item" : "lr_tier1_1pants", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

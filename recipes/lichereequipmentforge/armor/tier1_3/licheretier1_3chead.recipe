@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "refinedrubium", "count" : 6 }
-  ],
-  "output" : { "item" : "licheretier1_3chead", "count" : 1 },
-  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
-}

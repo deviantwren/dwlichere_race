@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 2 }
+  ],
+  "output" : { "item" : "lr_huntchest", "count" : 1 },
+  "groups" : [ "armors", "chest", "all", "licherecloth", "licherefane" ]
+}

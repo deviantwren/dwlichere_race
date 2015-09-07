@@ -1,0 +1,77 @@
+{
+  "itemName" : "lr_leafchest",
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The leaf censors stuff children shouldn't see!",
+  "shortdescription" : "Lichere Leaf Chest",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 0
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 5
+    }
+  ],
+
+  "colorOptions" : [
+   /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DESATURATED VILE GUACAMOLE */
+    { "ffca8a" : "5c5435", "e0975c" : "50492e", "a85636" : "3d3923", "6f2919" : "2e2c1c" },
+    /* DESATURATED ARMY GREEN */
+    { "ffca8a" : "616043", "e0975c" : "54533a", "a85636" : "3f402c", "6f2919" : "313123" },
+    /* DESATURATED DRY LICHEN */
+    { "ffca8a" : "68705c", "e0975c" : "5d6452", "a85636" : "43483a", "6f2919" : "32342c" },
+    /* DESATURATED TOY GREEN */
+    { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
+    /* DESATURATED AQUA MARINE */
+    { "ffca8a" : "48665f", "e0975c" : "3f5953", "a85636" : "2c403b", "6f2919" : "1f2d29" },
+    /* DESATURATED SUGAR BLUE */
+    { "ffca8a" : "495369", "e0975c" : "40495c", "a85636" : "303644", "6f2919" : "242934" },
+    /* DESATURATED VELVET BLUE-DUSK */
+    { "ffca8a" : "384d5e", "e0975c" : "304352", "a85636" : "1e2932", "6f2919" : "141c22" },
+    /* DESATURATED MIDNIGHT BLUE */
+    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
+  /*/* DESATURATED PURPLE DUSK */
+    { "ffca8a" : "5a5161", "e0975c" : "4f4755", "a85636" : "3c3442", "6f2919" : "2f2636" },
+    /* DESATURATED DARK ROSE PURPLE */
+    { "ffca8a" : "5e4556", "e0975c" : "513b4a", "a85636" : "3b2b36", "6f2919" : "261c23" },
+    /* DESATURATED SUGAR PURPLE */
+    { "ffca8a" : "603653", "e0975c" : "532f48", "a85636" : "331d2d", "6f2919" : "23131e" },
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
+    /* DESATURATED SIERRA RED */
+    { "ffca8a" : "975751", "e0975c" : "8a4f48", "a85636" : "6c3e38", "6f2919" : "542f2a" },
+  /*/* DESATURATED DUSTY ROSE */
+    { "ffca8a" : "91493d", "e0975c" : "723930", "a85636" : "552b24", "6f2919" : "3d1f1a" },
+    /* DESATURATED CHALLENGE RED */
+    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
+    /* DESATURATED SHADOWED BRICK */
+    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
+    /* DESATURATED ORANGE SUNBURN */
+    { "dc7d5b" : "b06a53", "e0975c" : "a2624c", "a85636" : "864a3a", "6f2919" : "66382c" },
+    /* DESATURATED CAKED MUSTARD */
+    { "ffca8a" : "62573a", "e0975c" : "524930", "a85636" : "443d28", "6f2919" : "3a3322" },
+    /* DESATURATED YELLOW-GREEN */
+    { "ffca8a" : "5e5a37", "e0975c" : "524e30", "a85636" : "444128", "6f2919" : "3a3822" }
+   ]
+}

@@ -8,6 +8,6 @@
     { "item" : "glowfibreblue_gl", "count" : 20 },
     { "item" : "licheretier7head", "count" : 1 }
   ],
-  "output" : { "item" : "licheretier3_3head", "count" : 1 },
+  "output" : { "item" : "lr_tier3_3head", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

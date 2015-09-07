@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "bone", "count" : 10 },
+    { "item" : "leather", "count" : 1 },
+    { "item" : "plantfibre", "count" : 9 }
+  ],
+  "output" : { "item" : "lr_tier2_1chest", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

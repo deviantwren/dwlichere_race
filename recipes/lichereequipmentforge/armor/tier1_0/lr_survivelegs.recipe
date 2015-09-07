@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 2 }
+  ],
+  "output" : { "item" : "lr_survivelegs", "count" : 1 },
+  "groups" : [ "armors", "legs", "all", "licherecloth", "licherefane" ]
+}
