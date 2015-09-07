@@ -1,9 +1,19 @@
 {
   "objectName" : "licherematerialforge",
+  "tags" : ["crafting"],
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "config" : "/interface/windowconfig/craftingfurnace.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  MATERIAL SYNTHESIS FORGE",
+        "subtitle" : "  Crafting with high science!",
+        "icon" : {
+          "file" : "/interface/crafting/scififurnace.png"
+        }
+      }
+    },
     "filter" : [ "stonefurnace", "alloyfurnace", "scififurnace", "licheremat" ]
   },
   "printable" : false,

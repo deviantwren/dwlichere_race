@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 4 },
+    { "item" : "leather", "count" : 1 },
+    { "item" : "plantfibre", "count" : 4 }
+  ],
+  "output" : { "item" : "licheretier2_1pants", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

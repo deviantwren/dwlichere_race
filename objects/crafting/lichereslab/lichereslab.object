@@ -1,11 +1,21 @@
 {
   "objectName" : "lichereslab",
+  "tags" : ["crafting"],
   "printable" : false,
   "price" : 1000,
   "rarity" : "Uncommon",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/lichereslab.config",
+    "config" : "/interface/windowconfig/craftingfood.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  CULINARY PREPARATIONS",
+        "subtitle" : "  For preparing carcasses and yummy Lichere dishes!",
+        "icon" : {
+          "file" : "/interface/crafting/scififurnace.png"
+        }
+      }
+    },
     "filter" : [ "licherebio", "licherefood" ]
   },
 

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "refinedaegisalt", "count" : 4 },
-    { "item" : "plantfibre", "count" : 14 }
-  ],
-  "output" : { "item" : "licheretier6pants", "count" : 1 },
-  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
-}

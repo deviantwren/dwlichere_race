@@ -1,0 +1,33 @@
+{
+  "itemName" : "licheretier0beam",
+  "price" : 9180,
+  "inventoryIcon" : "licheretier0beamicon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "description" : "Nothing stands before me.",
+  "shortdescription" : "Beam Razor",
+  "image" : "licheretier0beam.png:<frame>",
+  "handPosition" : [-8, 0],
+  "firePosition" : [-5, -0.75],
+  "recoilTime" : 0.01,
+  "level" : 6,
+  "tooltipKind" : "gun",
+  "weaponType" : "Rifle",
+  "fireTime" : 0.01,
+  "inaccuracy" : 0.0025,
+  "twoHanded" : true,
+  "walkWhileFiring" : true,
+  "imageFrameSelector" : "fluxImageSelectorLichere",
+
+  "projectileType" : "lichereprebeam",
+  "projectile" : {
+    "speed" : 150,
+    "life" : 0.15,
+    "power" : 0.75
+  },
+
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/lightningcoil1.wav" }, { "file" : "/sfx/gun/lightningcoil2.wav" }, { "file" : "/sfx/gun/lightningcoil3.wav" } ]
+  }
+}

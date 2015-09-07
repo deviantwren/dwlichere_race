@@ -1,9 +1,19 @@
 {
   "objectName" : "lichereequipmentforge",
+  "tags" : ["crafting"],
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  EQUIPMENT FORGE",
+        "subtitle" : "  Crafting with high science!",
+        "icon" : {
+          "file" : "/interface/crafting/scififurnace.png"
+        }
+      }
+    },
     "filter" : [ "licherecloth", "licherearmor", "lichereweapon", "licheretool" ]
   },
   "printable" : false,

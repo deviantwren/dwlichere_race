@@ -1,9 +1,19 @@
 {
   "objectName" : "licheresmallfane",
+  "tags" : ["crafting"],
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/lichereartificefane.config",
+    "config" : "/interface/windowconfig/crafting.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  SMALL ARTIFICE FANE",
+        "subtitle" : "  Crafting with high science!",
+        "icon" : {
+          "file" : "/interface/crafting/scififurnace.png"
+        }
+      }
+    },
     "filter" : [ "licherelowtech", "licheretech", "licherehightech" ]
   },
   "printable" : false,

@@ -1,0 +1,40 @@
+{
+  "itemName" : "licheretier0bow",
+  "price" : 4500,
+  "inventoryIcon" : "licheretier0bowicon.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "tooltipKind" : "bow",
+  "weaponType" : "Bow",
+  "description" : "For precision slaughter on the perpetual hunt.",
+  "shortdescription" : "Bohrium Pulsebow",
+  "image" : "licheretier0bow.png:<frame>",
+  "imageFrameSelector" : "bowImageSelectorLichere",
+  "handPosition" : [0, -0.5],
+  "firePosition" : [12, 1.5],
+  "baseDps" : [10, 10],
+  "level" : 10,
+  "fireTime" : 0.65,
+  "inaccuracy" : 0.002,
+  "twoHanded" : true,
+
+  "fireOnRelease" : true,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "reapersurge",
+  "powerProjectileType" : "chargedreapersurge",
+  "powerProjectileTime" : [1.5, 1.7],
+  "drawSpeedCurve" : "drawTimeMultiplierLichere",
+  "drawPowerCurve" : "drawTimeMultiplierLichere",
+  "projectile" : {
+    "speed" : 133,
+    "power" : 10,
+    "color" : [220, 10, 10]
+  },
+
+  "muzzleEffect" : {
+    "animation" : "/animations/muzzleflash/plasmamuzzle3/plasmamuzzle3.animation",
+    "fireSound" : [ { "file" : "/sfx/gun/lightningcoil1.wav" }, { "file" : "/sfx/gun/lightningcoil2.wav" }, { "file" : "/sfx/gun/lightningcoil3.wav" } ]
+  }
+}

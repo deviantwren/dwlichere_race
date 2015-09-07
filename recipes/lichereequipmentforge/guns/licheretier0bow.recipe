@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "lichereisocore", "count" : 1 },
+    { "item" : "bone", "count" : 8 },
+    { "item" : "fleshstrand", "count" : 5 },
+    { "item" : "glowfibrered_gl", "count" : 6 }
+  ],
+  "output" : { "item" : "licheretier0bow", "count" : 1 },
+  "groups" : [ "weapons", "all", "lichereweapon", "licherefane" ]
+}

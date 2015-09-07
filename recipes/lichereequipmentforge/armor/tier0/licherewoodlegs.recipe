@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 9 },
-    { "item" : "plantfibre", "count" : 7 }
-  ],
-  "output" : { "item" : "licherewoodpants", "count" : 1 },
-  "groups" : [ "armors", "legs", "all", "plain", "licherearmor", "licherefane" ]
-}

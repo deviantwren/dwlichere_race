@@ -11,13 +11,9 @@
 }
 
 //todolist
-//failed ship upgrade quest probably has to do with....something related to upgrade modules, or changes in the shipupgrade ai files as to enabling shipupgrade commands.
-//check licherematerialforge groups-- bars not showing up.
 //why don't birds drop the birdcarcass loottable?
 //consider adding three pathways to armor early on-- energy, armor, both
 //change weapon formats
-//tier 1 tier 2 (2,3,4 divergent), tier3 (5,6,7), tier4 (8,9,10)
-//each does something a little different
 //change spear into launching a projectile
 //try to make as many (if not all) of lichere weapons capable of dropping lichere droplists
 //add config filters to filter specifically lichere items?
@@ -29,8 +25,8 @@
 //but these quests should start on pickup of lichereartificefane; starting with armor or weapon? or both?
 //quests continue into liquidfuel ; moon fuel mining for slip drive
 //outpost replacement quests can be circumvented much easier now, with upgrade modules; maybe they can already be bypassed as it is
-//finish tier6-8 ship chassis: armor hardening, shielding & ?
-//interior sensor panel is presently unused, as well as lightning, and several boosters; look through blockkey.config
+//finish tier8 ship chassis: ?
+//lightning and several boosters are presently unused; look through blockkey.config
 //pick up with ai/shipupgrade3
 //figure out .lua triggers for ceiling plant
 //

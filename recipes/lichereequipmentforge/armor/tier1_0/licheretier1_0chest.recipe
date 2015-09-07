@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 15 },
+    { "item" : "plantfibre", "count" : 4 }
+  ],
+  "output" : { "item" : "licheretier1_0chest", "count" : 1 },
+  "groups" : [ "armors", "chest", "all", "plain", "licherearmor", "licherefane" ]
+}

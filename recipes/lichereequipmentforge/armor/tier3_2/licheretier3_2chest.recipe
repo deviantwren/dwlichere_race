@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "feroziumcompound", "count" : 10 },
+    { "item" : "glowfibrered_gl", "count" : 25 },
+    { "item" : "glowfibrepurple_gl", "count" : 25 },
+    { "item" : "liquidhealing", "count" : 2 },
+    { "item" : "liquidlicherejuice", "count" : 2 }
+  ],
+  "output" : { "item" : "licheretier3_2chest", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}
