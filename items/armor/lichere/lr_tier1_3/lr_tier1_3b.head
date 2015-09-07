@@ -12,7 +12,7 @@
 
   "maleFrames" : "headb.png",
   "femaleFrames" : "headb.png",
-  "mask" : "maskb.png",
+  "mask" : "mask.png",
 
   "statusEffects" : [
     {

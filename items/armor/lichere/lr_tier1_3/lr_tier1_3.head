@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Rare",
-  "level" : 5,
-  "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design premise.",
-  "shortdescription" : "Carnivore's Mask",
+  "rarity" : "Uncommon",
+  "level" : 4,
+  "description" : "Wearing the horns of the legendary Udon rams, centuries on the verge of extinction, is very vogue; very Lichere.",
+  "shortdescription" : "Stalker's Crown",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
 
@@ -17,12 +17,12 @@
   "statusEffects" : [
     {
       "stat" : "protection",
-      "amount" : 60
+      "amount" : 55
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 185
+      "amount" : 60
     },
 
     {
@@ -32,12 +32,10 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED CHALLENGE RED */
-    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
-    /* DESATURATED TOY GREEN */
-    { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
-    /* RED */
-    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+    /* BLACK */
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    /* GREY BLUE */
+    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */
