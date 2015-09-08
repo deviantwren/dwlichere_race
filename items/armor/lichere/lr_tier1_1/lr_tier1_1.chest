@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "level" : 2,
-  "description" : "Solid steel augmented by a resilient vine mesh and insulated with soft fabric.",
-  "shortdescription" : "Predator's Chestguard",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Iron shell augmented by monster plate and recoil-reducing fibre-mesh.",
+  "shortdescription" : "Raid Hauberk",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_1chest" ],
 
@@ -24,8 +24,12 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.75
+    },
+    {
       "stat" : "protection",
-      "amount" : 35
+      "amount" : 30
     },
 
     {
@@ -38,8 +42,6 @@
       "amount" : 20
     }
   ],
-
-  "triggerKeys" : [ "steelarmor" ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */

@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "level" : 4,
-  "description" : "A Stalker's chestguard is made of solid plate durasteel, lined with an intricate, bone mesh, and softened by insulating fur.",
-  "shortdescription" : "Stalker's Chestguard",
+  "rarity" : "Legendary",
+  "level" : 3,
+  "description" : "Isotope-powered, pure impervium hard-shell augmented by monster plate and recoil-reducing fibre-mesh.",
+  "shortdescription" : "Reaver Shell",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -23,24 +23,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.35
+    },
+    {
       "stat" : "protection",
-      "amount" : 85
+      "amount" : 40
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 100
+      "amount" : 80
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 50
+      "amount" : 40
     }
   ],
 
-  "triggerKeys" : [ "durasteelarmor" ],
-
   "colorOptions" : [
+    /* DESATURATED DEEP CHARCOAL */
+    { "ffca8a" : "38352c", "e0975c" : "2b2922", "a85636" : "1e1c17", "6f2919" : "161511" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY BLUE */

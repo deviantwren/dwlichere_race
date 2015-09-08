@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Uncommon",
+  "rarity" : "Legendary",
   "level" : 3,
-  "description" : "Intricate titanium-and-bone mesh leggings; warmer and more protective than just a battle wrap.",
-  "shortdescription" : "Possessor's Leggings",
+  "description" : "Intricate cerulium-bone weave protects while letting natural elements through.",
+  "shortdescription" : "Astral Leggings",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",
@@ -14,24 +14,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.0
+    },
+    {
       "stat" : "protection",
-      "amount" : 25
+      "amount" : 14
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 30
+      "amount" : 48
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 15
+      "amount" : 8
     }
   ],
 
-  "triggerKeys" : [ "titaniumarmor" ],
-
   "colorOptions" : [
+    /* DESATURATED MIDNIGHT BLUE */
+    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* WHITE */

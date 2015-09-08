@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Rare",
-  "level" : 6,
-  "description" : "Aegisalt-weave pants provide it all, whether sprinting amidst the perpetual hunt or dancing over the prey.",
-  "shortdescription" : "Sprinter's Pants",
+  "level" : 2,
+  "description" : "Violium-fibre weave greaves provide persisting comfort and speed on the perpetual hunt. Sprint, kill, dance.",
+  "shortdescription" : "Slaughter Greaves",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_1pants" ],
 
@@ -15,22 +15,31 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.5
+    },
+
+    {
       "stat" : "protection",
-      "amount" : 45
+      "amount" : 15
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 50
+      "amount" : 24
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 25
+      "amount" : 14
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED TOY GREEN */
     { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
     /* LIME GREEN */

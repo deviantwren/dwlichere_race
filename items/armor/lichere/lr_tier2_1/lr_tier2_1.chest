@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "level" : 2,
-  "description" : "Solid steel augmented by a resilient vine mesh and insulated with soft fabric.",
-  "shortdescription" : "Predator's Chestguard",
+  "description" : "Violium shell augmented by monster plate and recoil-reducing fibre-mesh.",
+  "shortdescription" : "Slaughter Hauberk",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_1chest" ],
 
@@ -24,24 +24,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.05
+    },
+    {
       "stat" : "protection",
-      "amount" : 35
+      "amount" : 37
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 40
+      "amount" : 60
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 20
+      "amount" : 35
     }
   ],
 
-  "triggerKeys" : [ "steelarmor" ],
-
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* LIGHT GREY */

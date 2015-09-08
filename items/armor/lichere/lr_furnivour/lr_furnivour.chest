@@ -23,12 +23,17 @@
   "statusEffects" : [
     {
       "stat" : "protection",
-      "amount" : 0
+      "amount" : 2 
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 15
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 2 
     }
   ],
 

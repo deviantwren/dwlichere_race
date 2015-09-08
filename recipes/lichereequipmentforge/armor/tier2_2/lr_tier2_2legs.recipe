@@ -1,7 +1,9 @@
 {
   "input" : [
-    { "item" : "refinedrubium", "count" : 4 },
-    { "item" : "leather", "count" : 1 }
+    { "item" : "refinedaegisalt", "count" : 4 },
+    { "item" : "leather", "count" : 2 },
+    { "item" : "glowfibreyellow_gl", "count" : 8 },
+    { "item" : "glowfibreblue_gl", "count" : 8 }
   ],
   "output" : { "item" : "lr_tier2_2pants", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

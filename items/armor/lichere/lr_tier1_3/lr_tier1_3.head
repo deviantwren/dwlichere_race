@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "level" : 4,
-  "description" : "Wearing the horns of the legendary Udon rams, centuries on the verge of extinction, is very vogue; very Lichere.",
-  "shortdescription" : "Stalker's Crown",
+  "level" : 1,
+  "description" : "Bone microstructures provide innate energy retention for photosynthetic channelling.",
+  "shortdescription" : "Solar Horns",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
 
@@ -16,22 +16,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.75
+    },
+    {
       "stat" : "protection",
-      "amount" : 55
+      "amount" : 8
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 60
+      "amount" : 48
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 30
+      "amount" : 6
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY BLUE */

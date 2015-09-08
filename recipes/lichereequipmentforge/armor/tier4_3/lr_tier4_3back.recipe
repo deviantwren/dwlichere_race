@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "lr_ragcape", "count" : 1 }
+  ],
+  "output" : { "item" : "lr_tier4_3back", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

@@ -3,10 +3,10 @@
   "inventoryIcon" : "iconsb.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "level" : 2,
-  "description" : "Steel-and-plant-based paste for grotesque facial appearance.",
-  "shortdescription" : "Predator's Paint",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Ground bone paste provides innate energy retention for photosynthetic leeching.",
+  "shortdescription" : "Solar Paint",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
 
@@ -16,22 +16,24 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.75
+    },
+    {
       "stat" : "protection",
-      "amount" : 25
+      "amount" : 8
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 25
+      "amount" : 48
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 10
+      "amount" : 6
     }
   ],
-
-  "triggerKeys" : [ "steelarmor" ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */

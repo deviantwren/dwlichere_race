@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "level" : 9,
-  "description" : "The nano-flora cells of the cerulium solar helm allow a Griever to leech and store immeasurable power from photosynthetic sources.",
-  "shortdescription" : "Reaver's Solar Helm",
+  "rarity" : "Rare",
+  "level" : 2,
+  "description" : "Primitive HUD, full head protection, and anabiotic, neural hardening.",
+  "shortdescription" : "Slaughter Helm",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_1head" ],
 
@@ -16,22 +16,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.7
+    },
+    {
       "stat" : "protection",
-      "amount" : 70
+      "amount" : 22
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 220
+      "amount" : 36
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 45
+      "amount" : 21
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED BLACKBERRY */
+    { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED MIDNIGHT BLUE */
     { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
     /* BLUE */

@@ -3,9 +3,11 @@
     [1, {
       "pool" : [
         {"weight" : 0.1, "item" : [ "licherecarcass" ]},
+        {"weight" : 0.1, "item" : [ "rawribmeat" ]},
         {"weight" : 0.1, "item" : [ "lichereundigested" ]},
         {"weight" : 0.1, "item" : [ "bone", 5]},
         {"weight" : 0.1, "item" : [ "leather" ]},
+        {"weight" : 0.1, "item" : [ "monsterplating" ]},
         {"weight" : 0.1, "item" : [ "inferiorbrain" ]},
         {"weight" : 0.1, "item" : [ "fleshstrand", 5]},
         {"weight" : 0.1, "item" : [ "liquidpoison", 5]},
@@ -17,6 +19,7 @@
     [1, {
       "pool" : [
         {"weight" : 0.1, "item" : [ "licherebirdcarcass" ]},
+        {"weight" : 0.1, "item" : [ "rawpoultry" ]},
         {"weight" : 0.1, "item" : [ "lichereundigested" ]},
         {"weight" : 0.1, "item" : [ "bone", 5]},
         {"weight" : 0.1, "item" : [ "leather" ]},

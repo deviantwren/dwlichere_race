@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "level" : 4,
-  "description" : "Durasteel mesh leggings lined with fur for warmth and comfort allow a Stalker to stalk prey for days.",
-  "shortdescription" : "Stalker's Leggings",
+  "level" : 1,
+  "description" : "Iron-mesh leggings provide warmth and comfort, and prove armor removal to be retrogressive.",
+  "shortdescription" : "Raid Leggings",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_1pants" ],
 
@@ -15,22 +15,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.3
+    },
+    {
       "stat" : "protection",
-      "amount" : 35
+      "amount" : 12
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 40
+      "amount" : 16
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 20
+      "amount" : 8
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY BLUE */

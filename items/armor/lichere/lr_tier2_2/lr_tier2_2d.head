@@ -3,10 +3,10 @@
   "inventoryIcon" : "iconsb.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "level" : 3,
-  "description" : "Intricate titanium-and-bone mesh scarf worn with the raised hud: Lichere vanity?",
-  "shortdescription" : "Possessor's Vanity",
+  "rarity" : "Rare",
+  "level" : 2,
+  "description" : "It needs to be worn properly in order to...Lichere vanity.",
+  "shortdescription" : "Specter Vanity",
   "tooltipKind" : "armor",
 
   "maleFrames" : "headd.png",
@@ -15,24 +15,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.9
+    },
+    {
       "stat" : "protection",
-      "amount" : 35
+      "amount" : 21
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 40
+      "amount" : 60
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 20
+      "amount" : 15
     }
   ],
 
-  "triggerKeys" : [ "titaniumarmor" ],
-
   "colorOptions" : [
+    /* DESATURATED ARMY GREEN */
+    { "ffca8a" : "616043", "e0975c" : "54533a", "a85636" : "3f402c", "6f2919" : "313123" },
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* WHITE */

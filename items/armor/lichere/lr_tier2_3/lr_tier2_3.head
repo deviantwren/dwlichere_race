@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "level" : 1,
-  "description" : "Solid iron face plate, not very vogue.",
-  "shortdescription" : "Scavenger's Face Plate",
+  "rarity" : "Rare",
+  "level" : 2,
+  "description" : "Solid bone face plates -not very vogue- force persistent leech-channelling for situational awareness.",
+  "shortdescription" : "Eclipse Face-Plate",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_3head" ],
 
@@ -17,24 +17,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.2
+    },
+    {
       "stat" : "protection",
-      "amount" : 9
+      "amount" : 18
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 60
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 9
     }
   ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DARKENED BLOOD GLITTER */
+    { "ffca8a" : "461111", "e0975c" : "310d0d", "a85636" : "200a0a", "6f2919" : "180808" },
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */

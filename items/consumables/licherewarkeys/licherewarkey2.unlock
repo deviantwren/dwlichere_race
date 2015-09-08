@@ -4,7 +4,7 @@
   "inventoryIcon" : "licherewarkey.png",
   "image" : "licherewarkey.png",
 
-  "shortdescription" : "^red;Tech-2 War Key^white;",
+  "shortdescription" : "^red;Tech-2 WarKey^white;",
   "description" : "Use to access restricted Lichere schematics.",
 
   "tierRecipesUnlock" : "licherewarkey2",

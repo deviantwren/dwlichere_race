@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "level" : 5,
   "description" : "Sleek, fur-lined, rubium-infused, and light enough for a Carnivore to join the perpetual hunt.",
-  "shortdescription" : "Carnivore's Chestguard",
+  "shortdescription" : "Specter Jerkin",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_2chest" ],
 
@@ -24,24 +24,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.5
+    },
+    {
       "stat" : "protection",
-      "amount" : 100
+      "amount" : 35
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 310
+      "amount" : 100
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 50
+      "amount" : 25
     }
   ],
 
-  "triggerKeys" : [ "tier5armor" ],
-
   "colorOptions" : [
+    /* DESATURATED ARMY GREEN */
+    { "ffca8a" : "616043", "e0975c" : "54533a", "a85636" : "3f402c", "6f2919" : "313123" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED CHALLENGE RED */
     { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
     /* DESATURATED TOY GREEN */

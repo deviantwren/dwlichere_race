@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Rare",
-  "level" : 7,
-  "description" : "Violium lens, single-eye hud for maximum visual acuity, and natural-eye view-scape.",
-  "shortdescription" : "Spectre's Eye",
+  "rarity" : "Legendary",
+  "level" : 3,
+  "description" : "Single-eye hud for maximum visual acuity, and natural-eye view-scape.",
+  "shortdescription" : "Phantom Eye",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -15,22 +15,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.05
+    },
+    {
       "stat" : "protection",
-      "amount" : 85
+      "amount" : 23
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 25
+      "amount" : 72
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 50
+      "amount" : 18
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SUGAR TEAL GLITTER */
+    { "f3ca8a" : "567e77", "e0975c" : "275b51", "a85636" : "183832", "6f2919" : "102621" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED BLACKBERRY */
     { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* PURPLE */

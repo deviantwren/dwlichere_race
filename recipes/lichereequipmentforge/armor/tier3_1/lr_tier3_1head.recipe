@@ -1,7 +1,10 @@
 {
   "input" : [
-    { "item" : "refinedviolium", "count" : 6 },
-    { "item" : "bone", "count" : 15 }
+    { "item" : "imperviumcompound", "count" : 9 },
+    { "item" : "monsterplating", "count" : 1 },
+    { "item" : "uraniumrod", "count" : 2 },
+    { "item" : "glowfibrered_gl", "count" : 18 },
+    { "item" : "glowfibrepurple_gl", "count" : 18 }
   ],
   "output" : { "item" : "lr_tier3_1head", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

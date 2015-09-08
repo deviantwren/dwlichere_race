@@ -1,7 +1,11 @@
 {
   "input" : [
-    { "item" : "refinedaegisalt", "count" : 10 },
-    { "item" : "plantfibre", "count" : 21 }
+    { "item" : "ceruliumcompound", "count" : 15 },
+    { "item" : "bone", "count" : 10 },
+    { "item" : "coreisotope_lr", "count" : 5 },
+    { "item" : "plutoniumrod", "count" : 3 },
+    { "item" : "glowfibregreen_gl", "count" : 30 },
+    { "item" : "glowfibreorange_gl", "count" : 30 }
   ],
   "output" : { "item" : "lr_tier3_3chest", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

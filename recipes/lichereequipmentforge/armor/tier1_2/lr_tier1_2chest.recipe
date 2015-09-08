@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "steelbar", "count" : 12 },
-    { "item" : "plantfibre", "count" : 3 },
-    { "item" : "fabric", "count" : 2 }
+    { "item" : "leather", "count" : 5 },
+    { "item" : "glowfibreyellow_gl", "count" : 10 },
+    { "item" : "glowfibreblue_gl", "count" : 10 }
   ],
   "output" : { "item" : "lr_tier1_2chest", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

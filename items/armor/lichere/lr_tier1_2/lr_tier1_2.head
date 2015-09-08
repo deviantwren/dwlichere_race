@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Rare",
-  "level" : 6,
-  "description" : "Coated with brain matter for anti-fogging, and designed with full peripheral vision and a customizable hud.",
-  "shortdescription" : "Sprinter's Goggles",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Anti-fogging brain matter keeps peripheral vision and HUD usable at all times.",
+  "shortdescription" : "Ghost Goggles",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_2head", "lr_tier2_2bhead", "lr_tier2_2chead", "lr_tier2_2dhead" ],
 
@@ -16,22 +16,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.6
+    },
+    {
       "stat" : "protection",
-      "amount" : 70
+      "amount" : 13
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 80
+      "amount" : 36
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 40
+      "amount" : 9
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED TOY GREEN */
     { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
     /* LIME GREEN */

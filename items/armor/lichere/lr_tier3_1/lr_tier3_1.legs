@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "level" : 10,
-  "description" : "Fur-lined, heat-shunting, moisture-controlled, pure impervium flex-shell boots ensure face-to-face slaughter is natural activity.",
-  "shortdescription" : "Ripper's Stomps",
+  "level" : 3,
+  "description" : "Fur-lined, heat-shunting, moisture-controlled, impervium-fibre mesh greaves ensure face-to-face slaughter is natural activity.",
+  "shortdescription" : "Reaver Greaves",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pantsm.png",
@@ -14,22 +14,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.55
+    },
+    {
       "stat" : "protection",
-      "amount" : 70
+      "amount" : 16
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 20
+      "amount" : 32
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 40
+      "amount" : 16
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED DEEP CHARCOAL */
+    { "ffca8a" : "38352c", "e0975c" : "2b2922", "a85636" : "1e1c17", "6f2919" : "161511" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED SHADOWED BRICK */
     { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* BLACK */

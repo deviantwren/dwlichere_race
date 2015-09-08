@@ -1,11 +1,10 @@
 {
   "input" : [
-    { "item" : "ceruliumcompound", "count" : 4 },
-    { "item" : "plantfibre", "count" : 45 },
-    { "item" : "glowfibreyellow_gl", "count" : 20 },
-    { "item" : "glowfibreorange_gl", "count" : 10 },
-    { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidlicherejuice", "count" : 2 }
+    { "item" : "ceruliumcompound", "count" : 6 },
+    { "item" : "bone", "count" : 5 },
+    { "item" : "plutoniumrod", "count" : 1 },
+    { "item" : "glowfibregreen_gl", "count" : 12 },
+    { "item" : "glowfibreorange_gl", "count" : 12 }
   ],
   "output" : { "item" : "lr_tier3_3pants", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

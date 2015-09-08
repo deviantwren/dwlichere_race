@@ -1,9 +1,8 @@
 {
   "input" : [
-    { "item" : "titaniumbar", "count" : 10 },
-    { "item" : "bone", "count" : 10 },
-    { "item" : "fabric", "count" : 2 },
-    { "item" : "plantfibre", "count" : 3 }
+    { "item" : "bone", "count" : 25 },
+    { "item" : "glowfibregreen_gl", "count" : 10 },
+    { "item" : "glowfibreorange_gl", "count" : 10 }
   ],
   "output" : { "item" : "lr_tier1_3chest", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

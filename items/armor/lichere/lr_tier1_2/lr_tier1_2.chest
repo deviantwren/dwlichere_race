@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "level" : 3,
-  "description" : "Optimizes protection and flexibility; a mix of solid titanium plating, bone mesh and insulating, soft fabric.",
-  "shortdescription" : "Possessor's Chestguard",
+  "level" : 1,
+  "description" : "Leather-fibre mesh sporting protection and minor energy retention nano-flora cells.",
+  "shortdescription" : "Ghost Tunic",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_2chest" ],
 
@@ -24,22 +24,24 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.0
+    },
+    {
       "stat" : "protection",
-      "amount" : 60
+      "amount" : 22
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 70
+      "amount" : 60
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 30
+      "amount" : 15
     }
   ],
-
-  "triggerKeys" : [ "titaniumarmor" ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */

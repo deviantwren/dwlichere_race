@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "glowfibregreen_gl", "count" : 10 },
+    { "item" : "glowfibreorange_gl", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "licherewarkey_ch",
+    "count" : 1
+  },
+  "groups" : [ "all", "licheretech", "licherefane" ]
+}

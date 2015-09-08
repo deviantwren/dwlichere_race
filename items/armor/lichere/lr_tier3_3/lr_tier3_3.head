@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "level" : 10,
-  "description" : "A pure impervium helmet allowing natural ascension to the forefront of the perpetual hunt through anabiotic, neural hardening.",
-  "shortdescription" : "Ripper's Skull",
+  "description" : "The larger the bone structure, the more marrowflora it can retain.",
+  "shortdescription" : "Astral Skull",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -15,22 +15,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.5
+    },
+    {
       "stat" : "protection",
-      "amount" : 105
+      "amount" : 21
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 35
+      "amount" : 72
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 60
+      "amount" : 12
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED MIDNIGHT BLUE */
+    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED SHADOWED BRICK */
     { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* BLACK */

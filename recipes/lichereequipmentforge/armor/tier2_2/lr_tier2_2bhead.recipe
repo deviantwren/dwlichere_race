@@ -1,7 +1,10 @@
 {
   "input" : [
-    { "item" : "titaniumbar", "count" : 6 },
-    { "item" : "plantfibre", "count" : 1 }
+    { "item" : "refinedaegisalt", "count" : 6 },
+    { "item" : "brain", "count" : 1 },
+    { "item" : "liquidlicherejuice", "count" : 5 },
+    { "item" : "glowfibreyellow_gl", "count" : 12 },
+    { "item" : "glowfibreblue_gl", "count" : 12 }
   ],
   "output" : { "item" : "lr_tier2_2bhead", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

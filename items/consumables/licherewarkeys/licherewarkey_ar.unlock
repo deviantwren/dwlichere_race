@@ -1,0 +1,12 @@
+{
+  "itemName" : "licherewarkey_ar",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "licherewarkey.png",
+  "image" : "licherewarkey.png",
+
+  "shortdescription" : "^red;Tech-1 WarKey - Harden^white;",
+  "description" : "Use to access Lichere armor schematics optimizing armor hardening technology.",
+
+  "tierRecipesUnlock" : "licherewarkey_ch",
+  "unlockMessage" : "^red;WarKey accepted. ^white;You now have access to Lichere armor hardening schematics."
+}

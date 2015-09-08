@@ -1,8 +1,9 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 6 },
-    { "item" : "bone", "count" : 31 },
-    { "item" : "plantfibre", "count" : 6 }
+    { "item" : "refinedviolium", "count" : 6 },
+    { "item" : "monsterplating", "count" : 1 },
+    { "item" : "glowfibrered_gl", "count" : 12 },
+    { "item" : "glowfibrepurple_gl", "count" : 12 }
   ],
   "output" : { "item" : "lr_tier2_1head", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

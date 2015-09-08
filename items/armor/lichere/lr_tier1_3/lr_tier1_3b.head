@@ -3,10 +3,10 @@
   "inventoryIcon" : "iconsb.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Rare",
-  "level" : 5,
-  "description" : "A rubium-infused mask designed to amplify the fear-scent of the sentient heart; faulty design premise.",
-  "shortdescription" : "Carnivore's Mask",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Ground bone provides innate energy retention for photosynthetic leeching.",
+  "shortdescription" : "Solar Face-Wrap",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
 
@@ -16,22 +16,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.75
+    },
+    {
       "stat" : "protection",
-      "amount" : 60
+      "amount" : 8
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 185
+      "amount" : 48
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 30
+      "amount" : 6
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED CHALLENGE RED */
     { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
     /* DESATURATED TOY GREEN */

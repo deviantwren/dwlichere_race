@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "level" : 1,
-  "description" : "Scantily-clad Lichere learn the art of evasion.",
-  "shortdescription" : "Scavenger's Anklets",
+  "description" : "Scantily-clad channellers learn the art of persistent channelling to keep warm.",
+  "shortdescription" : "Solar Loincloth",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3pants" ],
 
@@ -15,18 +15,22 @@
 
   "statusEffects" : [
     {
-      "stat" : "protection",
-      "amount" : 6
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.5
     },
-
     {
-      "stat" : "maxEnergy",
+      "stat" : "protection",
       "amount" : 5
     },
 
     {
+      "stat" : "maxEnergy",
+      "amount" : 32
+    },
+
+    {
       "stat" : "maxHealth",
-      "amount" : 2
+      "amount" : 4
     }
   ],
 

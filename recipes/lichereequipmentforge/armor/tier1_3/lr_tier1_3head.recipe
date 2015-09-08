@@ -1,6 +1,8 @@
 {
   "input" : [
-    { "item" : "refinedrubium", "count" : 6 }
+    { "item" : "bone", "count" : 15 },
+    { "item" : "glowfibregreen_gl", "count" : 6 },
+    { "item" : "glowfibreorange_gl", "count" : 6 }
   ],
   "output" : { "item" : "lr_tier1_3head", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

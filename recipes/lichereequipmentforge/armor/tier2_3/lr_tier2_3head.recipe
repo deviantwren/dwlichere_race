@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "refinedaegisalt", "count" : 6 },
-    { "item" : "liquidlicherejuice", "count" : 15 },
-    { "item" : "brain", "count" : 1 },
-    { "item" : "plantfibre", "count" : 7 }
+    { "item" : "refinedrubium", "count" : 6 },
+    { "item" : "bone", "count" : 10 },
+    { "item" : "glowfibregreen_gl", "count" : 12 },
+    { "item" : "glowfibreorange_gl", "count" : 12 }
   ],
   "output" : { "item" : "lr_tier2_3head", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

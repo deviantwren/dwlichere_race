@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Rare",
-  "level" : 7,
-  "description" : "Minimalistic violium-nanoweave design with heat shunting, protected vitals, body support, and sustaining nano-flora gel.",
-  "shortdescription" : "Spectre's Chestrig",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Bone-fibre infused with nano-flora gel for energy retention.",
+  "shortdescription" : "Solar Shroud",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_3chest" ],
 
@@ -24,24 +24,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.25
+    },
+    {
       "stat" : "protection",
-      "amount" : 140
+      "amount" : 12
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 40
+      "amount" : 80
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 85
+      "amount" : 10
     }
   ],
 
-  "triggerKeys" : [ "tier5armor" ],
-
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED BLACKBERRY */
     { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
     /* PURPLE */

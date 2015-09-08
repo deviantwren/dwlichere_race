@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "level" : 8,
-  "description" : "The nano-biotic fluid of the ferozium biotic helm allows a Griever to leech power and physical hardening from sentient life sources.",
-  "shortdescription" : "Griever's Biotic Helm",
+  "level" : 3,
+  "description" : "Battle ascension through HUD, full head protection, and anabiotic, neural hardening.",
+  "shortdescription" : "Reaver Helm",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -15,22 +15,26 @@
 
   "statusEffects" : [
     {
-      "stat" : "protection",
-      "amount" : 90
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.85
     },
-
+    {
+      "stat" : "protection",
+      "amount" : 24
+    },
     {
       "stat" : "maxEnergy",
-      "amount" : 95
+      "amount" : 48
     },
-
     {
       "stat" : "maxHealth",
-      "amount" : 50
+      "amount" : 24
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED DEEP CHARCOAL */
+    { "ffca8a" : "38352c", "e0975c" : "2b2922", "a85636" : "1e1c17", "6f2919" : "161511" },
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* TEAL */

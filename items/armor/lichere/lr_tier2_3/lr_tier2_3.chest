@@ -3,12 +3,12 @@
   "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "level" : 1,
-  "description" : "Solid iron plate builds endurance, and displays splatter art.",
-  "shortdescription" : "Scavenger's Chestshroud",
+  "rarity" : "Rare",
+  "level" : 2,
+  "description" : "Solid rubium plate infused with bone and iso-flora cells allows for primitive energy-cascades while leech-channelling.",
+  "shortdescription" : "Eclipse Body-Plate",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier3_3chest" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier3_3chest", "lr_tier3_3bchest" ],
 
   "maleFrames" : {
     "body" : "chestm.png",
@@ -24,24 +24,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 2.0
+    },
+    {
       "stat" : "protection",
-      "amount" : 15
+      "amount" : 30
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 10
+      "amount" : 100
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 8
+      "amount" : 15
     }
   ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DARKENED BLOOD GLITTER */
+    { "ffca8a" : "461111", "e0975c" : "310d0d", "a85636" : "200a0a", "6f2919" : "180808" },
     /* GREY */
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */

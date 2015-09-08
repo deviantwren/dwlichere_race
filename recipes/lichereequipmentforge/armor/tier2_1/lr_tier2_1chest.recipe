@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 10 },
-    { "item" : "bone", "count" : 10 },
-    { "item" : "leather", "count" : 1 },
-    { "item" : "plantfibre", "count" : 9 }
+    { "item" : "refinedviolium", "count" : 10 },
+    { "item" : "monsterplating", "count" : 3 },
+    { "item" : "glowfibrered_gl", "count" : 20 },
+    { "item" : "glowfibrepurple_gl", "count" : 20 }
   ],
   "output" : { "item" : "lr_tier2_1chest", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]

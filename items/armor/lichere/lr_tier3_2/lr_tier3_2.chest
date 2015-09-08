@@ -4,9 +4,9 @@
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "level" : 10,
-  "description" : "The life-sustaining, genetic nurturing, and anatomical support of a Ripper's pure impervium hardshell prove removal to be retrogressive.",
-  "shortdescription" : "Ripper's Hardshell",
+  "level" : 3,
+  "description" : "Isotope-powered, pure impervium hard-shell augmented by monster plate and recoil-reducing fibre-mesh.",
+  "shortdescription" : "Phantom Form",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -23,22 +23,28 @@
 
   "statusEffects" : [
     {
-      "stat" : "protection",
-      "amount" : 175
+      "stat" : "powerMultiplier",
+      "basePercentage" : 1.75
     },
-
+    {
+      "stat" : "protection",
+      "amount" : 39
+    },
     {
       "stat" : "maxEnergy",
-      "amount" : 55
+      "amount" : 120
     },
-
     {
       "stat" : "maxHealth",
-      "amount" : 100
+      "amount" : 30
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SUGAR TEAL GLITTER */
+    { "f3ca8a" : "567e77", "e0975c" : "275b51", "a85636" : "183832", "6f2919" : "102621" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED SHADOWED BRICK */
     { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* BLACK */

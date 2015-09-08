@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "level" : 2,
-  "description" : "Immersive in rain, wind, and the gore of the hunt.",
-  "shortdescription" : "Predator's Battle-Wrap",
+  "description" : "Immersive in rain, wind, and the gore of the hunt-- nature's touch for faster channelling.",
+  "shortdescription" : "Eclipse Battle-Wrap",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_3pants" ],
 
@@ -15,26 +15,30 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.8
+    },
+    {
       "stat" : "protection",
-      "amount" : 15
+      "amount" : 12
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 15
+      "amount" : 40
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 5
+      "amount" : 6
     }
   ],
-
-  "triggerKeys" : [ "steelarmor" ],
 
   "colorOptions" : [
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DARKENED BLOOD GLITTER */
+    { "ffca8a" : "461111", "e0975c" : "310d0d", "a85636" : "200a0a", "6f2919" : "180808" },
     /* LIGHT GREY */
     { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
     /* BLACK */

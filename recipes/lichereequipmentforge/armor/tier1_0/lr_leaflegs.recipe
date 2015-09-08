@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "fabric", "count" : 2 }
+    { "item" : "plantfibre", "count" : 25 }
   ],
   "output" : { "item" : "lr_leaflegs", "count" : 1 },
   "groups" : [ "armors", "legs", "all", "licherecloth", "licherefane" ]

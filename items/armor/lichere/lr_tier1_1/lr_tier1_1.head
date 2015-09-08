@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:head",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "level" : 10,
-  "description" : "A pure impervium helmet allowing natural ascension to the forefront of the perpetual hunt through anabiotic, neural hardening.",
-  "shortdescription" : "Ripper's Helmet",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Primitive anabiotic, neural hardening dulls the pain. The rest is you.",
+  "shortdescription" : "Raid Helm",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_1head" ],
 
@@ -16,22 +16,28 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.45
+    },
+    {
       "stat" : "protection",
-      "amount" : 105
+      "amount" : 18
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 35
+      "amount" : 24
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 60
+      "amount" : 12
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DESATURATED SHADOWED BRICK */
     { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
     /* BLACK */

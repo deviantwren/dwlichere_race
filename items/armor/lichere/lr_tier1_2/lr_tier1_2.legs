@@ -3,10 +3,10 @@
   "inventoryIcon" : "icons.png:pants",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
-  "rarity" : "Common",
-  "level" : 2,
-  "description" : "Clean leather from dead stuff.",
-  "shortdescription" : "Lichere Survivalist Legs",
+  "rarity" : "Uncommon",
+  "level" : 1,
+  "description" : "Fur-lined, leather-nanoweave leggings.",
+  "shortdescription" : "Ghost Leggings",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_2pants" ],
 
@@ -15,8 +15,20 @@
 
   "statusEffects" : [
     {
+      "stat" : "powerMultiplier",
+      "basePercentage" : 0.4
+    },
+    {
       "stat" : "protection",
-      "amount" : 0
+      "amount" : 9
+    },
+    {
+      "stat" : "maxEnergy",
+      "amount" : 24
+    },
+    {
+      "stat" : "maxHealth",
+      "amount" : 6
     }
   ],
 

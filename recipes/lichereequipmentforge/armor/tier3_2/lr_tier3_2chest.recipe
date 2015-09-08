@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "feroziumcompound", "count" : 10 },
-    { "item" : "glowfibrered_gl", "count" : 25 },
-    { "item" : "glowfibrepurple_gl", "count" : 25 },
-    { "item" : "liquidhealing", "count" : 2 },
-    { "item" : "liquidlicherejuice", "count" : 2 }
+    { "item" : "feroziumcompound", "count" : 15 },
+    { "item" : "leather", "count" : 3 },
+    { "item" : "solariumstar", "count" : 2 },
+    { "item" : "glowfibreyellow_gl", "count" : 30 },
+    { "item" : "glowfibreblue_gl", "count" : 30 }
   ],
   "output" : { "item" : "lr_tier3_2chest", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
