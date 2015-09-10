@@ -1,0 +1,32 @@
+{
+  "objectName" : "trophyskull_lr",
+  "tags" : ["nature"],
+  "rarity" : "Rare",
+  "description" : "A particularly shapely trophy skull.",
+  "price" : 5000,
+  "shortdescription" : "Trophy Skull",
+  "race" : "lichere",
+  "category" : "decorative",
+  "learnBlueprintsOnPickup" : [ "lr_bonehanger" ],
+
+  "apexDescription" : "A skull. I don't see the appeal.",
+  "avianDescription" : "A shapely skull plant.",
+  "floranDescription" : "Good skull. Ssstrong sskull.",
+  "glitchDescription" : "Interrogate. The sentience is past.",
+  "humanDescription" : "A skull! I can see why it was kept. Perfect shape.",
+  "hylotlDescription" : "A skull. An abhorrent decorate with bones.",
+
+
+  "inventoryIcon" : "trophyskull_lricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "trophyskull_lr.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

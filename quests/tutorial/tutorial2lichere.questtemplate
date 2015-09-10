@@ -1,8 +1,8 @@
 {
   "id" : "tutorial2lichere.gearup",
-  "title" : "^red;Fresh Reaper II: Artificery",
-  "text" : "^blue;NeuralDeviceID0: ^white;Fabrication of an ^orange;Ionic Compression Drive,^white; Reaper, or mining ^orange;20 core fragments^white;, will be be necessary to attain space flight with the escape module.",
-  "completionText" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Linking to escape module AI.",
+  "title" : "^red;Fresh Reaper II: Propulsion",
+  "text" : "You have two options to obtain space flight: fabricate an ^orange;Ionic Compression Drive,^white; and get ^orange;20 core fragments^white; from the cold-ignition process, or mine ^orange;20 core fragments ^white;from the lava-ridden deeps and let the AI work out the engine fabrication.",
+  "completionText" : "Random fact: Lichere Reapers are committed generally to two things: the perpetual hunt, and dynamic improvement of Lichere genetics to further improve this pursuit.",
   "completionConditions" : [
     { "type" : "gather", "item" : "corefragmentore", "count" : 20, "consume" : false }
   ],

@@ -1,10 +1,10 @@
 {
-  "itemName" : "lr_ragcape",
-  "inventoryIcon" : "lr_ragcapeicon.png",
+  "itemName" : "lr_bonehanger",
+  "inventoryIcon" : "icon.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Legendary",
-  "description" : "A ragged cape. Perfect for billowing epically in the wind.",
-  "shortdescription" : "Epic Cape of Billowing",
+  "description" : "Skull hanger. Perfect for a trophy skull.",
+  "shortdescription" : "Skull Hanger",
 
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",
@@ -13,26 +13,34 @@
   "statusEffects" : [
     {
       "stat" : "powerMultiplier",
-      "basePercentage" : 0.05
+      "basePercentage" : 0.1
     },
 
     {
       "stat" : "protection",
-      "amount" : 1
+      "amount" : 2
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 5
+      "amount" : 10
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 1
+      "amount" : 2
     }
   ],
 
   "colorOptions" : [
+    /* DESATURATED MUTED CHARCOAL */
+    { "ffca8a" : "5e584a", "e0975c" : "454137", "a85636" : "2e2b24", "6f2919" : "1c1a16" },
+    /* DESATURATED SLUDGE */
+    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
+    /* DESATURATED BONE */ 
+    { "ffca8a" : "e0dbca", "e0975c" : "beb6a4", "a85636" : "8a8372", "6f2919" : "615a4d" },
+    /* DARKENED BLOOD GLITTER */
+    { "ffca8a" : "461111", "e0975c" : "310d0d", "a85636" : "200a0a", "6f2919" : "180808" },
     /* BLUE */
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
     /* BLACK */

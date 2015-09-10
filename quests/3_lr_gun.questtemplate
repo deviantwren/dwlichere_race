@@ -1,8 +1,8 @@
 {
-  "id" : "2_licheregun.gearup",
+  "id" : "2_lr_gun.gearup",
   "title" : "^red;Reaper II: Weapon Systems",
   "text" : "This is the fabricate-a-ship-gun quest. So fabricate one.",
-  "completionText" : "You fabricated a gun.",
+  "completionText" : "Random fact: The pure evolution of the Lichere Reapers has not yet caused species extinction, but may eventually be to blame for degeneration in predatorial species through their tendency to cull the strong.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereshipgun", "count" : 1, "consume" : true }
   ],

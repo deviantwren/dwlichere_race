@@ -1,8 +1,8 @@
 {
   "id" : "tutorial3lichere.gearup",
-  "title" : "^red;Fresh Reaper III: Teleportation",
-  "text" : "^blue;NeuralDeviceID0: ^white;Reporting successful modulation of teleportation mindcore for use in remote fabrication. Reaper, ^orange;access escape module AI ^white;to initiate remote jury-rigging of issued schematic to the escape module's hull.",
-  "completionText" : "^blue;NeuralDeviceID0: ^white;Attachment point fabrication recorded. Monitoring stress tests of escape module systems.",
+  "title" : "^red;Fresh Reaper III: Jury-Rigging",
+  "text" : "^orange;Access escape module AI ^white;to initiate remote ^orange;jury-rigging ^white;of Ionic Compression Drive to the escape module's hull.",
+  "completionText" : "Random fact: Lichere genetics continue to progress with the use of cascading knowledge cores, but research is conducted and applied purely on a personal basis, as no uniform authority exists among Lichere Reapers.",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 2 }
   ],

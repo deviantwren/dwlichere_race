@@ -1,8 +1,8 @@
 {
   "id" : "tutorial2blichere.gearup",
   "title" : "^red;Fresh Reaper IIb: Fabrication",
-  "text" : "^blue;NeuralDeviceID0: ^white;Monitoring cold-ignition of Ionic Compression Drive.",
-  "completionText" : "^blue;NeuralDeviceID0: ^white;Cold-ignition process recorded. Analyzing for future stream-lining.",
+  "text" : "Initializing cold-ignition of Ionic Compression Drive.",
+  "completionText" : "Cold-ignition process recorded. Analyzing for future stream-lining.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereionicdrive", "count" : 1, "consume" : true }
   ],

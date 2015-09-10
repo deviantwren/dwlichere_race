@@ -4,7 +4,7 @@
   "actions" : [
     { 
       "action" : "PlayCinematic",
-      "itemsRequired" : [ ["upgrademodule", 2] ],
+      "itemsRequired" : [ ["lichereshipsensor", 1] ],
       "moneyRequired" : 0,
       "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
     },
@@ -26,7 +26,7 @@
   
   "speciesText" : {
     "lichere" : {
-      "buttonText" : "Upgrade Ship to Sparrow Class",
+      "buttonText" : "Jury-Rig Sensor Array",
       "selectSpeech" : [
         {
           "animation" : "talk",

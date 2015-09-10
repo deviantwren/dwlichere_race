@@ -3,8 +3,8 @@
   "inventoryIcon" : "icon_back.png",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "rarity" : "Legendary",
-  "description" : "A ragged cape. Perfect for billowing epically in the wind.",
-  "shortdescription" : "Epic Cape of Billowing",
+  "description" : "Skull hanger. Perfect for a trophy skull.",
+  "shortdescription" : "Skull Hanger",
 
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",
@@ -13,7 +13,7 @@
   "statusEffects" : [
     {
       "stat" : "powerMultiplier",
-      "basePercentage" : 0.3
+      "basePercentage" : 0.15
     },
 
     {

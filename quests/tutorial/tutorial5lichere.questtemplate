@@ -1,16 +1,17 @@
 {
   "id" : "tutorial5lichere.gearup",
   "title" : "^red;Fresh Reaper V: Slip-drive Halo",
-  "text" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Linking to escape module AI. ^white;Teleportation module standing by for remote fabrication. Reaper, ^orange;access escape module AI ^white;to initiate ^orange;jury-rigging of Slip Drive to escape module's hull.",
-  "completionText" : "^blue;SynapticID0: ^white;Achievement recorded. Quoting, 'Now again the perpetual hunt! And the pure evolution of the Lichere Reapers!'.",
+  "text" : "^orange;Access escape module AI ^white;to initiate ^orange;jury-rigging ^white;of Slip Drive to escape module's hull.",
+  "completionText" : "Quoting, 'Now again the perpetual hunt! And the pure evolution of the Lichere Reapers!'.",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 3 }
   ],
   "moneyRange" : [100, 100],
+  "enableAiCommands" : [ "upgradeShip4_lr" ], 
   "rewards" : [
     ],
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "1_licheresensor.gearup",
+  "followUp" : "1_lr_scansystem.gearup",
   "canBeAbandoned" : false
 }

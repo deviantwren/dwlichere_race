@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "bonefibre_gl", "count" : 35 },
+    { "item" : "bone", "count" : 25 },
     { "item" : "trophyskull_lr", "count" : 2 }
   ],
-  "output" : { "item" : "lr_tier4_3back", "count" : 1 },
+  "output" : { "item" : "lr_bonehanger", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

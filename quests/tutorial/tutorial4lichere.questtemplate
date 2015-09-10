@@ -1,8 +1,8 @@
 {
   "id" : "tutorial4lichere.gearup",
-  "title" : "^red;Fresh Reaper IV: Masterpiece",
-  "text" : "^blue;NeuralDeviceID0: ^white;Acknowledged. Preparing escape module systems for integration with a faster-than-light drive. Analyzing ^orange;Slip Drive ^white;schematic for incompatibilities with ship systems. None found. Commence building with discretion, Reaper.",
-  "completionText" : "^blue;NeuralDeviceID0; ^white;Processing recorded fabrication of the Slip Drive for future stream-lining.",
+  "title" : "^red;Fresh Reaper IV: Faster-Than-Light",
+  "text" : "Fabricate a ^orange;Slip Drive ^white; for faster-than-light travel.",
+  "completionText" : "Random fact: Lichere Reapers are the highly-intelligent, younger genetic cousin of the Floran species, and took the step of genetic evolution through questionable science.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereslipdrive", "count" : 1, "consume" : true }
   ],
