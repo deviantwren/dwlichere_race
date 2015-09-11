@@ -1,5 +1,5 @@
 {
-  "id" : "tutorial3lichere.gearup",
+  "id" : "3_lr_juryrig.gearup",
   "title" : "^red;Fresh Reaper III: Jury-Rigging",
   "text" : "^orange;Access escape module AI ^white;to initiate remote ^orange;jury-rigging ^white;of Ionic Compression Drive to the escape module's hull.",
   "completionText" : "Random fact: Lichere genetics continue to progress with the use of cascading knowledge cores, but research is conducted and applied purely on a personal basis, as no uniform authority exists among Lichere Reapers.",
@@ -9,6 +9,6 @@
   "moneyRange" : [100, 100],
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "tutorial4lichere.gearup",
+  "followUp" : "4_lr_slipdrive.gearup",
   "canBeAbandoned" : false
 }

@@ -2,6 +2,6 @@
   {
   "op" : "add",
   "path" : "/initialquests/lichere",
-  "value" : [ "tutorial1lichere.gearup" ]
+  "value" : [ "1_lr_fane.gearup" ]
   }
 ]

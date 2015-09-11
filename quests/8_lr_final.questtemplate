@@ -1,0 +1,14 @@
+{
+  "id" : "8_lr_final.gearup",
+  "title" : "^red;Reaper VIII: Final",
+  "text" : "This is the fabricate-a-ship-final quest. So fabricate one.",
+  "completionText" : "Random question: To counteract atmospheric pressure, how many pounds of pressure per square inch does the human anatomy exert upon the skin from the underside?",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "lichereshipfinal", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "canBeAbandoned" : false
+}

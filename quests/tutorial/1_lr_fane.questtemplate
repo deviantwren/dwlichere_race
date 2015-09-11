@@ -1,5 +1,5 @@
 {
-  "id" : "tutorial1lichere.gearup",
+  "id" : "1_lr_fane.gearup",
   "title" : "^red;Fresh Reaper I: Fane",
   "text" : "This escape module's core systems could support a jury-rigged engine. Your ^green;blueprint database [C] ^white;contains the schematic for a '^orange;Simple Artifice Fane^white;', which is necessary in the fabrication of Lichere technology.",
   "completionText" : "Quoting, 'May the science and artificery of great minds commence!' Namely yours, Reaper. Your IQ suggests you will manage.",
@@ -10,6 +10,6 @@
   "enableAICommands" : [ "upgradeBeamaxe1" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "tutorial2lichere.gearup",
+  "followUp" : "2_lr_propulsion.gearup",
   "canBeAbandoned" : false
 }

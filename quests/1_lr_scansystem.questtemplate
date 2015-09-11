@@ -2,15 +2,14 @@
   "id" : "1_lr_scansystem.gearup",
   "title" : "^red;Reaper I: Scan System",
   "text" : "Fabricate a sensor array to scan for fuel sources within the solar system.",
-  "completionText" : "Random fact: The perpetual hunt is the self-testing of a Lichere Reaper against all natural and foreign elements, and species, with the goal of the pure evolution of self.",
+  "completionText" : "Random question: What is missing in the vacuum of space that would otherwise allow a source to detect vibrations and sound?",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 4 }
   ],
   "moneyRange" : [100, 100],
   "enableAiCommands" : [ "upgradeShip5_lr" ], 
-  "equipTech" : [ "breathprotectionTech" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "2_lr_fuel.gearup",
+  "followUp" : "2_lr_genetics.gearup",
   "canBeAbandoned" : false
 }

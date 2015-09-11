@@ -1,0 +1,15 @@
+{
+  "id" : "3_lr_growthhormone.gearup",
+  "title" : "^red;Reaper III: Hormones",
+  "text" : "The development of your advanced lung can be accelerated with a localized injection of ^orange;CI372 Growth Hormone^white;.",
+  "completionText" : "Random fact: The Lichere are even more vicious than the Floran, but are far less volatile, as they are generally calculating and exacting in their behavior.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "growthhormone_lr", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "equipTech" : [ "breathprotectionTech" ], 
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "4_lr_fuel.gearup",
+  "canBeAbandoned" : false
+}

@@ -1,0 +1,14 @@
+{
+  "id" : "4_lr_fuel.gearup",
+  "title" : "^red;Reaper IV: Fuel",
+  "text" : "Full system scan registers excessive subterranean ^orange;Liquid Erchius^white; pools on all local planets lacking oxygen atmospheres. Proceed underground on one of these planets and look for pink pools. Collect at least ^orange;20 units of Liquid Erchius ^white;to fuel your slip drive.",
+  "completionText" : "To load the fuel into the slip drive, access the ^orange;fuel gauge ^white;at the back of the escape module.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "liquidfuel", "count" : 20, "consume" : false }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "5_lr_gun.gearup",
+  "canBeAbandoned" : false
+}

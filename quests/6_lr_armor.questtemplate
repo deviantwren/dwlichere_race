@@ -1,15 +1,15 @@
 {
-  "id" : "3_licherearmor.gearup",
-  "title" : "^red;Reaper III: Armor Hardening",
+  "id" : "6_lr_armor.gearup",
+  "title" : "^red;Reaper VI: Armor Hardening",
   "text" : "This is the fabricate-ship-armor quest. So fabricate some.",
-  "completionText" : "You fabricated some armor.",
+  "completionText" : "Random question: What force causes atmosphere to be substantive, to form in thicker quantities around planets?",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereshiparmor", "count" : 1, "consume" : true }
   ],
   "moneyRange" : [100, 100],
-  "enableAiCommands" : [ "upgradeShip6_lr" ], 
+  "enableAiCommands" : [ "upgradeShip7_lr" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "4_lichereshield.gearup",
+  "followUp" : "7_lr_shield.gearup",
   "canBeAbandoned" : false
 }

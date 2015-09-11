@@ -1,0 +1,14 @@
+{
+  "id" : "2_lr_genetics.gearup",
+  "title" : "^red;Reaper II: Genetics",
+  "text" : "Preliminary scan detects fuel sources only on planets with atmospheres inhospitable to oxygen breathing lifeforms. Advanced function of your underdeveloped auxiliary lung will be required. To achieve a solution, first fabricate a ^orange;Biomass Preparation Slab.",
+  "completionText" : "Random fact: The perpetual hunt is the self-testing of a Lichere Reaper against all natural and foreign elements, and species, with the goal of the pure evolution of self.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "lichereslab", "count" : 1, "consume" : false }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "3_growthhormone.gearup",
+  "canBeAbandoned" : false
+}

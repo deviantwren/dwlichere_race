@@ -1,0 +1,15 @@
+{
+  "id" : "5_lr_gun.gearup",
+  "title" : "^red;Reaper V: Weapon Systems",
+  "text" : "It's time to fasten a sniper cannon to this bantam-class --it's not an escape module anymore. A ^orange;414 Teltastar Energy Array ^white;will be overkill, but sufficient for the purpose of functioning as a tool of the perpetual hunt.",
+  "completionText" : "Random fact: The pure evolution of the Lichere Reapers has not yet caused any recorded species extinction, but may cause genetic degeneration in predatorial species due to challenge hunting innately culling the strong.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "lichereshipgun", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "enableAiCommands" : [ "upgradeShip6_lr" ], 
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "6_lr_armor.gearup",
+  "canBeAbandoned" : false
+}
