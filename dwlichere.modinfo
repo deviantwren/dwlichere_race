@@ -13,33 +13,6 @@
 //todolist
 //issue with ionicslipdrive quest not registering update; if you go corefragment; it doesn't progress the quest?
 //why don't birds drop the birdcarcass loottable?
-
-//Stalker...a&n tier1_2: brainmattergoggles; bodicechestonfabric; licheresurvivor
-//Solar.....nrg tier1_3: leafcrown, ramcrown, facepaint; open-top shelfbodice, furnivourlegs
-//Ripper....arm tier2_1: cophelm; plateovermesh; boyshortpants
-//Predator..a&n tier2_2: hudgoggles; leatherbodice; pants&kneepads
-//nrg tier2_3: plateface; chestplate, furnivourskirt
-//Reaver....arm tier3_1: pa-visor; metalbodice; leatherhotpants
-//Spectre...a&n tier3_2: violium_lens; compositebodice; briefpants
-//Channel...nrg tier3_3: spiderhelm; shelfbodice, skirtoverfabric
-
-//tier0: wood, equal to tier 1, first, and only linear armor
-//tier1: faceplate; chestplate; furnivourlegs
-//tier2: facepaint; plateovermesh; furnivourskirt
-//tier3: hudgoggles; bodicechestonfabric; skirtoverfabric
-//tier4: ramcrown; metalbodice; longskirt&kneepads
-//tier5: leafcrown; leatherbodice; pants&kneepads
-//tier6: brainmattergoggles; shelfbodice; boyshortpants
-//tier7: violium eyelens; open-top shelfbodice; briefpants
-//tier8: spiderhunthelm; pantyvisor-tealhelm; compositebrabodice; leatherhotpants
-//tier9: sipedrhunthelm; redvisorcophelm; ""; ""
-//tier10: spiderhunthelm; redwidevisor-colorhelm; ""; ""
-//Scavanger's
-//Predator's
-//Possessor's
-//Stalker's
-//Carnivore's
-
 //change weapon formats
 //change spear into launching a projectile
 //try to make as many (if not all) of lichere weapons capable of dropping lichere droplists

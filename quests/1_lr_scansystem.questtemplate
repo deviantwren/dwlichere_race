@@ -1,8 +1,8 @@
 {
   "id" : "1_lr_scansystem.gearup",
   "title" : "^red;Reaper I: Scan System",
-  "text" : "Fabricate a sensor array to scan for fuel sources within the solar system.",
-  "completionText" : "Random question: What is missing in the vacuum of space that would otherwise allow a source to detect vibrations and sound?",
+  "text" : "Fabricate a long-range sensor array to scan for fuel sources within the solar system.",
+  "completionText" : "Random fact: Telemetry is the highly automated communications process by which measurements and other data are collected and transmitted from remote locations to receiving equipment.",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 4 }
   ],

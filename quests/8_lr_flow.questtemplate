@@ -1,0 +1,14 @@
+{
+  "id" : "8_lr_final.gearup",
+  "title" : "^red;Reaper VIII: Flow Regulation",
+  "text" : "Installation of ^green;three ^orange;UL7 Flow regulators ^white;into the energy conduits should stabilize the erratic fluctuations in the slip drive. With this done they'll be no shame for us in the perpetual hunt. So fabricate three of them.",
+  "completionText" : "Random question: If Godel's incompleteness theorems establish axiomatic limitations such that a consistent set of axioms is impossible to establish for all mathematics, and countless other unaswered scientific questions, then why is sentient progress devolving to entertainment rather than progress? Have we come far enough?",
+  "completionConditions" : [
+    { "type" : "shiplevel", "level" : 8 }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "canBeAbandoned" : false
+}

@@ -4,5 +4,5 @@
   "inventoryIcon" : "lichereshipshield.png",
   "description" : "Energy Absorption Field.",
   "shortdescription" : "VQ-5 Absorption Array",
-  "learnBlueprintsOnPickup" : [ "lichereshipfinal" ]
+  "learnBlueprintsOnPickup" : [ "lichereshipflow" ]
 }

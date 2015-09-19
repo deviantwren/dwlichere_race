@@ -1,15 +1,15 @@
 {
   "id" : "7_lr_shield.gearup",
   "title" : "^red;Reaper VII: Shield Node",
-  "text" : "This is the fabricate-a-ship-shield quest. So fabricate one.",
-  "completionText" : "Random question: How many pounds of atmospheric pressure on the human body are required for survival?",
+  "text" : "A shild node would improve the survivability of this bantam-class without affecting speed or maneuverability. It is likely to drain the remainder of the slip drive's energy output.",
+  "completionText" : "Random fact: Sound is vibrations detected by a device or organ. In a vacuum, the transference of wave lengths decay quickly due to a significant reduction in, or absense of, molecular collisions.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "lichereshipshield", "count" : 1, "consume" : true }
+    { "type" : "shiplevel", "level" : 7 }
   ],
   "moneyRange" : [100, 100],
   "enableAiCommands" : [ "upgradeShip8_lr" ], 
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "8_lr_final.gearup",
+  "followUp" : "8_lr_flow.gearup",
   "canBeAbandoned" : false
 }

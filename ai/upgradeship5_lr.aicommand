@@ -4,7 +4,7 @@
   "actions" : [
     { 
       "action" : "PlayCinematic",
-      "itemsRequired" : [ ["upgrademodule", 4] ],
+      "itemsRequired" : [ ["lichereshipgun", 1] ],
       "moneyRequired" : 0,
       "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
     },
@@ -26,26 +26,36 @@
   
   "speciesText" : {
     "lichere" : {
-      "buttonText" : "Upgrade Ship to Kestrel Class",
+      "buttonText" : "Jury-Rig Weapon Mounting",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I see you got your Kestrel license! ^green;Now we can upgrade your ship. If you bring me ^orange;4 upgrade modules ^green;I'll initiate the upgrade procedure.",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;init_ws1
+^white;--file 414_teltastar_ea.cfg
+^#aee1ee;SystemWarning: ^orange; Flow regulators not detected in energy conduits. Potential for energy cascade in initializations with an energy array.
+
+Do you wish to initialize the energy array connection? (yes/[no])?",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "yell",
-          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
-          "speedModifier" : 1.0
+          "text" : "root@toeclas# ^white;teltastar_array start 0
+...
+Flow input stabilized. 414 Teltastar Energy Array initializing.
+...
+^#aee1ee;SystemAlert: ^orange;Teltastar Energy Array
+^white;Imperfections detected in focussing prism. Beam sheer: 0.3 microns per centimeter.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! ^green;You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^orange;Configuration
+^white:Uploading file '414_teltastar_ea.cfg'. Energy conduit connections standing by for presence of ^orange;414 Teltastar Energy Array^white;.",
+          "speedModifier" : 0.8
         }
       ]
     }

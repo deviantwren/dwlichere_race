@@ -4,7 +4,7 @@
   "actions" : [
     { 
       "action" : "PlayCinematic",
-      "itemsRequired" : [ ["upgrademodule", 10] ],
+      "itemsRequired" : [ ["lichereshipflow", 3] ],
       "moneyRequired" : 0,
       "cinematicConfig" : "/cinematics/repair/apex/repair.cinematic"
     },
@@ -26,26 +26,36 @@
   
   "speciesText" : {
     "lichere" : {
-      "buttonText" : "Upgrade Ship to Condor Class",
+      "buttonText" : "Mount Flow Regulators",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I see you got your Condor license! ^green;Now we can upgrade your ship. If you bring me ^orange;10 upgrade modules ^green;I'll initiate the upgrade procedure.",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;init_fr1
+^white;--file ul7_regulators.cfg
+^#aee1ee;SystemWarning: Energy conduits maxed out. Critical potential for energy cascade in slip drive.
+
+Do you wish to initialize flow regulators into the energy conduits? (yes/[no])?",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "yell",
-          "text" : "The upgrade is complete! You've finally reached the limit of this ship's ability to self-upgrade. If there's any way to make a ship finer than this, the knowledge is hidden out there among the stars...",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;flow_regulation start 0
+...
+Energy conduits cooling off. Flow monitoring detected.
+...
+^#aee1ee;SystemNotice: ^orange;Control Core
+^white;Systems optimal.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! ^green;You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^orange;Configuration
+^white;Uploading file 'ul7_regulators.cfg'. ^orange;Ul7 Flow Regulators ^white;not detected in energy conduits ports. Three will presently be required to initialize file ul7_regulators.cfg.",
+          "speedModifier" : 0.8
         }
       ]
     }

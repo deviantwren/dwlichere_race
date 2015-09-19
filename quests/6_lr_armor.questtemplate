@@ -1,10 +1,10 @@
 {
   "id" : "6_lr_armor.gearup",
   "title" : "^red;Reaper VI: Armor Hardening",
-  "text" : "This is the fabricate-ship-armor quest. So fabricate some.",
-  "completionText" : "Random question: What force causes atmosphere to be substantive, to form in thicker quantities around planets?",
+  "text" : "Reactive armor plates in sensative locations will go a long way in bolstering the longevity of a bantam-class.",
+  "completionText" : "Random fact: The pure evolution of the Lichere Reapers has not yet caused any recorded species extinction, but may cause genetic degeneration in predatorial species due to challenge hunting innately culling the strong.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "lichereshiparmor", "count" : 1, "consume" : true }
+    { "type" : "shiplevel", "level" : 6 }
   ],
   "moneyRange" : [100, 100],
   "enableAiCommands" : [ "upgradeShip7_lr" ], 

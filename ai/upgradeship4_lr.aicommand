@@ -26,26 +26,35 @@
   
   "speciesText" : {
     "lichere" : {
-      "buttonText" : "Jury-Rig Sensor Array",
+      "buttonText" : "Jury-Rig Sensor Upgrade",
       "selectSpeech" : [
         {
           "animation" : "talk",
-          "text" : "I see you got your Sparrow license! ^green;Now we can upgrade your ship. If you bring me ^orange;2 upgrade modules ^green;I'll initiate the upgrade procedure.",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;init_sa1
+^white;--file l10_enigma_array.cfg
+^#aee1ee;SystemWarning: ^orange; Current array is malfunctioning.
+
+Do you wish to initialize the upgrade? (yes/[no])?",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "yell",
-          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;enigma start 0
+...
+Configuring L10 Enigma Sensor Array
+^#aee1ee;SystemAlert: ^white;Array Core
+^white;No telemetric feeds incoming. Initializing system scan.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! ^green;You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^orange;Configuration
+^white;Uploading file 'l10_enigma_array.cfg'. Remote fabrication sequence standing by for presence of ^orange;L10 Enigma Sensor Array^white;.",
+          "speedModifier" : 0.8
         }
       ]
     }

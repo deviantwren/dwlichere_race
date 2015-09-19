@@ -3,7 +3,7 @@
     { "item" : "upgrademodule", "count" : 1 }
   ],
   "output" : {
-    "item" : "lichereshipfinal",
+    "item" : "lichereshipflow",
     "count" : 1
   },
   "groups" : [ "all", "licheretech", "licherefane" ]
