@@ -28,17 +28,17 @@
     },
     {
       "stat" : "protection",
-      "amount" : 27
+      "amount" : 13
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 175
+      "amount" : 350
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 9
+      "amount" : 4
     }
   ],
 
