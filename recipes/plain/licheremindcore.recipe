@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "brain", "count" : 2 },
+    { "item" : "brain", "count" : 1 },
     { "item" : "liquidlicherejuice", "count" : 10 },
     { "item" : "glowfibreblue_gl", "count" : 10 }
   ],
