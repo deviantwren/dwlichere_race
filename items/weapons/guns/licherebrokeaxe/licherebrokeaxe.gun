@@ -1,7 +1,7 @@
 {
   "itemName" : "licherebrokeaxe",
   "inventoryIcon" : "licherebrokeaxeicon.png",
-  "pickupQuestTemplates" : [ "licherebeamaxe.gearup" ],
+  "pickupQuestTemplates" : [ "a1_lr_illegal.gearup" ],
   "rarity" : "Legendary",
   "maxStack" : 1,
   "description" : "A malfunctioning beamaxe that was at some point illegally tampered with.",
