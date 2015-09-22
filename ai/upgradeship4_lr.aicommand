@@ -32,7 +32,7 @@
           "animation" : "talk",
           "text" : "root@toeclass# ^white;init_sa1
 ^white;--file l10_enigma_array.cfg
-^#aee1ee;SystemWarning: ^orange; Current array is malfunctioning.
+^#aee1ee;SystemWarning: ^orange;Current array is malfunctioning.
 
 Do you wish to initialize the upgrade? (yes/[no])?",
           "speedModifier" : 0.4

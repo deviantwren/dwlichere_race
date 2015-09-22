@@ -32,7 +32,7 @@
           "animation" : "talk",
           "text" : "root@toeclass# ^white;init_aa1
 ^white;--file vq_5_array.cfg
-^#aee1ee;SystemWarning: ^orange; Flow regulators not detected in energy conduits. Potential for energy cascade in initializations with an energy array.
+^#aee1ee;SystemWarning: ^orange;Flow regulators not detected in energy conduits. Potential for energy cascade in initializations with an energy array.
 
 Do you wish to initialize the energy array connection? (yes/[no])?",
           "speedModifier" : 0.4

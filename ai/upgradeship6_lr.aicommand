@@ -31,22 +31,31 @@
         {
           "animation" : "talk",
           "text" : "root@toeclass# ^white;init_as1
-^white;--file ",
-          "speedModifier" : 1.0
+^white;--file mass_compensation.cfg
+^#aee1ee;SystemWarning: ^orange;Poor mass distribution and exceeding safe operating weight limits for engine classes can shorten core lifespans and increase the chance of a core cascade.
+
+Do you wish to proceed with mass compensation analysis? (yes/[no])?",
+          "speedModifier" : 0.4
         }
       ],
       "successSpeech" : [
         {
           "animation" : "yell",
-          "text" : "The upgrade is complete! Enjoy your new home! ^green;I suspect more people will be asking you for help now that you have a bigger ship!",
-          "speedModifier" : 1.0
+          "text" : "root@toeclass# ^white;mass_analysis 0
+...
+Testing affect of mass redistribution upon ionic compression drive and slip drive.
+...
+^#aee1ee;SystemNotice: ^white;Engine ratings recorded in optimal efficiencies.",
+          "speedModifier" : 0.4
         }
       ],
       "failSpeech" : [
         {
           "animation" : "refuse",
-          "text" : "Failure! ^green;You've not yet gathered the required materials.",
-          "speedModifier" : 1.0
+          "text" : "SystemNotice: ^orange;Configuration
+^white;Uploading file 'mass_compensation.cfg'. Preparing core analytics.
+...",
+          "speedModifier" : 0.8 
         }
       ]
     }

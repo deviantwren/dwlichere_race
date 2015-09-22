@@ -1,6 +1,6 @@
 {
   "name" : "dwlichere_race",
-  "version" : "Beta v. Pleased Giraffe - Update 1",
+  "version" : "Beta v. Pleased Giraffe - Update 5",
   "path" : ".",
   "requires" : [ "dwccextender", "dwgrowlab" ],
   "metadata": {
