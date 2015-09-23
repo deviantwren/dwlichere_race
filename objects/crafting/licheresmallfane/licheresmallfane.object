@@ -1,6 +1,7 @@
 {
   "objectName" : "licheresmallfane",
   "tags" : ["crafting"],
+  "pickupQuestTemplates" : [ "b1_lr_forge.gearup" ],
   "rarity" : "legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {

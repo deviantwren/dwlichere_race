@@ -17,8 +17,8 @@
     "filter" : [ "licherecloth", "licherearmor", "lichereweapon", "licheretool" ]
   },
   "printable" : false,
-  "description" : "This table has magic! Unexplained science is magic!",
-  "shortdescription" : "^orange;Artifice Forge^white;",
+  "description" : "For tinkering with things that become weapons and armor!",
+  "shortdescription" : "^orange;Equipment Forge^white;",
   "race" : "lichere",
   "category" : "crafting",
   "price" : 7000,

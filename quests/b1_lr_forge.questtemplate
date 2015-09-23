@@ -1,0 +1,14 @@
+{
+  "id" : "b1_lr_forge.gearup",
+  "title" : "^red;Reaper: Equipment Forge",
+  "text" : "An equipment forge for advanced weapons and armor would be good.",
+  "completionText" : "Weapons, nice; armor, I'll need to fabricate a warkey to unlock a set; I could fabricate all three if I want.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "lichereequipmentforge", "count" : 1, "consume" : false }
+  ],
+  "moneyRange" : [250, 250],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "canBeAbandoned" : true
+}
