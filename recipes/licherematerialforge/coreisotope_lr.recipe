@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "corefragmentore", "count" : 1 },
-    { "item" : "glowfibrered_lr", "count" : 2 }
+    { "item" : "glowfibrered_gl", "count" : 2 }
   ],
   "output" : {
     "item" : "coreisotope_lr",

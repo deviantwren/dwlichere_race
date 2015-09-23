@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "brain", "count" : 1 },
     { "item" : "liquidlicherejuice", "count" : 10 },
-    { "item" : "glowfibreblue_gl", "count" : 10 }
+    { "item" : "glowfibreblue_gl", "count" : 5 },
+    { "item" : "glowfibregreen_gl", "count" : 5 }
   ],
   "output" : {
     "item" : "licheremindcore",

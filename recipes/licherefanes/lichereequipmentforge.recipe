@@ -1,6 +1,7 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "glowfibreblue_gl", "count" : 20 },
     { "item" : "licheremindcore", "count" : 1 }
   ],
   "output" : {
