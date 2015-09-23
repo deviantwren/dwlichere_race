@@ -9,5 +9,5 @@
     "item" : "licherebeamaxe",
     "count" : 1
   },
-  "groups" : [ "all", "licheretool", "licherefane" ]
+  "groups" : [ "all", "tools", "licheretool", "licherefane" ]
 }

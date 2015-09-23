@@ -25,6 +25,9 @@
       { "item" : "licheremindcore" },
       { "item" : "licherefuel" },
       { "item" : "licherewarkey" },
+      { "item" : "licherewarkey_ar" },
+      { "item" : "licherewarkey_bl" },
+      { "item" : "licherewarkey_ch" },
 
       { "item" : "licherescrap" },
       { "item" : "liquidlicherejuice" },

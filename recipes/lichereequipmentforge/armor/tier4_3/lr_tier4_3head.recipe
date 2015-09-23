@@ -1,5 +1,6 @@
 {
   "input" : [
+    { "item" : "lr_tier2_3head", "count" : 1 },
     { "item" : "bonefibre_gl", "count" : 25 },
     { "item" : "coreisotope_lr", "count" : 15 },
     { "item" : "bone", "count" : 10 },

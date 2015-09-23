@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "bonefibre", "count" : 40 },
+    { "item" : "lr_tier2_3chest", "count" : 1 },
+    { "item" : "bonefibre_gl", "count" : 40 },
     { "item" : "bone", "count" : 10 },
     { "item" : "coreisotope_lr", "count" : 25 },
     { "item" : "glowfibregreen_gl", "count" : 20 },

@@ -1,5 +1,6 @@
 {
   "input" : [
+    { "item" : "lr_tier2_3back", "count" : 1 },
     { "item" : "bonefibre_gl", "count" : 35 },
     { "item" : "trophyskull_lr", "count" : 2 }
   ],

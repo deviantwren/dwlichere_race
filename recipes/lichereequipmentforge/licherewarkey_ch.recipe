@@ -8,5 +8,5 @@
     "item" : "licherewarkey_ch",
     "count" : 1
   },
-  "groups" : [ "all", "licherearmor", "licherefane" ]
+  "groups" : [ "all", "tools", "licheretool", "licherefane" ]
 }
