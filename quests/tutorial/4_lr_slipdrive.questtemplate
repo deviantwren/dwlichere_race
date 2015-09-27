@@ -1,7 +1,7 @@
 {
   "id" : "4_lr_slipdrive.gearup",
   "title" : "^red;Fresh Reaper IV: Faster-Than-Light",
-  "text" : "Fabricate a ^orange;Slip Drive ^white; for faster-than-light travel.",
+  "text" : "Fabricate a ^orange;Slip Drive ^white;for faster-than-light travel.",
   "completionText" : "Random fact: Lichere Reapers are the highly-intelligent, younger genetic cousin of the Floran species, and took the step of genetic evolution through questionable science.",
   "completionConditions" : [
     { "type" : "gather", "item" : "lichereslipdrive", "count" : 1, "consume" : true }

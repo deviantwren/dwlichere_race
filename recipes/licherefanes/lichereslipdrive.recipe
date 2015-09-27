@@ -2,7 +2,8 @@
   "input" : [
     { "item" : "licheremindcore", "count" : 1 },
     { "item" : "lichereisocore", "count" : 1 },
-    { "item" : "ironbar", "count" : 5 }
+    { "item" : "inkbulbseed", "count" : 3 },
+    { "item" : "ironbar", "count" : 7 }
   ],
   "output" : {
     "item" : "lichereslipdrive",

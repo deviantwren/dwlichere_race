@@ -8,6 +8,7 @@
   "description" : "Cerulium-fibre mesh infused with plutonium-flora cells allow for persistent energy-cascades while leech-channelling.",
   "shortdescription" : "Astral Shroud",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "lr_tier4_3chest", "lr_tier4_3back" ],
 
   "maleFrames" : {
     "body" : "chestm.png",

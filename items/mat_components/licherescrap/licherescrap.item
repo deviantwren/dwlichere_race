@@ -2,7 +2,7 @@
   "itemName" : "licherescrap",
   "rarity" : "Uncommon",
   "inventoryIcon" : "licherescrap.png",
-  "description" : "Scrap, debris.  A bunch of junk.",
-  "shortdescription" : "Scrap Parts",
+  "description" : "Scrap. Debris. A bunch of junk.",
+  "shortdescription" : "Scrap",
   "learnBlueprintsOnPickup" : [ "licheredebristent" ]
 }

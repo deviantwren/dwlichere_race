@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "bonefibre_gl", "count" : 20 },
+    { "item" : "coreisotope_lr", "count" : 12 },
+    { "item" : "monsterplating", "count" : 5 },
+    { "item" : "glowfibrered_gl", "count" : 8 },
+    { "item" : "glowfibrepurple_gl", "count" : 8 }
+  ],
+  "output" : { "item" : "lr_tier4_1pants", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

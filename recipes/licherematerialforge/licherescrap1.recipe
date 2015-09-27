@@ -1,11 +1,11 @@
 {
   "input" : [
-    { "item" : "corefragmentore", "count" : 5 },
-    { "item" : "glowfibrered_gl", "count" : 1 }
+    { "item" : "metalbarrel1", "count" : 1 },
+    { "item" : "steelchair", "count" : 1 }
   ],
   "output" : {
     "item" : "licherescrap",
-    "count" : 1
+    "count" : 5
   },
   "groups" : [ "all", "licheremat", "licherefane" ]
 }

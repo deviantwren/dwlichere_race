@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "licherescrap", "count" : 30 },
+    { "item" : "coreisotope_lr", "count" : 12 },
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "liquidlicherejuice", "count" : 35 },
+    { "item" : "glowfibreblue_gl", "count" : 15 },
+    { "item" : "glowfibrered_gl", "count" : 10 }
+
+  ],
+  "output" : {
+    "item" : "licherebeamaxe",
+    "count" : 1
+  },
+  "groups" : [ "all", "tools", "licheretool", "licherefane" ]
+}

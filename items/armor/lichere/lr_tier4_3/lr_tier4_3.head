@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "level" : 4,
-  "description" : "Solid bone face plates -not very vogue- force persistent leech-channelling for situational awareness.",
+  "description" : "Who needs eyes? Rattle that skull and channel entropy.",
   "shortdescription" : "Paradawn Face-Plate",
   "tooltipKind" : "armor",
 
@@ -21,17 +21,17 @@
     },
     {
       "stat" : "protection",
-      "amount" : 9
+      "amount" : 7
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 185
+      "amount" : 216
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 4
     }
   ],
 

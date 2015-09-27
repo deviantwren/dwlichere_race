@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "licheremindcore", "count" : 1 },
-    { "item" : "lichereisocore", "count" : 1 },
-    { "item" : "ironbar", "count" : 5 }
+    { "item" : "lichereisocore", "count" : 2 },
+    { "item" : "weaponchest", "count" : 1 },
+    { "item" : "ironbar", "count" : 15 }
   ],
   "output" : { 
     "item" : "lichereionicdrive",

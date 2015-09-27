@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "licherescrap", "count" : 10 },
+    { "item" : "licherescrap", "count" : 15 },
     { "item" : "coreisotope_lr", "count" : 20 },
     { "item" : "lichereisocore", "count" : 1 },
     { "item" : "liquidlicherejuice", "count" : 50 }

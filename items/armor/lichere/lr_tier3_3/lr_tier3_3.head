@@ -8,6 +8,7 @@
   "description" : "The larger the bone structure, the more marrowflora it can retain.",
   "shortdescription" : "Astral Skull",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "lr_tier4_3head" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",

@@ -1,35 +1,44 @@
 {
-  "itemName" : "lr_tier4_3pants",
-  "inventoryIcon" : "icons.png:pants",
+  "itemName" : "lr_tier4_1chest",
+  "inventoryIcon" : "icons.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
   "level" : 4,
-  "description" : "Rain, wind, and gore. Channel the immersion.",
-  "shortdescription" : "Paradawn Battle-Wrap",
+  "description" : "For chest-thumping a mini-kong.",
+  "shortdescription" : "Battle Shell",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "pantsm.png",
-  "femaleFrames" : "pantsf.png",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
 
   "statusEffects" : [
     {
       "stat" : "powerMultiplier",
-      "basePercentage" : 1.2
+      "basePercentage" : 0.45
     },
     {
       "stat" : "protection",
-      "amount" : 4
+      "amount" : 60
     },
 
     {
       "stat" : "maxEnergy",
-      "amount" : 144
+      "amount" : 26
     },
 
     {
       "stat" : "maxHealth",
-      "amount" : 2
+      "amount" : 60
     }
   ],
 
@@ -40,8 +49,8 @@
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
     /* DARKENED BLOOD GLITTER */
     { "ffca8a" : "461111", "e0975c" : "310d0d", "a85636" : "200a0a", "6f2919" : "180808" },
-    /* LIGHT GREY */
-    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+    /* GREY */
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

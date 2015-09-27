@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "glowfibreyellow_gl", "count" : 2 },
+    { "item" : "copperore", "count" : 1 }
+
+  ],
+  "output" : {
+    "item" : "glowstickyellow",
+    "count" : 4
+  },
+  "groups" : [ "all", "plain", "licheretool", "licherefane" ]
+}

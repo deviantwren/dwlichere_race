@@ -44,6 +44,11 @@
       { "item" : "glowfibreyellow_gl" },
       { "item" : "glowfibreorange_gl" },
 
+      { "item" : "glowstickyellow" },
+      { "item" : "glowstickorange" },
+      { "item" : "glowstickblue" },
+      { "item" : "glowstickgreen" },
+
       { "item" : "lr_tier1_0head" },
       { "item" : "lr_tier1_0chest" },
       { "item" : "lr_tier1_0pants" },
@@ -67,36 +72,6 @@
       { "item" : "lr_survivechest" },
       { "item" : "lr_survivelegs" },
       { "item" : "lr_ragcape" }
-    ],
-
-    "licherewarkey_ar" : [
-      { "item" : "lr_tier1_1head" },
-      { "item" : "lr_tier1_1chest" },
-      { "item" : "lr_tier1_1legs" }
-    ],
-     "licherewarkey_bl" : [
-      { "item" : "lr_tier1_2head" },
-      { "item" : "lr_tier1_2chest" },
-      { "item" : "lr_tier1_2legs" }
-    ],
-    "licherewarkey_ch" : [
-      { "item" : "lr_tier1_3head" },
-      { "item" : "lr_tier1_3bhead" },
-      { "item" : "lr_tier1_3chead" },
-      { "item" : "lr_tier1_3chest" },
-      { "item" : "lr_tier1_3legs" }
-    ],
-   "licherewarkey1" : [
-      { "item" : "lichereknowcore" },
-      { "item" : "licherefuel2" },
-      { "item" : "licheretelcore" },
-      { "item" : "lichereremotetel" },
-      { "item" : "licherebeamaxe2" },
-      { "item" : "licherebandage" }
-    ],
-    "licherewarkey2" : [
-      { "item" : "licheredrip" },
-      { "item" : "licheredripmature" }
     ]
   },
   "altOptionAsUndyColor" : true,

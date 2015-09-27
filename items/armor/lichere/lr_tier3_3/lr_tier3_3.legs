@@ -8,6 +8,7 @@
   "description" : "Intricate cerulium-bone weave protects while letting natural elements through.",
   "shortdescription" : "Astral Leggings",
   "tooltipKind" : "armor",
+  "learnBlueprintsOnPickup" : [ "lr_tier4_3pants" ],
 
   "maleFrames" : "pantsm.png",
   "femaleFrames" : "pantsf.png",

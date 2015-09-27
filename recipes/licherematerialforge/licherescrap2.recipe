@@ -1,10 +1,11 @@
 {
   "input" : [
-    { "item" : "upgrademodule", "count" : 1 }
+    { "item" : "bunkercrate", "count" : 1 },
+    { "item" : "prisonpipefence", "count" : 1 }
   ],
   "output" : {
     "item" : "licherescrap",
-    "count" : 25
+    "count" : 3
   },
   "groups" : [ "all", "licheremat", "licherefane" ]
 }
