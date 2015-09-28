@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "licheretier2_2head", "count" : 1 },
+    { "item" : "lr_tier2_2head", "count" : 1 },
     { "item" : "leather", "count" : 1 }
   ],
   "output" : { "item" : "lr_tier2_2chead", "count" : 1 },

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "level" : 2,
-  "description" : "Violium-fibre weave greaves provide persisting comfort and speed on the perpetual hunt. Sprint, kill, dance.",
+  "description" : "Sprint. Kill. Dance. Hunt perpetually. Violium-fibre weave greaves for persistant comfort and speed.",
   "shortdescription" : "Slaughter Greaves",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_1pants" ],

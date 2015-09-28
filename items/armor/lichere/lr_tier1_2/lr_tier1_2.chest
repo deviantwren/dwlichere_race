@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "level" : 1,
-  "description" : "Leather-fibre mesh sporting protection and minor energy retention nano-flora cells.",
+  "description" : "Leather-fibre mesh sporting protection and minor energy retaining nano-flora cells.",
   "shortdescription" : "Ghost Tunic",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier2_2chest" ],

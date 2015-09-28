@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "level" : 2,
-  "description" : "Solid bone face plates -not very vogue- force persistent leech-channelling for situational awareness.",
+  "description" : "Solid bone face plate -not very vogue- forces persistent leech-channelling for situational awareness.",
   "shortdescription" : "Eclipse Face-Plate",
   "tooltipKind" : "armor",
   "learnBlueprintsOnPickup" : [ "lr_tier3_3head" ],
