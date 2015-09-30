@@ -17,7 +17,7 @@
     "filter" : [ "stonefurnace", "alloyfurnace", "scififurnace", "licheremat" ]
   },
   "printable" : false,
-  "description" : "This table has magic! Unexplained science is magic!",
+  "description" : "For unlimited synthesizing of ores into bars, but you must find the ore first. Science!",
   "shortdescription" : "^orange;Material Synthesis Forge^white;",
   "race" : "lichere",
   "category" : "crafting",

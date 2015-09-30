@@ -17,7 +17,7 @@
     "filter" : [ "licherelowtech", "licheretech", "licherehightech" ]
   },
   "printable" : false,
-  "description" : "This table has magic! Unexplained science is magic!",
+  "description" : "Unexplained science is magic, or generic Lichere technology.",
   "shortdescription" : "^orange;Artifice Fane^white;",
   "race" : "lichere",
   "category" : "crafting",
