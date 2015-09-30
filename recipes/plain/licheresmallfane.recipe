@@ -1,8 +1,9 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 12 },
-    { "item" : "ironore", "count" : 2 },
-    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "glowfibregreen_gl", "count" : 3 },
+    { "item" : "glowfibreblue_gl", "count" : 3 },
+    { "item" : "inferiorbrain", "count" : 1 },
     { "item" : "torch", "count" : 2 },
     { "item" : "campfire", "count" : 1 }
   ],

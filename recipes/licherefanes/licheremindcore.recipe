@@ -9,5 +9,5 @@
     "item" : "licheremindcore",
     "count" : 1
   },
-  "groups" : [ "all", "plain", "licherelowtech", "licherefane" ]
+  "groups" : [ "all", "licheretech", "licherefane" ]
 }
