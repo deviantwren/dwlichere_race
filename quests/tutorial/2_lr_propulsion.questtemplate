@@ -1,7 +1,7 @@
 {
   "id" : "2_lr_propulsion.gearup",
   "title" : "^red;Fresh Reaper II: Propulsion",
-  "text" : "You have two options to obtain space flight: fabricate an ^orange;Ionic Compression Drive,^white; and get ^orange;20 core fragments^white; from the cold-ignition process, or mine ^orange;20 core fragments ^white;from the lava-ridden deeps and let the AI work out the engine fabrication.",
+  "text" : "You have two options to obtain ^orange;20 core fragments ^white;necessary for space flight: ^green;fabricate an ^orange;Ionic Compression Drive,^white; and be ^green;rewarded 20 core fragments^white; from the cold-ignition process, or ^green;mine 20 core fragments ^white;from the lava-ridden deeps and let the AI work out the engine fabrication.",
   "completionText" : "Random fact: Lichere Reapers are committed generally to two things: the perpetual hunt, and dynamic improvement of Lichere genetics to further improve this pursuit.",
   "completionConditions" : [
     { "type" : "gather", "item" : "corefragmentore", "count" : 20, "consume" : false }
