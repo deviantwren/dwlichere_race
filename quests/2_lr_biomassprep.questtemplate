@@ -9,6 +9,6 @@
   "moneyRange" : [100, 100],
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "3_growthhormone.gearup",
+  "followUp" : "3_lr_growthhormone.gearup",
   "canBeAbandoned" : false
 }

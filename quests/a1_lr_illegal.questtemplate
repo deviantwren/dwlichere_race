@@ -1,10 +1,11 @@
 {
   "id" : "a1_lr_illegal.gearup",
   "title" : "^red;Reaper: Illegal Tampering",
-  "text" : "It's broken. It was awesome before it broke. The energy beam doesn't manipulate matter, but perhaps it could be used as a weapon until I've got a ^orange;weapon artificing forge ^white;built. I might be able to fix it with that.",
-  "completionText" : "I might be able to fix my tampered beam-axe now.",
+  "text" : "It's broken. It was awesome before it broke. The energy beam doesn't manipulate matter, but perhaps it could be used as a weapon until I've constructed an ^orange;equipment forge. ^white;and fix it.",
+  "completionText" : "To unlock armor schematics for the equipment forge fabricate the warkeys relating to the preferred armor varient-- armor hardening for defense, energy channeling for damages, and ^green;blended for a combination of both.",
+
   "completionConditions" : [
-    { "type" : "gather", "item" : "lichereweaponsforge", "count" : 1, "consume" : false }
+    { "type" : "gather", "item" : "lichereequipmentforge", "count" : 1, "consume" : false }
   ],
   "moneyRange" : [250, 250],
   "planetMode" : "none",
