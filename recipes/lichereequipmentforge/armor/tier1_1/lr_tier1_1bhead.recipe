@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 3 },
+    { "item" : "monsterplating", "count" : 1 },
+    { "item" : "glowfibrered_gl", "count" : 6 },
+    { "item" : "glowfibrepurple_gl", "count" : 6 }
+  ],
+  "output" : { "item" : "lr_tier1_1head", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

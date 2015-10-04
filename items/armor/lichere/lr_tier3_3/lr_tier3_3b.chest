@@ -1,12 +1,12 @@
 {
   "itemName" : "lr_tier3_3bchest",
-  "inventoryIcon" : "icons.png:chest",
+  "inventoryIcon" : "iconsb.png:chest",
   "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
   "maxStack" : 1,
   "rarity" : "Legendary",
   "level" : 3,
   "description" : "Cerulium-fibre mesh infused with plutonium-flora cells allow for persistent energy-cascades while leech-channelling.",
-  "shortdescription" : "Dawnrider Half-Shroud",
+  "shortdescription" : "Astral Half-Shroud",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

@@ -6,9 +6,9 @@
   "rarity" : "Uncommon",
   "level" : 1,
   "description" : "Primitive anabiotic, neural hardening dulls the pain. The rest is you.",
-  "shortdescription" : "Raid Helm",
+  "shortdescription" : "Raid Mask",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier2_1head" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier2_1head", "lr_tier2_1bhead" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -38,10 +38,6 @@
   "colorOptions" : [
     /* DESATURATED SLUDGE */
     { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* DESATURATED SHADOWED BRICK */
-    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
-    /* BLACK */
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

@@ -8,7 +8,7 @@
   "description" : "Ground bone paste provides innate energy retention for photosynthetic leeching.",
   "shortdescription" : "Solar Paint",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier2_3head", "lr_tier2_3bhead" ],
 
   "maleFrames" : "headc.png",
   "femaleFrames" : "headc.png",
@@ -36,10 +36,8 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* LIGHT GREY */
-    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+    /* DESATURATED SUGAR BLUE */
+    { "ffca8a" : "495369", "e0975c" : "40495c", "a85636" : "303644", "6f2919" : "242934" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

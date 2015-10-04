@@ -5,5 +5,5 @@
   "image" : "licherewarkey.png",
   "shortdescription" : "^red;Tech-1 WarKey - Harden^white;",
   "description" : "Grants access to Lichere armor schematics optimizing armor hardening technology.",
-  "learnBlueprintsOnPickup" : [ "lr_tier1_1head", "lr_tier1_1chest", "lr_tier1_1pants" ]
+  "learnBlueprintsOnPickup" : [ "lr_tier1_1head","lr_tier1_1bhead", "lr_tier1_1chest", "lr_tier1_1pants" ]
 }

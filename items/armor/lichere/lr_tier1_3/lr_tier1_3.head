@@ -8,7 +8,7 @@
   "description" : "Bone microstructures provide innate energy retention for photosynthetic channelling.",
   "shortdescription" : "Solar Horns",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier2_3head", "lr_tier2_3bhead" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,12 +36,8 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* BLACK */
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
-    /* GREY BLUE */
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+    /* DESATURATED BONE */ 
+    { "ffca8a" : "e0dbca", "e0975c" : "beb6a4", "a85636" : "8a8372", "6f2919" : "615a4d" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

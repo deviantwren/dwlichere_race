@@ -5,6 +5,6 @@
     { "item" : "glowfibrered_gl", "count" : 6 },
     { "item" : "glowfibrepurple_gl", "count" : 6 }
   ],
-  "output" : { "item" : "lr_tier1_1head", "count" : 1 },
+  "output" : { "item" : "lr_tier1_1bhead", "count" : 1 },
   "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
 }

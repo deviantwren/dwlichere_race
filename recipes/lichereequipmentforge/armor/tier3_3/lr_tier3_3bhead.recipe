@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ceruliumcompound", "count" : 9 },
+    { "item" : "bone", "count" : 15 },
+    { "item" : "plutoniumrod", "count" : 2 },
+    { "item" : "glowfibregreen_gl", "count" : 18 },
+    { "item" : "glowfibreorange_gl", "count" : 18 }
+  ],
+  "output" : { "item" : "lr_tier3_3bhead", "count" : 1 },
+  "groups" : [ "armors", "all", "licherearmor", "licherefane" ]
+}

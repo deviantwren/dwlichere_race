@@ -46,12 +46,6 @@
   "colorOptions" : [
     /* DESATURATED MIDNIGHT BLUE */
     { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* DESATURATED TOY GREEN */
-    { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
-    /* LIME GREEN */
-    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

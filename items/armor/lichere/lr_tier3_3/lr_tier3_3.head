@@ -36,14 +36,8 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED MIDNIGHT BLUE */
-    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* DESATURATED SHADOWED BRICK */
-    { "ffca8a" : "3b1d1d", "e0975c" : "2f1717", "a85636" : "1d0f0f", "6f2919" : "100808" },
-    /* BLACK */
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    /* DESATURATED BONE */ 
+    { "ffca8a" : "e0dbca", "e0975c" : "beb6a4", "a85636" : "8a8372", "6f2919" : "615a4d" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

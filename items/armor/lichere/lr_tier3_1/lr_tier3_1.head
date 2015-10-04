@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "level" : 3,
-  "description" : "Battle ascension through HUD, full head protection, and anabiotic, neural hardening.",
-  "shortdescription" : "Reaver Helm",
+  "description" : "Battle ascension through HUD, mere facial protection, and anabiotic, neural hardening.",
+  "shortdescription" : "Reaver Mask",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -35,10 +35,6 @@
   "colorOptions" : [
     /* DESATURATED DEEP CHARCOAL */
     { "ffca8a" : "38352c", "e0975c" : "2b2922", "a85636" : "1e1c17", "6f2919" : "161511" },
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* TEAL */
-    { "ffca8a" : "a8e6e2", "e0975c" : "4facb2", "a85636" : "30636c", "6f2919" : "233c43" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

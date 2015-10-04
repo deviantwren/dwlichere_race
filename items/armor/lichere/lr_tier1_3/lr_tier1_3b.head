@@ -8,7 +8,7 @@
   "description" : "Ground bone provides innate energy retention for photosynthetic leeching.",
   "shortdescription" : "Solar Face-Wrap",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier2_3head" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier2_3head", "lr_tier2_3bhead" ],
 
   "maleFrames" : "headb.png",
   "femaleFrames" : "headb.png",
@@ -36,14 +36,8 @@
   ],
 
   "colorOptions" : [
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* DESATURATED CHALLENGE RED */
-    { "ffca8a" : "692d2d", "e0975c" : "5b2727", "a85636" : "471f1f", "6f2919" : "381818" },
-    /* DESATURATED TOY GREEN */
-    { "ffca8a" : "242c1c", "e0975c" : "171e12", "a85636" : "0f130b", "6f2919" : "070806" },
-    /* RED */
-    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+    /* ARMOR COBALT BLUE */
+    { "ffca8a" : "2b3341", "e0975c" : "202730", "a85636" : "12161c", "6f2919" : "07080b" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */

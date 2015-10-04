@@ -5,10 +5,10 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "level" : 2,
-  "description" : "Primitive HUD, full head protection, and anabiotic, neural hardening.",
-  "shortdescription" : "Slaughter Helm",
+  "description" : "Primitive HUD, facial protection, and anabiotic, neural hardening.",
+  "shortdescription" : "Slaughter Mask",
   "tooltipKind" : "armor",
-  "learnBlueprintsOnPickup" : [ "lr_tier3_1head" ],
+  "learnBlueprintsOnPickup" : [ "lr_tier3_1head", "lr_tier3_1bhead" ],
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -38,12 +38,6 @@
   "colorOptions" : [
     /* DESATURATED BLACKBERRY */
     { "ffca8a" : "49273b", "e0975c" : "361e2c", "a85636" : "281621", "6f2919" : "1e1018" },
-    /* DESATURATED SLUDGE */
-    { "ffca8a" : "36321d", "e0975c" : "282516", "a85636" : "18160c", "6f2919" : "090805" },
-    /* DESATURATED MIDNIGHT BLUE */
-    { "ffca8a" : "2c2f4e", "e0975c" : "1e2034", "a85636" : "131421", "6f2919" : "0c0c14" },
-    /* BLUE */
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
     /* BLACK */
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     /* GREY */
