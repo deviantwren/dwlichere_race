@@ -1,0 +1,14 @@
+{
+  "id" : "3b_lr_radiation.gearup",
+  "title" : "^red;Reaper IIIb: Radiation",
+  "text" : "Now we need a radiation tech equip quest.",
+  "completionText" : "Completion.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "liquidfuel", "count" : 20, "consume" : false }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "canBeAbandoned" : false
+}

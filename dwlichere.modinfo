@@ -12,22 +12,11 @@
 
 //todolist
 //add equiptech quests for remaining protection
-//solar looks good in grey, which is actually black I guess...
 //create a custom lichere color palette to add under other other colors
-//give battle-skirt a top-- darken it for a hem; same for male astral
 //correct astral armor icon for pants-- shows brown but is grey
 //paradawn legs: cloth & skull codpiece
-//drop the boyshort look of phantom
-//apparition face visor, gallentean style
 //apparition codpiece needs to go
-//ghost goggles, need to come in 1 pixel on outside, but not whole goggles
 //change reaver helm icon to red mask
-//reduce color options down to 1 option, starting with black afterwards-- in each armor
-//add a custom color array to the end
-//make harden helmets into masks allowing floran flower to stand up
-//darken all non-changeable color to muted browns or greys that still stand out
-//visually finesse armors, so that they're all awesome color-wise and style-wise; make them all something I want to wear
-//in this endeavor, I do not like the small, sleek helmets though, and some may
 //why can't I organize my crafting table blueprints?
 //cannot upgrade usual matter manipulator...with any race
 //why don't birds drop the birdcarcass loottable?
@@ -49,7 +38,7 @@
 //figure out .lua triggers for ceiling plant
 //
 //notes
-//conform t4-8 lit ship.pngs to 95% opacity & in lit.pngs delete control console lights
+//conform t4-8 lit ship.pngs to 95% (85% now?) opacity & in lit.pngs delete control console lights
 //blinking 'e' over shiplocker is found in shiplockertier0 as the particle "emid.png"; pixel origin
 //lichereartificefanelit & licheresmallfanelit use threshhold 156 on lightest green & delete; re-copy stone table back over result
 //lichereisolartopecorelit not working; it should fullbright the difference; related to .animation file in use?

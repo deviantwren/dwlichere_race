@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "glowfibrered_gl", "count" : 5 },
+    { "item" : "glowfibrepurple_gl", "count" : 10 },
+    { "item" : "glowfibreorange_gl", "count" : 15 },
+    { "item" : "redstim", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "growthhormone_lr",
+    "count" : 1
+  },
+  "groups" : [ "all", "licherebio", "licherefane" ]
+}
