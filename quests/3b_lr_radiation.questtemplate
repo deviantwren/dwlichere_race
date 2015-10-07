@@ -4,11 +4,11 @@
   "text" : "Now we need a radiation tech equip quest.",
   "completionText" : "Completion.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "liquidfuel", "count" : 20, "consume" : false }
+    { "type" : "gather", "item" : "radiationhormone_lr", "count" : 20, "consume" : false }
   ],
   "moneyRange" : [100, 100],
   "planetMode" : "none",
   "questDungeons" : [ ],
-  "followUp" : "",
+  "followUp" : "3c_lr_cold.gearup",
   "canBeAbandoned" : false
 }
