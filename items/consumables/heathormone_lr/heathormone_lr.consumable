@@ -1,0 +1,16 @@
+{
+  "itemName" : "heathormone_lr",
+  "rarity" : "Uncommon",
+  "price" : 975,
+  "inventoryIcon" : "heathormone_lr.png",
+  "description" : "Heat-resistent cellular/molecular/epidermal layer.",
+  "shortdescription" : "Heat Quest Item",
+  "effects" : [ [
+      {
+        "effect" : "regeneration4",
+        "duration" : 360
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "stimuse" ]
+}

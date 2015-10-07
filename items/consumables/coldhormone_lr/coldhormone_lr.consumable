@@ -1,0 +1,16 @@
+{
+  "itemName" : "coldhormone_lr",
+  "rarity" : "Uncommon",
+  "price" : 975,
+  "inventoryIcon" : "coldhormone_lr.png",
+  "description" : "Cold-resistent cellular/molecular/epidermal layer.",
+  "shortdescription" : "Cold Quest Item",
+  "effects" : [ [
+      {
+        "effect" : "regeneration4",
+        "duration" : 360
+      }
+    ] ],
+  "emote" : "",
+  "emitters" : [ "stimuse" ]
+}
