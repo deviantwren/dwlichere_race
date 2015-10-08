@@ -1,0 +1,9 @@
+{
+  "itemName" : "forjosh",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "forjosh.png",
+  "image" : "forjosh.png",
+  "shortdescription" : "Disciplinary Manual",
+  "description" : "You need this because I screwed up your quests. Sorry bro.",
+  "pickupQuestTemplates" : [ "3_lr_growthhormone.gearup" ]
+}
