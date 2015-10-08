@@ -4,7 +4,7 @@
   "text" : "Now we need a heat protection tech equip quest.",
   "completionText" : "Completion.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "heathormone_lr", "count" : 20, "consume" : false }
+    { "type" : "gather", "item" : "heathormone_lr", "count" : 1, "consume" : false }
   ],
   "moneyRange" : [100, 100],
   "planetMode" : "none",

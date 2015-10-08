@@ -4,7 +4,7 @@
   "text" : "Now we need a radiation tech equip quest.",
   "completionText" : "Completion.",
   "completionConditions" : [
-    { "type" : "gather", "item" : "radiationhormone_lr", "count" : 20, "consume" : false }
+    { "type" : "gather", "item" : "radiationhormone_lr", "count" : 1, "consume" : false }
   ],
   "moneyRange" : [100, 100],
   "planetMode" : "none",
