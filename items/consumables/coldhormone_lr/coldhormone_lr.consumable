@@ -5,6 +5,7 @@
   "inventoryIcon" : "coldhormone_lr.png",
   "description" : "Cold-resistent cellular/molecular/epidermal layer.",
   "shortdescription" : "Cold Quest Item",
+  "learnBlueprintsOnPickup" : [ "heathormone_lr" ],
   "effects" : [ [
       {
         "effect" : "regeneration4",

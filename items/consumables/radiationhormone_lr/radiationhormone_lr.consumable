@@ -5,6 +5,7 @@
   "inventoryIcon" : "radiationhormone_lr.png",
   "description" : "Radiation-resistent cellular/molecular/epidermal layer.",
   "shortdescription" : "Radiation Quest Item",
+  "learnBlueprintsOnPickup" : [ "coldhormone_lr" ],
   "effects" : [ [
       {
         "effect" : "regeneration4",
