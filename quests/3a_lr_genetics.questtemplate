@@ -1,0 +1,14 @@
+{
+  "id" : "3a_lr_genetics.gearup",
+  "title" : "^red;Reaper IIIa: Genetics",
+  "text" : "A variety of inhospitable conditions can bar unlimited exploration of the natural universe. Fabricating a ^orange;Genome-Tech Warkey ^white;with an ^green;Equipment Forge ^white;will unlock genetic-related schematics that may prove key in overcoming this species limitation.",
+  "completionText" : "Random Fact: Planetary magnetospheres protect planetary atmospheres from being stripped away by solar winds, in turn protecting ozone layers essential in reducing harmful radiation.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "genome_warkey_lr", "count" : 1, "consume" : false }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "3b_lr_evolution.gearup",
+  "canBeAbandoned" : false
+}

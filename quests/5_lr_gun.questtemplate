@@ -2,7 +2,7 @@
   "id" : "5_lr_gun.gearup",
   "title" : "^red;Reaper V: Weapon Systems",
   "text" : "It's time to fasten a sniper cannon to this bantam-class --it's not an escape module anymore. A ^orange;414 Teltastar Energy Array ^white;will be overkill, but sufficient for the purpose of functioning as a tool of the perpetual hunt.",
-  "completionText" : "Random fact: The third layer of a Lichere Reaper's epidermis is composed of a strong endoskeletal cell that reacts to pressure, allowing the species to adapt to low-pressure and even no-pressure environs without risk of bodily harm.",
+  "completionText" : "Random fact: The Lichere are even more vicious than the Floran, but are far less volatile, as they are generally calculating and exacting in their behavior.",
   "completionConditions" : [
     { "type" : "shiplevel", "level" : 5 }
   ],

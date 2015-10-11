@@ -1,0 +1,14 @@
+{
+  "id" : "3d_lr_cold.gearup",
+  "title" : "^red;Reaper IIId: Cold",
+  "text" : "Adaptive genetics with magnetic fields can be applied to Lichere metabolism, evolving it into hyper-reactivity to body heat, allowing survival in prior inhospitable environs. To accomplish this, fabricate an ^orange;I3 Tuning Chip ^white;for integration with an I1 Magnetic Field Emitter.",
+  "completionText" : "Random Fact: Hyper-reactive metabolisms can more readily place a healthy biology in danger of a variety of forms of consumption when the various kinds of hunger pangs, cravings, and digestive complications are ignored, or when nutrient-heavy calloric intake is substituted with flavor-prioritized foods.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "i3_magtuner_lr", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "3e_lr_heat.gearup",
+  "canBeAbandoned" : false
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "i3_magtuner_lr",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "i3_magtuner_lr.png",
+  "image" : "i3_magtuner_lr.png",
+  "shortdescription" : "I3 Mag-Field Tuner",
+  "description" : "A small, neural chip that modulates the magnetic micro-field of an I1 Magnetic Field Emitter, specifically to evolve a Lichere genome into metabolic hyper-reactivity.",
+  "learnBlueprintsOnPickup" : [ "i9_magtuner_lr" ]
+}

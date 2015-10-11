@@ -1,0 +1,14 @@
+{
+  "id" : "3c_lr_radiation.gearup",
+  "title" : "^red;Reaper IIIc: Radiation",
+  "text" : "Planetary radiation can be overcome with ozone-embedded cellular structures in the epidermal layer. To begin this genome evolution, ^green;Equipment Forge ^white;fabrication of an ^orange;I2 Tuning Chip ^white;will be necessary to modulate the field of an I1 Magnetic Field Emitter.",
+  "completionText" : "Random Fact: Overcoming planetary radiation does not yet address the issues of exploration across the innumerable temperature-inhospitable worlds.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "i2_magtuner_lr", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "3d_lr_cold.gearup",
+  "canBeAbandoned" : false
+}

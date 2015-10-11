@@ -1,0 +1,14 @@
+{
+  "id" : "3e_lr_heat.gearup",
+  "title" : "^red;Reaper IIIe: Heat",
+  "text" : "The external-most epidermal layer of Lichere biology can be evolved with gas-absorbant cellular compositions --and gas-generating when necessary-- for the purpose using gas-burning to regulate body and skin temperatures. To accomplish this, fabricate an ^orange;I9 Tuning Chip ^white;for integration with an I1 Magnetic Field Emitter.",
+  "completionText" : "Random Fact: External means to body-heat generation and regulation can mean significant reduction in fluid and calloric intake and ultimately more predictable, metabolic consumption rates.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "i9_magtuner_lr", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "",
+  "canBeAbandoned" : false
+}

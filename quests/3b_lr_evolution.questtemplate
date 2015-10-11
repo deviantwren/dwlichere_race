@@ -1,0 +1,14 @@
+{
+  "id" : "3b_lr_evolution.gearup",
+  "title" : "^red;Reaper IIIb: Evolution",
+  "text" : "Magnetic fields can be used to alter deoxyribonucleic acid and stem-cells; as such using an ^green;Equipment Forge ^white; to fabricate and neurally implant a ^orange;I2 Magnetic Field Emitter ^white;will allow personal pursuit of controlled and adaptive genetics in overcoming current species limitations.",
+  "completionText" : "Random Fact:.",
+  "completionConditions" : [
+    { "type" : "gather", "item" : "i1_magfield_lr", "count" : 1, "consume" : true }
+  ],
+  "moneyRange" : [100, 100],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "3c_lr_radiation.gearup",
+  "canBeAbandoned" : false
+}

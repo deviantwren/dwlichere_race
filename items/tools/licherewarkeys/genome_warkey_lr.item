@@ -1,0 +1,9 @@
+{
+  "itemName" : "genome_warkey_lr",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "licherewarkey.png",
+  "image" : "licherewarkey.png",
+  "shortdescription" : "^red;Genome-Tech WarKey^white;",
+  "description" : "Contains schematics related to the Lichere genome.",
+  "learnBlueprintsOnPickup" : [ "i2_magfield_lr" ]
+}

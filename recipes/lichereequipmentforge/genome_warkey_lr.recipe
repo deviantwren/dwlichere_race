@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "licheremindcore", "count" : 1 },
+    { "item" : "glowfibreblue_gl", "count" : 5 },
+    { "item" : "glowfibreyellow_gl", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "genome_warkey_lr",
+    "count" : 1
+  },
+  "groups" : [ "all", "tools", "licheretool", "licherefane" ]
+}

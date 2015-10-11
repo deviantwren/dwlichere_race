@@ -1,8 +1,8 @@
 {
   "id" : "3_lr_growthhormone.gearup",
-  "title" : "^red;Reaper IIIa: Hormones",
+  "title" : "^red;Reaper III: Hormones",
   "text" : "The development of your advanced lung can be accelerated with a localized injection of ^orange;CI372 Growth Hormone^white;.",
-  "completionText" : "Random fact: The Lichere are even more vicious than the Floran, but are far less volatile, as they are generally calculating and exacting in their behavior.",
+  "completionText" : "Random fact: The third layer of a Lichere Reaper's epidermis is composed of a strong endoskeletal cell that reacts to pressure, allowing the species to adapt to low-pressure and even no-pressure environs without risk of bodily harm.",
   "completionConditions" : [
     { "type" : "gather", "item" : "growthhormone_lr", "count" : 1, "consume" : true }
   ],

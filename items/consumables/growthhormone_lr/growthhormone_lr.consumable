@@ -5,8 +5,8 @@
   "inventoryIcon" : "growthhormone_lr.png",
   "description" : "Experimental growth hormone theorized to accelerate the typically late-stage development of a Lichere's advanced lung.",
   "shortdescription" : "CI372 Growth Hormone",
-  "pickupQuestTemplates" : [ "3b_lr_radiation.gearup" ],
-  "learnBlueprintsOnPickup" : [ "radiationhormone_lr" ],
+  "learnBlueprintsOnPickup" : [ "genome_warkey_lr" ],
+  "pickupQuestTemplates" : [ "3a_lr_genetics.gearup" ],
   "effects" : [ [
       {
         "effect" : "regeneration4",
