@@ -4,5 +4,5 @@
   "inventoryIcon" : "i9_magtuner_lr.png",
   "image" : "i9_magtuner_lr.png",
   "shortdescription" : "I9 Mag-Field Tuner",
-  "description" : "A small, neural chip that modulates the magnetic micro-field of an I1 Magnetic Field Emitter, specifically to evolve a Lichere genome with epidermal heat-shunting."
+  "description" : "Mag-field modulation chip for evolving epidermal heat-shunting via cellular gas-burn."
 }

@@ -4,6 +4,6 @@
   "inventoryIcon" : "i1_magfield_lr.png",
   "image" : "i1_magfield_lr.png",
   "shortdescription" : "I1 Magnetic Field Emitter",
-  "description" : "A small, neural implant that generates a magnetic micro-field capable of reducing localized radiation bombardment to safe levels.",
+  "description" : "Implant that alters genomes and stem cells with magnetc micro-fields.",
   "learnBlueprintsOnPickup" : [ "i2_magtuner_lr" ]
 }
