@@ -4,6 +4,6 @@
   "inventoryIcon" : "licherewarkey.png",
   "image" : "licherewarkey.png",
   "shortdescription" : "^red;Tech-1 WarKey - Channel^white;",
-  "description" : "Grants access to Lichere armor schematics optimizing energy channelling technology.",
+  "description" : "Grants access to Lichere armor schematics optimizing energy channelling tech.",
   "learnBlueprintsOnPickup" : [ "lr_tier1_3head", "lr_tier1_3bhead", "lr_tier1_3chead", "lr_tier1_3chest", "lr_tier1_3pants" ]
 }

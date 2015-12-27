@@ -4,6 +4,6 @@
   "inventoryIcon" : "licherewarkey.png",
   "image" : "licherewarkey.png",
   "shortdescription" : "^red;Tech-1 WarKey - Blend^white;",
-  "description" : "Grants access to Lichere armor schematics blending armor hardening and energy channelling technologies.",
+  "description" : "Grants access to Lichere armor schematics blending hardening and channelling tech.",
   "learnBlueprintsOnPickup" : [ "lr_tier1_2head", "lr_tier1_2chest", "lr_tier1_2pants" ]
 }

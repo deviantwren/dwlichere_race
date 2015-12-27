@@ -54,7 +54,7 @@ Flow input stabilized. 414 Teltastar Energy Array initializing.
         {
           "animation" : "refuse",
           "text" : "SystemNotice: ^orange;Configuration
-^white:Uploading file '414_teltastar_ea.cfg'. Energy conduit connections standing by for presence of ^orange;414 Teltastar Energy Array^white;.",
+^white;Uploading file '414_teltastar_ea.cfg'. Energy conduit connections standing by for presence of ^orange;414 Teltastar Energy Array^white;.",
           "speedModifier" : 0.8
         }
       ]

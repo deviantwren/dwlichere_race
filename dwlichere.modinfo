@@ -1,6 +1,6 @@
 {
   "name" : "dwlichere_race",
-  "version" : "Beta v. Pleased Giraffe - Update 5",
+  "version" : "Beta v. Glad Giraffe - Update 3",
   "path" : ".",
   "requires" : [ "dwccextender", "dwgrowlab" ],
   "metadata": {
@@ -11,6 +11,10 @@
 }
 
 //todolist
+//right now I feel like I'm in a waiting game for plant fibre; i want a way to get it that's not so chancy-oriented; killing is a rare drop it feels; and harvesting gets it so slowly
+//i need it for the ionic compression drive
+//ishurion 332 shows up in small artifice fane
+//maybe just 1 isolartope core in ionic compression drive
 //find something radiation-related on moon planets to be required in i2magtuner & i1; liquidfuel?
 //find something ore or cold-related on radiation planets to be required in i3magtuner; plutonium?
 //find something gaseous-related on a cold planet to be required in i9magtuner; where are ocean planets?
